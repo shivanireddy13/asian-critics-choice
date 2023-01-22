@@ -1,0 +1,1771 @@
+,Unnamed: 0,movie_name,movie_rank,movie_year,movie_dir,critic_name,critic_org,critic_cn
+0,0, Mulholland Drive ,1,2001,David Lynch,Simon Abrams,Freelance film critic,US
+1,1, In the Mood for Love ,2,2000,Wong Kar-wai,Simon Abrams,Freelance film critic,US
+2,2, The Tree of Life ,3,2011,Terrence Malick,Simon Abrams,Freelance film critic,US
+3,3, Yi Yi: A One and a Two ,4,2000,Edward Yang,Simon Abrams,Freelance film critic,US
+4,4, Goodbye to Language ,5,2014,Jean-Luc Godard,Simon Abrams,Freelance film critic,US
+5,5, The White Meadows ,6,2009,Mohammad Rasoulof,Simon Abrams,Freelance film critic,US
+6,6, Night Across the Street ,7,2012,Raoul Ruiz,Simon Abrams,Freelance film critic,US
+7,7, Certified Copy ,8,2010,Abbas Kiarostami,Simon Abrams,Freelance film critic,US
+8,8, Sparrow ,9,2008,Johnnie To,Simon Abrams,Freelance film critic,US
+9,9, Fados ,10,2007,Carlos Saura,Simon Abrams,Freelance film critic,US
+10,10, In the Mood for Love ,1,2000,Wong Kar-wai,Sam Adams,Freelance film critic,US
+11,11, Eternal Sunshine of the Spotless Mind ,2,2004,Michel Gondry,Sam Adams,Freelance film critic,US
+12,12, Syndromes and a Century ,3,2006,Apichatpong Weerasethakul,Sam Adams,Freelance film critic,US
+13,13, Spirited Away ,4,2001,Hayao Miyazaki,Sam Adams,Freelance film critic,US
+14,14, The Act of Killing ,5,2012,Joshua Oppenheimer,Sam Adams,Freelance film critic,US
+15,15, The Grand Budapest Hotel ,6,2014,Wes Anderson,Sam Adams,Freelance film critic,US
+16,16, The New World ,7,2004,Terrence Malick,Sam Adams,Freelance film critic,US
+17,17, Certified Copy ,8,2010,Abbas Kiarostami,Sam Adams,Freelance film critic,US
+18,18, The World ,9,2004,Jia Zhangke,Sam Adams,Freelance film critic,US
+19,19, Elephant ,10,2003,Gus Van Sant,Sam Adams,Freelance film critic,US
+20,20, Zero Dark Thirty ,1,2012,Kathryn Bigelow,Thelma Adams,Freelance film critic,US
+21,21, A History of Violence ,2,2005,David Cronenberg,Thelma Adams,Freelance film critic,US
+22,22, The Grand Budapest Hotel ,3,2014,Wes Anderson,Thelma Adams,Freelance film critic,US
+23,23, Stories We Tell ,4,2012,Sarah Polley,Thelma Adams,Freelance film critic,US
+24,24, Casino Royale ,5,2006,Martin Campbell,Thelma Adams,Freelance film critic,US
+25,25, Eternal Sunshine of the Spotless Mind ,6,2004,Michel Gondry,Thelma Adams,Freelance film critic,US
+26,26, Tabu ,7,2012,Miguel Gomes,Thelma Adams,Freelance film critic,US
+27,27, Snow White ,8,2012,Pablo Berger,Thelma Adams,Freelance film critic,US
+28,28, Frozen River ,9,2008,Courtney Hunt,Thelma Adams,Freelance film critic,US
+29,29, Gosford Park ,10,2001,Robert Altman,Thelma Adams,Freelance film critic,US
+30,30, In the Mood for Love ,1,2000,Wong Kar-wai,Arturo Aguilar,Rolling Stone Mexico,Mexico
+31,31, Mulholland Drive ,2,2001,David Lynch,Arturo Aguilar,Rolling Stone Mexico,Mexico
+32,32, Inception ,3,2010,Christopher Nolan,Arturo Aguilar,Rolling Stone Mexico,Mexico
+33,33, Pan's Labyrinth ,4,2006,Guillermo Del Toro,Arturo Aguilar,Rolling Stone Mexico,Mexico
+34,34, Caché ,5,2005,Michael Haneke,Arturo Aguilar,Rolling Stone Mexico,Mexico
+35,35, Grizzly Man ,6,2005,Werner Herzog,Arturo Aguilar,Rolling Stone Mexico,Mexico
+36,36," 4 Months, 3 Weeks & 2 Days ",7,2007,Cristian Mungiu,Arturo Aguilar,Rolling Stone Mexico,Mexico
+37,37, Holy Motors ,8,2012,Leos Carax,Arturo Aguilar,Rolling Stone Mexico,Mexico
+38,38, The Last of the Unjust ,9,2013,Claude Lanzmann,Arturo Aguilar,Rolling Stone Mexico,Mexico
+39,39, There Will Be Blood ,10,2007,Paul Thomas Anderson,Arturo Aguilar,Rolling Stone Mexico,Mexico
+40,40, The Piano Teacher ,1,2001,Michael Haneke,Matthew Anderson,BBC Culture,UK
+41,41, Margaret ,2,2011,Kenneth Lonergan,Matthew Anderson,BBC Culture,UK
+42,42, American Psycho ,3,2000,Mary Harron,Matthew Anderson,BBC Culture,UK
+43,43," 4 Months, 3 Weeks & 2 Days ",4,2007,Cristian Mungiu,Matthew Anderson,BBC Culture,UK
+44,44, Caché ,5,2005,Michael Haneke,Matthew Anderson,BBC Culture,UK
+45,45, Mulholland Drive ,6,2001,David Lynch,Matthew Anderson,BBC Culture,UK
+46,46, Lourdes ,7,2009,Jessica Hausner,Matthew Anderson,BBC Culture,UK
+47,47, Red Road ,8,2006,Andrea Arnold,Matthew Anderson,BBC Culture,UK
+48,48, Boyhood ,9,2014,Richard Linklater,Matthew Anderson,BBC Culture,UK
+49,49, Tony Manero ,10,2008,Pablo Larraín,Matthew Anderson,BBC Culture,UK
+50,50, No Country For Old Men ,1,2007,Joel and Ethan Coen,Tim Appelo,The Wrap,US
+51,51, Spirited Away ,2,2001,Hayao Miyazaki,Tim Appelo,The Wrap,US
+52,52, A Separation ,3,2011,Asghar Farhadi,Tim Appelo,The Wrap,US
+53,53, Pan's Labyrinth ,4,2006,Guillermo Del Toro,Tim Appelo,The Wrap,US
+54,54, Finding Nemo ,5,2003,Andrew Stanton and Lee Unkrich,Tim Appelo,The Wrap,US
+55,55, Hero ,6,2002,Zhang Yimou,Tim Appelo,The Wrap,US
+56,56, The Wolf of Wall Street ,7,2013,Martin Scorsese,Tim Appelo,The Wrap,US
+57,57, Mother ,8,2009,Bong Joon-ho,Tim Appelo,The Wrap,US
+58,58, The Bourne Ultimatum ,9,2007,Paul Greengrass,Tim Appelo,The Wrap,US
+59,59, Traffic ,10,2000,Steven Soderbergh,Tim Appelo,The Wrap,US
+60,60, These Encounters of Theirs ,1,2006,Danièle Huillet and Jean-Marie Straub,Adriano Aprà,Film historian,Italy
+61,61, Vincere ,2,2009,Marco Bellocchio,Adriano Aprà,Film historian,Italy
+62,62, Le quattro volte ,3,2010,Michelangelo Frammartino,Adriano Aprà,Film historian,Italy
+63,63, The Profession of Arms ,4,2001,Ermanno Olmi,Adriano Aprà,Film historian,Italy
+64,64, Gostanza da Libbiano ,5,2000,Paolo Benvenuti,Adriano Aprà,Film historian,Italy
+65,65, Storia di una donna amata e di un assassino gentile ,6,2009,Luigi M. Faccini,Adriano Aprà,Film historian,Italy
+66,66, At the First Breath of Wind ,7,2003,Franco Piavoli,Adriano Aprà,Film historian,Italy
+67,67, Sangue ,8,2013,Pippo Delbono,Adriano Aprà,Film historian,Italy
+68,68, Terra ,9,2015,Marco De Angelis and Antonio Di Trapani,Adriano Aprà,Film historian,Italy
+69,69, Oh! Man ,10,2004,Yervant Gianikian and Angela Ricci Lucchi,Adriano Aprà,Film historian,Italy
+70,70," Synecdoche, New York ",1,2008,Charlie Kaufman,Michael Arbeiter,Nerdist,US
+71,71, Mulholland Drive ,2,2001,David Lynch,Michael Arbeiter,Nerdist,US
+72,72, Eternal Sunshine of the Spotless Mind ,3,2004,Michel Gondry,Michael Arbeiter,Nerdist,US
+73,73, Black Swan ,4,2010,Darren Aronofsky,Michael Arbeiter,Nerdist,US
+74,74, The Comedy ,5,2012,Rick Alverson,Michael Arbeiter,Nerdist,US
+75,75, Melancholia ,6,2011,Lars von Trier,Michael Arbeiter,Nerdist,US
+76,76, Inglourious Basterds ,7,2009,Quentin Tarantino,Michael Arbeiter,Nerdist,US
+77,77, Inside Llewyn Davis ,8,2013,Joel and Ethan Coen,Michael Arbeiter,Nerdist,US
+78,78, Only Lovers Left Alive ,9,2013,Jim Jarmusch,Michael Arbeiter,Nerdist,US
+79,79, The Congress ,10,2013,Ari Folman,Michael Arbeiter,Nerdist,US
+80,80, The Master ,1,2012,Paul Thomas Anderson,Ali Arikan,Dipnot TV,Turkey
+81,81, 25th Hour ,2,2002,Spike Lee,Ali Arikan,Dipnot TV,Turkey
+82,82, 24 Hour Party People ,3,2002,Michael Winterbottom,Ali Arikan,Dipnot TV,Turkey
+83,83, Mulholland Drive ,4,2001,David Lynch,Ali Arikan,Dipnot TV,Turkey
+84,84, Once Upon a Time in Anatolia ,5,2011,Nuri Bilge Ceylan,Ali Arikan,Dipnot TV,Turkey
+85,85, Zodiac ,6,2007,David Fincher,Ali Arikan,Dipnot TV,Turkey
+86,86, A Serious Man ,7,2009,Joel and Ethan Coen,Ali Arikan,Dipnot TV,Turkey
+87,87, Tinker Tailor Soldier Spy ,8,2011,Tomas Alfredson,Ali Arikan,Dipnot TV,Turkey
+88,88, Primer ,9,2004,Shane Carruth,Ali Arikan,Dipnot TV,Turkey
+89,89, In the Mood for Love ,10,2000,Wong Kar-wai,Ali Arikan,Dipnot TV,Turkey
+90,90," La commune (Paris, 1871) ",1,"1871', '2000","Paris, 1871) (Peter Watkins",Michael Atkinson,The Village Voice,US
+91,91, Uncle Boonmee Who Can Recall His Past Lives ,2,2010,Apichatpong Weerasethakul,Michael Atkinson,The Village Voice,US
+92,92, 2046 ,3,2004,Wong Kar-wai,Michael Atkinson,The Village Voice,US
+93,93, Adaptation ,4,2002,Spike Jonze,Michael Atkinson,The Village Voice,US
+94,94, Battle in Heaven ,5,2005,Carlos Reygadas,Michael Atkinson,The Village Voice,US
+95,95, Caché ,6,2005,Michael Haneke,Michael Atkinson,The Village Voice,US
+96,96, Inland Empire ,7,2006,David Lynch,Michael Atkinson,The Village Voice,US
+97,97, Mulholland Drive ,8,2001,David Lynch,Michael Atkinson,The Village Voice,US
+98,98, Mysteries of Lisbon ,9,2010,Raoul Ruiz,Michael Atkinson,The Village Voice,US
+99,99, Eternal Sunshine of the Spotless Mind ,10,2004,Michel Gondry,Michael Atkinson,The Village Voice,US
+100,100, There Will Be Blood ,1,2007,Paul Thomas Anderson,Ana Maria Bahiana,Freelance film critic,Brazil
+101,101, Mulholland Drive ,2,2001,David Lynch,Ana Maria Bahiana,Freelance film critic,Brazil
+102,102, Children of Men ,3,2006,Alfonso Cuarón,Ana Maria Bahiana,Freelance film critic,Brazil
+103,103, City of God ,4,2002,Fernando Meirelles and Kátia Lund,Ana Maria Bahiana,Freelance film critic,Brazil
+104,104, Pan's Labyrinth ,5,2006,Guillermo Del Toro,Ana Maria Bahiana,Freelance film critic,Brazil
+105,105, Inception ,6,2010,Christopher Nolan,Ana Maria Bahiana,Freelance film critic,Brazil
+106,106, The Incredibles ,7,2004,Brad Bird,Ana Maria Bahiana,Freelance film critic,Brazil
+107,107, Birdman ,8,2014,Alejandro González Iñárritu,Ana Maria Bahiana,Freelance film critic,Brazil
+108,108, No Country For Old Men ,9,2007,Joel and Ethan Coen,Ana Maria Bahiana,Freelance film critic,Brazil
+109,109, Brokeback Mountain ,10,2005,Ang Lee,Ana Maria Bahiana,Freelance film critic,Brazil
+110,110, In the Mood for Love ,1,2000,Wong Kar-wai,Cameron Bailey,Toronto Film Festival,Canada
+111,111, 12 Years a Slave ,2,2013,Steve McQueen,Cameron Bailey,Toronto Film Festival,Canada
+112,112, Spirited Away ,3,2001,Hayao Miyazaki,Cameron Bailey,Toronto Film Festival,Canada
+113,113, Fish Tank ,4,2009,Andrea Arnold,Cameron Bailey,Toronto Film Festival,Canada
+114,114, Mommy ,5,2014,Xavier Dolan,Cameron Bailey,Toronto Film Festival,Canada
+115,115, Talk to Her ,6,2002,Pedro Almodóvar,Cameron Bailey,Toronto Film Festival,Canada
+116,116, Timbuktu ,7,2014,Abderrahmane Sissako,Cameron Bailey,Toronto Film Festival,Canada
+117,117, Selma ,8,2014,Ava DuVernay,Cameron Bailey,Toronto Film Festival,Canada
+118,118, The White Ribbon ,9,2009,Michael Haneke,Cameron Bailey,Toronto Film Festival,Canada
+119,119, The Headless Woman ,10,2008,Lucrecia Martel,Cameron Bailey,Toronto Film Festival,Canada
+120,120, The Royal Tenenbaums ,1,2001,Wes Anderson,Lindsay Baker,BBC Culture,UK
+121,121, Far From Heaven ,2,2002,Todd Haynes,Lindsay Baker,BBC Culture,UK
+122,122, Moonrise Kingdom ,3,2012,Wes Anderson,Lindsay Baker,BBC Culture,UK
+123,123, Lost in Translation ,4,2003,Sofia Coppola,Lindsay Baker,BBC Culture,UK
+124,124, A Single Man ,5,2009,Tom Ford,Lindsay Baker,BBC Culture,UK
+125,125, Spirited Away ,6,2001,Hayao Miyazaki,Lindsay Baker,BBC Culture,UK
+126,126, Toy Story 3 ,7,2010,Lee Unkrich,Lindsay Baker,BBC Culture,UK
+127,127, Eternal Sunshine of the Spotless Mind ,8,2004,Michel Gondry,Lindsay Baker,BBC Culture,UK
+128,128, I Am Love ,9,2009,Luca Guadagnino,Lindsay Baker,BBC Culture,UK
+129,129, Donnie Darko ,10,2001,Richard Kelly,Lindsay Baker,BBC Culture,UK
+130,130, Inherent Vice ,1,2014,Paul Thomas Anderson,Miriam Bale,Freelance film critic,US
+131,131, Film socialisme ,2,2010,Jean-Luc Godard,Miriam Bale,Freelance film critic,US
+132,132, A History of Violence ,3,2005,David Cronenberg,Miriam Bale,Freelance film critic,US
+133,133, This Is the End ,4,2013,Evan Goldberg and Seth Rogen,Miriam Bale,Freelance film critic,US
+134,134, Somewhere ,5,2010,Sofia Coppola,Miriam Bale,Freelance film critic,US
+135,135, Holy Motors ,6,2012,Leos Carax,Miriam Bale,Freelance film critic,US
+136,136, Almayer's Folly ,7,2011,Chantal Akerman,Miriam Bale,Freelance film critic,US
+137,137, Inside Llewyn Davis ,8,2013,Joel and Ethan Coen,Miriam Bale,Freelance film critic,US
+138,138, The Story of Marie and Julien ,9,2003,Jacques Rivette,Miriam Bale,Freelance film critic,US
+139,139, Bamboozled ,10,2000,Spike Lee,Miriam Bale,Freelance film critic,US
+140,140, Boyhood ,1,2014,Richard Linklater,Nicholas Barber,BBC Culture,UK
+141,141, Under the Skin ,2,2013,Jonathan Glazer,Nicholas Barber,BBC Culture,UK
+142,142, Anomalisa ,3,2015,Duke Johnson and Charlie Kaufman,Nicholas Barber,BBC Culture,UK
+143,143, 12 Years a Slave ,4,2013,Steve McQueen,Nicholas Barber,BBC Culture,UK
+144,144, Madagascar 3: Europe's Most Wanted ,5,2012,"Eric Darnell, Tom McGrath and Conrad Vernon",Nicholas Barber,BBC Culture,UK
+145,145, Another Year ,6,2010,Mike Leigh,Nicholas Barber,BBC Culture,UK
+146,146, The Diving Bell and the Butterfly ,7,2007,Julian Schnabel,Nicholas Barber,BBC Culture,UK
+147,147, Children of Men ,8,2006,Alfonso Cuarón,Nicholas Barber,BBC Culture,UK
+148,148, The Social Network ,9,2010,David Fincher,Nicholas Barber,BBC Culture,UK
+149,149, A Separation ,10,2011,Asghar Farhadi,Nicholas Barber,BBC Culture,UK
+150,150, WALL-E ,1,2008,Andrew Stanton,Diego Batlle,La Nacion,Argentina
+151,151, In the Mood for Love ,2,2000,Wong Kar-wai,Diego Batlle,La Nacion,Argentina
+152,152, Spirited Away ,3,2001,Hayao Miyazaki,Diego Batlle,La Nacion,Argentina
+153,153, Boyhood ,4,2014,Richard Linklater,Diego Batlle,La Nacion,Argentina
+154,154, The Son's Room ,5,2001,Nanni Moretti,Diego Batlle,La Nacion,Argentina
+155,155, Extraordinary Stories ,6,2008,Mariano Llinás,Diego Batlle,La Nacion,Argentina
+156,156, Mulholland Drive ,7,2001,David Lynch,Diego Batlle,La Nacion,Argentina
+157,157, The Social Network ,8,2010,David Fincher,Diego Batlle,La Nacion,Argentina
+158,158, Elephant ,9,2003,Gus Van Sant,Diego Batlle,La Nacion,Argentina
+159,159, Uncle Boonmee Who Can Recall His Past Lives ,10,2010,Apichatpong Weerasethakul,Diego Batlle,La Nacion,Argentina
+160,160, Mulholland Drive ,1,2001,David Lynch,NT Binh,Positif,France
+161,161, Talk to Her ,2,2002,Pedro Almodóvar,NT Binh,Positif,France
+162,162, The Assassin ,3,2015,Hou Hsiao-hsien,NT Binh,Positif,France
+163,163, Million Dollar Baby ,4,2004,Clint Eastwood,NT Binh,Positif,France
+164,164, In the Mood for Love ,5,2000,Wong Kar-wai,NT Binh,Positif,France
+165,165, Leviathan ,6,2014,Andrey Zvyagintsev,NT Binh,Positif,France
+166,166, A Touch of Sin ,7,2013,Jia Zhangke,NT Binh,Positif,France
+167,167, Distant ,8,2002,Nuri Bilge Ceylan,NT Binh,Positif,France
+168,168, The New World ,9,2005,Terrence Malick,NT Binh,Positif,France
+169,169, A Prophet ,10,2009,Jacques Audiard,NT Binh,Positif,France
+170,170, Timbuktu ,1,2014,Abderrahmane Sissako,Lizelle Bisschoff,University of Glasgow,UK
+171,171, Blue Is the Warmest Color ,2,2013,Abdellatif Kechiche,Lizelle Bisschoff,University of Glasgow,UK
+172,172, Moolaadé ,3,2004,Ousmane Sembèène,Lizelle Bisschoff,University of Glasgow,UK
+173,173, A Separation ,4,2011,Asghar Farhadi,Lizelle Bisschoff,University of Glasgow,UK
+174,174, The Secret in Their Eyes ,5,2009,Juan José Campanella,Lizelle Bisschoff,University of Glasgow,UK
+175,175, Oldboy ,6,2003,Park Chan-wook,Lizelle Bisschoff,University of Glasgow,UK
+176,176, In the Mood for Love ,7,2000,Wong Kar-wai,Lizelle Bisschoff,University of Glasgow,UK
+177,177, Fat Girl ,8,2001,Catherine Breillat,Lizelle Bisschoff,University of Glasgow,UK
+178,178, The Orphanage ,9,2007,J. A. Bayona,Lizelle Bisschoff,University of Glasgow,UK
+179,179, The Hunt ,10,2012,Thomas Vinterberg,Lizelle Bisschoff,University of Glasgow,UK
+180,180, Spring Breakers ,1,2012,Harmony Korine,Christian Blauvelt,BBC Culture,US
+181,181, My Winnipeg ,2,2007,Guy Maddin,Christian Blauvelt,BBC Culture,US
+182,182, The Ghost Writer ,3,2010,Roman Polanski,Christian Blauvelt,BBC Culture,US
+183,183, Moulin Rouge! ,4,2001,Baz Luhrmann,Christian Blauvelt,BBC Culture,US
+184,184, Star Wars: Episode III – Revenge of the Sith ,5,2005,George Lucas,Christian Blauvelt,BBC Culture,US
+185,185, Manakamana ,6,2013,Pacho Velez and Stephanie Spray,Christian Blauvelt,BBC Culture,US
+186,186, The Curious Case of Benjamin Button ,7,2008,David Fincher,Christian Blauvelt,BBC Culture,US
+187,187," You, The Living ",8,2007,Roy Andersson,Christian Blauvelt,BBC Culture,US
+188,188, Mother ,9,2009,Bong Joon-ho,Christian Blauvelt,BBC Culture,US
+189,189, A Serious Man ,10,2009,Joel and Ethan Coen,Christian Blauvelt,BBC Culture,US
+190,190, Moolaadé ,1,2004,Ousmane Sembène,Mahen Bonetti,African Film Festival Inc,US
+191,191, Timbuktu ,2,2014,Abderrahmane Sissako,Mahen Bonetti,African Film Festival Inc,US
+192,192, Cuba: An African Odyssey ,3,2007,Jihan El-Tahri,Mahen Bonetti,African Film Festival Inc,US
+193,193," Sexe, gombo et beurre salé ",4,2008,Mahamat-Saleh Haroun,Mahen Bonetti,African Film Festival Inc,US
+194,194, Shoot the Messenger ,5,2006,Ngozi Onwurah,Mahen Bonetti,African Film Festival Inc,US
+195,195, Red Leaves ,6,2014,Bazi Gete,Mahen Bonetti,African Film Festival Inc,US
+196,196, The Colonial Misunderstanding ,7,2004,Jean-Marie Téno,Mahen Bonetti,African Film Festival Inc,US
+197,197, Restless City ,8,2011,Andrew Dosunmu,Mahen Bonetti,African Film Festival Inc,US
+198,198, Conversations on a Sunday Afternoon ,9,2005,Khalo Matabane,Mahen Bonetti,African Film Festival Inc,US
+199,199, Belle ,10,2013,Amma Asante,Mahen Bonetti,African Film Festival Inc,US
+200,200, Requiem for a Dream ,1,2000,Darren Aronofsky,Andreas Borcholte,Spiegel Online,Germany
+201,201, Antichrist ,2,2009,Lars von Trier,Andreas Borcholte,Spiegel Online,Germany
+202,202, Children of Men ,3,2006,Alfonso Cuarón,Andreas Borcholte,Spiegel Online,Germany
+203,203, The Child ,4,2005,Jean-Pierre and Luc Dardenne,Andreas Borcholte,Spiegel Online,Germany
+204,204, No Country For Old Men ,5,2007,Joel and Ethan Coen,Andreas Borcholte,Spiegel Online,Germany
+205,205, Fish Tank ,6,2009,Andrea Arnold,Andreas Borcholte,Spiegel Online,Germany
+206,206, The Tree of Life ,7,2011,Terrence Malick,Andreas Borcholte,Spiegel Online,Germany
+207,207, Inception ,8,2010,Christopher Nolan,Andreas Borcholte,Spiegel Online,Germany
+208,208, Kill Bill: Vol. 1 ,9,2003,Quentin Tarantino,Andreas Borcholte,Spiegel Online,Germany
+209,209, Irreversible ,10,2002,Gaspar Noé,Andreas Borcholte,Spiegel Online,Germany
+210,210, Amour ,1,2012,Michael Haneke,Utpal Borpujari,Freelance film critic,India
+211,211, A Separation ,2,2011,Asghar Farhadi,Utpal Borpujari,Freelance film critic,India
+212,212, In the Mood for Love ,3,2000,Wong Kar-wai,Utpal Borpujari,Freelance film critic,India
+213,213, A Prophet ,4,2009,Jacques Audiard,Utpal Borpujari,Freelance film critic,India
+214,214, Monsoon Wedding ,5,2001,Mira Nair,Utpal Borpujari,Freelance film critic,India
+215,215, Son of Saul ,6,2015,László Nemes,Utpal Borpujari,Freelance film critic,India
+216,216, Thithi ,7,2015,Raam Reddy,Utpal Borpujari,Freelance film critic,India
+217,217, Blue Is the Warmest Color ,8,2013,Abdellatif Kechiche,Utpal Borpujari,Freelance film critic,India
+218,218, No Man's Land ,9,2001,Danis Tanovic,Utpal Borpujari,Freelance film critic,India
+219,219, Waltz with Bashir ,10,2008,Ari Folman,Utpal Borpujari,Freelance film critic,India
+220,220, In Praise of Love ,1,2001,Jean-Luc Godard,Richard Brody,The New Yorker,US
+221,221, The Wolf of Wall Street ,2,2013,Martin Scorsese,Richard Brody,The New Yorker,US
+222,222, The Last of the Unjust ,3,2013,Claude Lanzmann,Richard Brody,The New Yorker,US
+223,223, Like Someone In Love ,4,2012,Abbas Kiarostami,Richard Brody,The New Yorker,US
+224,224, The Grand Budapest Hotel ,5,2014,Wes Anderson,Richard Brody,The New Yorker,US
+225,225, Butter on the Latch ,6,2013,Josephine Decker,Richard Brody,The New Yorker,US
+226,226, Heaven Knows What ,7,2014,Josh and Benny Safdie,Richard Brody,The New Yorker,US
+227,227, The Future ,8,2011,Miranda July,Richard Brody,The New Yorker,US
+228,228, Holy Motors ,9,2012,Leos Carax,Richard Brody,The New Yorker,US
+229,229, Coma ,10,2015,Sara Fattahi,Richard Brody,The New Yorker,US
+230,230," 4 Months, 3 Weeks & 2 Days ",1,2007,Cristian Mungiu,Hannah Brown,Jerusalem Post,Israel
+231,231, The Royal Tenenbaums ,2,2001,Wes Anderson,Hannah Brown,Jerusalem Post,Israel
+232,232, No Country For Old Men ,3,2007,Joel and Ethan Coen,Hannah Brown,Jerusalem Post,Israel
+233,233, Waltz with Bashir ,4,2008,Ari Folman,Hannah Brown,Jerusalem Post,Israel
+234,234, The Matchmaker ,5,2010,Avi Nesher,Hannah Brown,Jerusalem Post,Israel
+235,235, Footnote ,6,2011,Joseph Cedar,Hannah Brown,Jerusalem Post,Israel
+236,236, The Son ,7,2002,Jean-Pierre and Luc Dardenne,Hannah Brown,Jerusalem Post,Israel
+237,237, In the Mood for Love ,8,2000,Wong Kar-wai,Hannah Brown,Jerusalem Post,Israel
+238,238, You Can Count On Me ,9,2000,Kenneth Lonergan,Hannah Brown,Jerusalem Post,Israel
+239,239, Yossi & Jagger ,10,2002,Eytan Fox,Hannah Brown,Jerusalem Post,Israel
+240,240, Mulholland Drive ,1,2001,David Lynch,Luke Buckmaster,The Guardian/BBC Culture,Australia
+241,241, There Will Be Blood ,2,2007,Paul Thomas Anderson,Luke Buckmaster,The Guardian/BBC Culture,Australia
+242,242," O Brother, Where Art Thou? ",3,2000,Joel and Ethan Coen,Luke Buckmaster,The Guardian/BBC Culture,Australia
+243,243, Spirited Away ,4,2001,Hayao Miyazaki,Luke Buckmaster,The Guardian/BBC Culture,Australia
+244,244, Children of Men ,5,2006,Alfonso Cuarón,Luke Buckmaster,The Guardian/BBC Culture,Australia
+245,245, In the Mood for Love ,6,2000,Wong Kar-wai,Luke Buckmaster,The Guardian/BBC Culture,Australia
+246,246, The Babadook ,7,2014,Jennifer Kent,Luke Buckmaster,The Guardian/BBC Culture,Australia
+247,247, A Separation ,8,2011,Asghar Farhadi,Luke Buckmaster,The Guardian/BBC Culture,Australia
+248,248, Caché ,9,2005,Michael Haneke,Luke Buckmaster,The Guardian/BBC Culture,Australia
+249,249, Boyhood ,10,2014,Richard Linklater,Luke Buckmaster,The Guardian/BBC Culture,Australia
+250,250, The White Ribbon ,1,2009,Michael Haneke,Luciano Castillo,Cinemateca de Cuba,Cuba
+251,251, In the Mood for Love ,2,2000,Wong Kar-wai,Luciano Castillo,Cinemateca de Cuba,Cuba
+252,252," Spring, Summer, Fall, Winter…and Spring ",3,2003,Kim Ki-duk,Luciano Castillo,Cinemateca de Cuba,Cuba
+253,253, Melancholia ,4,2011,Lars von Trier,Luciano Castillo,Cinemateca de Cuba,Cuba
+254,254, Elephant ,5,2003,Gus Van Sant,Luciano Castillo,Cinemateca de Cuba,Cuba
+255,255, Russian Ark ,6,2002,Aleksandr Sokurov,Luciano Castillo,Cinemateca de Cuba,Cuba
+256,256, City of God ,7,2002,Fernando Meirelles and Kátia Lund,Luciano Castillo,Cinemateca de Cuba,Cuba
+257,257, A Prophet ,8,2009,Jacques Audiard,Luciano Castillo,Cinemateca de Cuba,Cuba
+258,258," 4 Months, 3 Weeks & 2 Days ",9,2007,Cristian Mungiu,Luciano Castillo,Cinemateca de Cuba,Cuba
+259,259, Inside Out ,10,2015,Pete Docter,Luciano Castillo,Cinemateca de Cuba,Cuba
+260,260, Inside Llewyn Davis ,1,2013,Joel and Ethan Coen,Monica Castillo,New York Times Watching,US
+261,261, Persepolis ,2,2007,Vincent Paronnaud and Marjane Satrapi,Monica Castillo,New York Times Watching,US
+262,262, Fish Tank ,3,2009,Andrea Arnold,Monica Castillo,New York Times Watching,US
+263,263, Pan's Labyrinth ,4,2006,Guillermo Del Toro,Monica Castillo,New York Times Watching,US
+264,264, In the Mood for Love ,5,2000,Wong Kar-wai,Monica Castillo,New York Times Watching,US
+265,265, Spirited Away ,6,2001,Hayao Miyazaki,Monica Castillo,New York Times Watching,US
+266,266, Mad Max: Fury Road ,7,2015,George Miller,Monica Castillo,New York Times Watching,US
+267,267, Attack the Block ,8,2011,Joe Cornish,Monica Castillo,New York Times Watching,US
+268,268, Eternal Sunshine of the Spotless Mind ,9,2004,Michel Gondry,Monica Castillo,New York Times Watching,US
+269,269, The Royal Tenenbaums ,10,2001,Wes Anderson,Monica Castillo,New York Times Watching,US
+270,270, The Secret in Their Eyes ,1,2009,Juan José Campanella,Samuel Castro,El Colombiano,Colombia
+271,271, Before Sunset ,2,2004,Richard Linklater,Samuel Castro,El Colombiano,Colombia
+272,272, Eternal Sunshine of the Spotless Mind ,3,2004,Michel Gondry,Samuel Castro,El Colombiano,Colombia
+273,273, Ratatouille ,4,2007,Brad Bird and Jan Pinkava,Samuel Castro,El Colombiano,Colombia
+274,274, Stories We Tell ,5,2012,Sarah Polley,Samuel Castro,El Colombiano,Colombia
+275,275, Pan's Labyrinth ,6,2006,Guillermo Del Toro,Samuel Castro,El Colombiano,Colombia
+276,276, Amores Perros ,7,2000,Alejandro González Iñárritu,Samuel Castro,El Colombiano,Colombia
+277,277, A Separation ,8,2011,Asghar Farhadi,Samuel Castro,El Colombiano,Colombia
+278,278, Minority Report ,9,2002,Steven Spielberg,Samuel Castro,El Colombiano,Colombia
+279,279, Moulin Rouge! ,10,2001,Baz Luhrmann,Samuel Castro,El Colombiano,Colombia
+280,280, Mulholland Drive ,1,2001,David Lynch,Justin Chang,Los Angeles Times,US
+281,281, The Tree of Life ,2,2011,Terrence Malick,Justin Chang,Los Angeles Times,US
+282,282, In the Mood for Love ,3,2000,Wong Kar-wai,Justin Chang,Los Angeles Times,US
+283,283, Boyhood ,4,2014,Richard Linklater,Justin Chang,Los Angeles Times,US
+284,284, Secret Sunshine ,5,2007,Lee Chang-dong,Justin Chang,Los Angeles Times,US
+285,285, Zodiac ,6,2007,David Fincher,Justin Chang,Los Angeles Times,US
+286,286, The Dark Knight ,7,2008,Christopher Nolan,Justin Chang,Los Angeles Times,US
+287,287, The Son ,8,2002,Jean-Pierre and Luc Dardenne,Justin Chang,Los Angeles Times,US
+288,288, Brokeback Mountain ,9,2005,Ang Lee,Justin Chang,Los Angeles Times,US
+289,289, 35 Shots of Rum ,10,2008,Claire Denis,Justin Chang,Los Angeles Times,US
+290,290, The Three Burials of Melquiades Estrada ,1,2005,Tommy Lee Jones,Enrico Chiesa,AfricaFilms.TV,Senegal
+291,291, There Will Be Blood ,2,2007,Paul Thomas Anderson,Enrico Chiesa,AfricaFilms.TV,Senegal
+292,292, A Separation ,3,2011,Asghar Farhadi,Enrico Chiesa,AfricaFilms.TV,Senegal
+293,293, Birdman ,4,2014,Alejandro González Iñárritu,Enrico Chiesa,AfricaFilms.TV,Senegal
+294,294, The Blind Swordsman: Zatoichi ,5,2003,Takeshi Kitano,Enrico Chiesa,AfricaFilms.TV,Senegal
+295,295, Mommy ,6,2014,Xavier Dolan,Enrico Chiesa,AfricaFilms.TV,Senegal
+296,296, Dancer in the Dark ,7,2000,Lars von Trier,Enrico Chiesa,AfricaFilms.TV,Senegal
+297,297, Tey ,8,2012,Alain Gomis,Enrico Chiesa,AfricaFilms.TV,Senegal
+298,298, Sweet Sixteen ,9,2002,Ken Loach,Enrico Chiesa,AfricaFilms.TV,Senegal
+299,299, Ezra ,10,2007,Newton I. Aduaka,Enrico Chiesa,AfricaFilms.TV,Senegal
+300,300, No Country For Old Men ,1,2007,Joel and Ethan Coen,Cho Seongyong,Freelance film critic,South Korea
+301,301, Boyhood ,2,2014,Richard Linklater,Cho Seongyong,Freelance film critic,South Korea
+302,302, Mulholland Drive ,3,2001,David Lynch,Cho Seongyong,Freelance film critic,South Korea
+303,303, Almost Famous ,4,2000,Cameron Crowe,Cho Seongyong,Freelance film critic,South Korea
+304,304," Synecdoche, New York ",5,2008,Charlie Kaufman,Cho Seongyong,Freelance film critic,South Korea
+305,305, Pan's Labyrinth ,6,2006,Guillermo Del Toro,Cho Seongyong,Freelance film critic,South Korea
+306,306, Minority Report ,7,2002,Steven Spielberg,Cho Seongyong,Freelance film critic,South Korea
+307,307, The Social Network ,8,2010,David Fincher,Cho Seongyong,Freelance film critic,South Korea
+308,308, The Tree of Life ,9,2011,Terrence Malick,Cho Seongyong,Freelance film critic,South Korea
+309,309, Memories of Murder ,10,2003,Bong Joon-ho,Cho Seongyong,Freelance film critic,South Korea
+310,310, Mulholland Drive ,1,2001,David Lynch,Robbie Collin,The Telegraph,UK
+311,311, Tropical Malady ,2,2004,Apichatpong Weerasethakul,Robbie Collin,The Telegraph,UK
+312,312, Spirited Away ,3,2001,Hayao Miyazaki,Robbie Collin,The Telegraph,UK
+313,313, Under the Skin ,4,2013,Jonathan Glazer,Robbie Collin,The Telegraph,UK
+314,314, Hard to Be a God ,5,2013,Aleksey German,Robbie Collin,The Telegraph,UK
+315,315, Mad Max: Fury Road ,6,2015,George Miller,Robbie Collin,The Telegraph,UK
+316,316, There Will Be Blood ,7,2007,Paul Thomas Anderson,Robbie Collin,The Telegraph,UK
+317,317, Lost in Translation ,8,2003,Sofia Coppola,Robbie Collin,The Telegraph,UK
+318,318, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,9,2006,Larry Charles,Robbie Collin,The Telegraph,UK
+319,319," You, The Living ",10,2007,Roy Andersson,Robbie Collin,The Telegraph,UK
+320,320, Mad Max: Fury Road ,1,2015,George Miller,Scott Collura,IGN,US
+321,321, Lost in Translation ,2,2003,Sofia Coppola,Scott Collura,IGN,US
+322,322, Let the Right One In ,3,2008,Tomas Alfredson,Scott Collura,IGN,US
+323,323, Spring Breakers ,4,2012,Harmony Korine,Scott Collura,IGN,US
+324,324, Children of Men ,5,2006,Alfonso Cuarón,Scott Collura,IGN,US
+325,325, World of Tomorrow ,6,2015,Don Hertzfeldt,Scott Collura,IGN,US
+326,326, Ex Machina ,7,2015,Alex Garland,Scott Collura,IGN,US
+327,327, The Avengers ,8,2012,Joss Whedon,Scott Collura,IGN,US
+328,328, Her ,9,2013,Spike Jonze,Scott Collura,IGN,US
+329,329, Kill Bill: Vol. 2 ,10,2004,Quentin Tarantino,Scott Collura,IGN,US
+330,330, Yi Yi: A One and a Two ,1,2000,Edward Yang,Colin Covert,Minneapolis Star-Tribune,US
+331,331, Mulholland Drive ,2,2001,David Lynch,Colin Covert,Minneapolis Star-Tribune,US
+332,332, Children of Men ,3,2006,Alfonso Cuarón,Colin Covert,Minneapolis Star-Tribune,US
+333,333, Manchester by the Sea ,4,2016,Kenneth Lonergan,Colin Covert,Minneapolis Star-Tribune,US
+334,334, Adaptation ,5,2002,Spike Jonze,Colin Covert,Minneapolis Star-Tribune,US
+335,335, The Host ,6,2006,Bong Joon-ho,Colin Covert,Minneapolis Star-Tribune,US
+336,336, District 9 ,7,2009,Neill Blomkamp,Colin Covert,Minneapolis Star-Tribune,US
+337,337, City of God ,8,2002,Fernando Meirelles and Kátia Lund,Colin Covert,Minneapolis Star-Tribune,US
+338,338, Love & Friendship ,9,2016,Whit Stillman,Colin Covert,Minneapolis Star-Tribune,US
+339,339, Distant ,10,2002,Nuri Bilge Ceylan,Colin Covert,Minneapolis Star-Tribune,US
+340,340, 3-Iron ,1,2004,Kim Ki-duk,Oggs Cruz,Rappler.com,Philippines
+341,341, Yi Yi: A One and a Two ,2,2000,Edward Yang,Oggs Cruz,Rappler.com,Philippines
+342,342, Mulholland Drive ,3,2001,David Lynch,Oggs Cruz,Rappler.com,Philippines
+343,343, Syndromes and a Century ,4,2006,Apichatpong Weerasethakul,Oggs Cruz,Rappler.com,Philippines
+344,344, Evolution of a Filipino Family ,5,2004,Lav Diaz,Oggs Cruz,Rappler.com,Philippines
+345,345, Pulse ,6,2001,Kiyoshi Kurosawa,Oggs Cruz,Rappler.com,Philippines
+346,346, Cave of Forgotten Dreams ,7,2010,Werner Herzog,Oggs Cruz,Rappler.com,Philippines
+347,347, Heaven's Story ,8,2010,Takahisa Zeze,Oggs Cruz,Rappler.com,Philippines
+348,348," Norte, the End of History ",9,2013,Lav Diaz,Oggs Cruz,Rappler.com,Philippines
+349,349, Spirited Away ,10,2001,Hayao Miyazaki,Oggs Cruz,Rappler.com,Philippines
+350,350," Crouching Tiger, Hidden Dragon ",1,2000,Ang Lee,Ken Dancyger,New York University,US
+351,351, There Will Be Blood ,2,2007,Paul Thomas Anderson,Ken Dancyger,New York University,US
+352,352, The Pianist ,3,2002,Roman Polanski,Ken Dancyger,New York University,US
+353,353, Lincoln ,4,2012,Steven Spielberg,Ken Dancyger,New York University,US
+354,354, Life of Pi ,5,2012,Ang Lee,Ken Dancyger,New York University,US
+355,355, Mystic River ,6,2003,Clint Eastwood,Ken Dancyger,New York University,US
+356,356, Son of Saul ,7,2015,László Nemes,Ken Dancyger,New York University,US
+357,357, American Hustle ,8,2013,David O. Russell,Ken Dancyger,New York University,US
+358,358, The White Ribbon ,9,2009,Michael Haneke,Ken Dancyger,New York University,US
+359,359, After the Wedding ,10,2006,Susanne Bier,Ken Dancyger,New York University,US
+360,360, Eternal Sunshine of the Spotless Mind ,1,2004,Michel Gondry,Erik Davis,Fandango,US
+361,361, Boyhood ,2,2014,Richard Linklater,Erik Davis,Fandango,US
+362,362, Memento ,3,2000,Christopher Nolan,Erik Davis,Fandango,US
+363,363, There Will Be Blood ,4,2007,Paul Thomas Anderson,Erik Davis,Fandango,US
+364,364, The Dark Knight ,5,2008,Christopher Nolan,Erik Davis,Fandango,US
+365,365, Inside Llewyn Davis ,6,2013,Joel and Ethan Coen,Erik Davis,Fandango,US
+366,366, Finding Nemo ,7,2003,Andrew Stanton,Erik Davis,Fandango,US
+367,367, Mad Max: Fury Road ,8,2015,George Miller,Erik Davis,Fandango,US
+368,368, Inglourious Basterds ,9,2009,Quentin Tarantino,Erik Davis,Fandango,US
+369,369, Gravity ,10,2013,Alfonso Cuarón,Erik Davis,Fandango,US
+370,370, The Tree of Life ,1,2011,Terrence Malick,Peter Debruge,Variety,US
+371,371, Yi Yi: A One and a Two ,2,2000,Edward Yang,Peter Debruge,Variety,US
+372,372, Secret Sunshine ,3,2007,Lee Chang-dong,Peter Debruge,Variety,US
+373,373, Eternal Sunshine of the Spotless Mind ,4,2004,Michel Gondry,Peter Debruge,Variety,US
+374,374, Amour ,5,2012,Michael Haneke,Peter Debruge,Variety,US
+375,375, I Am Love ,6,2009,Luca Guadagnino,Peter Debruge,Variety,US
+376,376, Son of Saul ,7,2015,László Nemes,Peter Debruge,Variety,US
+377,377, WALL-E ,8,2008,Andrew Stanton,Peter Debruge,Variety,US
+378,378, The Five Obstructions ,9,2003,Jørgen Leth and Lars von Trier,Peter Debruge,Variety,US
+379,379, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,10,2006,Larry Charles,Peter Debruge,Variety,US
+380,380, In the Mood for Love ,1,2000,Wong Kar-wai,Fernand Denis,La Libre Belgique,Belgium
+381,381, Ida ,2,2013,Paweł Pawlikowski,Fernand Denis,La Libre Belgique,Belgium
+382,382, Boyhood ,3,2014,Richard Linklater,Fernand Denis,La Libre Belgique,Belgium
+383,383, Son of Saul ,4,2015,László Nemes,Fernand Denis,La Libre Belgique,Belgium
+384,384, Nobody Knows ,5,2004,Hirokazu Koreeda,Fernand Denis,La Libre Belgique,Belgium
+385,385, Talk to Her ,6,2002,Pedro Almodóvar,Fernand Denis,La Libre Belgique,Belgium
+386,386, Amores Perros ,7,2000,Alejandro González Iñárritu,Fernand Denis,La Libre Belgique,Belgium
+387,387, Wild Tales ,8,2014,Damián Szifrón,Fernand Denis,La Libre Belgique,Belgium
+388,388, Eldorado ,9,2008,Bouli Lanners,Fernand Denis,La Libre Belgique,Belgium
+389,389, Mommy ,10,2014,Xavier Dolan,Fernand Denis,La Libre Belgique,Belgium
+390,390, The Stuart Hall Project ,1,2013,John Akomfrah,Lindiwe Dovey,University of London,UK
+391,391, Uncle Boonmee Who Can Recall His Past Lives ,2,2010,Apichatpong Weerasethakul,Lindiwe Dovey,University of London,UK
+392,392, A Letter to Nelson Mandela ,3,2013,Khalo Matabane,Lindiwe Dovey,University of London,UK
+393,393, Waiting for Happiness ,4,2002,Abderrahmane Sissako,Lindiwe Dovey,University of London,UK
+394,394, Something Necessary ,5,2013,Judy Kibinge,Lindiwe Dovey,University of London,UK
+395,395, Moolaadé ,6,2004,Ousmane Sembène,Lindiwe Dovey,University of London,UK
+396,396, Sembène! ,7,2015,Samba Gadjigo and Jason Silverman,Lindiwe Dovey,University of London,UK
+397,397, 5 Broken Cameras ,8,2011,Emad Burnat and Guy Davidi,Lindiwe Dovey,University of London,UK
+398,398, Hooligan Sparrow ,9,2016,Nanfu Wang,Lindiwe Dovey,University of London,UK
+399,399, 7 Letters ,10,2015,"Boo Junfeng, Eric Khoo, Jack Neo, K. Rajagopal, Tan Pin Pin, Royston Tan and Kelvin Tong",Lindiwe Dovey,University of London,UK
+400,400," Synecdoche, New York ",1,2008,Charlie Kaufman,Alonso Duralde,TheWrap,US
+401,401, Brokeback Mountain ,2,2005,Ang Lee,Alonso Duralde,TheWrap,US
+402,402, Weekend ,3,2011,Andrew Haigh,Alonso Duralde,TheWrap,US
+403,403," 4 Months, 3 Weeks & 2 Days ",4,2007,Cristian Mungiu,Alonso Duralde,TheWrap,US
+404,404, Spirited Away ,5,2001,Hayao Miyazaki,Alonso Duralde,TheWrap,US
+405,405, How to Survive a Plague ,6,2012,David France,Alonso Duralde,TheWrap,US
+406,406, Talk to Her ,7,2002,Pedro Almodóvar,Alonso Duralde,TheWrap,US
+407,407, American Splendor ,8,2003,Robert Pulcini and Shari Springer Berman,Alonso Duralde,TheWrap,US
+408,408, In the Mood for Love ,9,2000,Wong Kar-wai,Alonso Duralde,TheWrap,US
+409,409, Far From Heaven ,10,2002,Todd Haynes,Alonso Duralde,TheWrap,US
+410,410, The Tree of Life ,1,2011,Terrence Malick,Bilge Ebiri,The Village Voice,US
+411,411, Mad Max: Fury Road ,2,2015,George Miller,Bilge Ebiri,The Village Voice,US
+412,412, 25th Hour ,3,2002,Spike Lee,Bilge Ebiri,The Village Voice,US
+413,413, An Injury to One ,4,2002,Travis Wilkerson,Bilge Ebiri,The Village Voice,US
+414,414, Love & Basketball ,5,2000,Gina Prince-Bythewood,Bilge Ebiri,The Village Voice,US
+415,415, In the Mood for Love ,6,2000,Wong Kar-wai,Bilge Ebiri,The Village Voice,US
+416,416, Timbuktu ,7,2014,Abderrahmane Sissako,Bilge Ebiri,The Village Voice,US
+417,417, Once Upon a Time in Anatolia ,8,2011,Nuri Bilge Ceylan,Bilge Ebiri,The Village Voice,US
+418,418, It's Such a Beautiful Day ,9,2012,Don Hertzfeldt,Bilge Ebiri,The Village Voice,US
+419,419, Actress ,10,2014,Robert Greene,Bilge Ebiri,The Village Voice,US
+420,420, Lost in Translation ,1,2003,Sofia Coppola,David Ehrlich,IndieWire,US
+421,421, Carol ,2,2015,Todd Haynes,David Ehrlich,IndieWire,US
+422,422, Yi Yi: A One and a Two ,3,2000,Edward Yang,David Ehrlich,IndieWire,US
+423,423, Dancer in the Dark ,4,2000,Lars von Trier,David Ehrlich,IndieWire,US
+424,424, Certified Copy ,5,2010,Abbas Kiarostami,David Ehrlich,IndieWire,US
+425,425, The Wind Rises ,6,2013,Hayao Miyazaki,David Ehrlich,IndieWire,US
+426,426, World of Tomorrow ,7,2015,Don Hertzfeldt,David Ehrlich,IndieWire,US
+427,427, Mulholland Drive ,8,2001,David Lynch,David Ehrlich,IndieWire,US
+428,428, 35 Shots of Rum ,9,2008,Claire Denis,David Ehrlich,IndieWire,US
+429,429, Girl Walk: All Day ,10,2011,Jacob Krupnick,David Ehrlich,IndieWire,US
+430,430, Inside Llewyn Davis ,1,2013,Joel and Ethan Coen,Kate Erbland,IndieWire,US
+431,431, Almost Famous ,2,2000,Cameron Crowe,Kate Erbland,IndieWire,US
+432,432, Collateral ,3,2004,Michael Mann,Kate Erbland,IndieWire,US
+433,433, Brooklyn ,4,2015,John Crowley,Kate Erbland,IndieWire,US
+434,434, Nightcrawler ,5,2014,Dan Gilroy,Kate Erbland,IndieWire,US
+435,435, Take Shelter ,6,2011,Jeff Nichols,Kate Erbland,IndieWire,US
+436,436, Fantastic Mr Fox ,7,2009,Wes Anderson,Kate Erbland,IndieWire,US
+437,437, Senna ,8,2010,Asif Kapadia,Kate Erbland,IndieWire,US
+438,438, Frances Ha ,9,2012,Noah Baumbach,Kate Erbland,IndieWire,US
+439,439, Dogtooth ,10,2009,Yorgos Lanthimos,Kate Erbland,IndieWire,US
+440,440, A Pigeon Sat on a Branch Reflecting on Existence ,1,2014,Roy Andersson,Mario Espinosa,Cinemateca de Cuba,Cuba
+441,441, The Act of Killing ,2,2012,Joshua Oppenheimer,Mario Espinosa,Cinemateca de Cuba,Cuba
+442,442, Dogtooth ,3,2009,Yorgos Lanthimos,Mario Espinosa,Cinemateca de Cuba,Cuba
+443,443, Katyn ,4,2007,Andrzej Wajda,Mario Espinosa,Cinemateca de Cuba,Cuba
+444,444, 3-Iron ,5,2004,Kim Ki-duk,Mario Espinosa,Cinemateca de Cuba,Cuba
+445,445, Caché ,6,2005,Michael Haneke,Mario Espinosa,Cinemateca de Cuba,Cuba
+446,446, Mulholland Drive ,7,2001,David Lynch,Mario Espinosa,Cinemateca de Cuba,Cuba
+447,447, The Congress ,8,2013,Ari Folman,Mario Espinosa,Cinemateca de Cuba,Cuba
+448,448, Sympathy for Mr Vengeance ,9,2002,Park Chan-wook,Mario Espinosa,Cinemateca de Cuba,Cuba
+449,449," Synecdoche, New York ",10,2008,Charlie Kaufman,Mario Espinosa,Cinemateca de Cuba,Cuba
+450,450, Yi Yi: A One and a Two ,1,2000,Edward Yang,Joseph Fahim,Freelance film critic,Egypt
+451,451, There Will Be Blood ,2,2007,Paul Thomas Anderson,Joseph Fahim,Freelance film critic,Egypt
+452,452, Boyhood ,3,2014,Richard Linklater,Joseph Fahim,Freelance film critic,Egypt
+453,453, Still Life ,4,2006,Jia Zhangke,Joseph Fahim,Freelance film critic,Egypt
+454,454, Archipelago ,5,2010,Joanna Hogg,Joseph Fahim,Freelance film critic,Egypt
+455,455, The Headless Woman ,6,2008,Lucrecia Martel,Joseph Fahim,Freelance film critic,Egypt
+456,456, The Act of Killing ,7,2012,Joshua Oppenheimer,Joseph Fahim,Freelance film critic,Egypt
+457,457, Caché ,8,2005,Michael Haneke,Joseph Fahim,Freelance film critic,Egypt
+458,458, Divine Intervention ,9,2002,Elia Suleiman,Joseph Fahim,Freelance film critic,Egypt
+459,459, Crimson Gold ,10,2003,Jafar Panahi,Joseph Fahim,Freelance film critic,Egypt
+460,460, Zodiac ,1,2007,David Fincher,Devin Faraci,Birth.Movies.Death.,US
+461,461, Inside Llewyn Davis ,2,2013,Joel and Ethan Coen,Devin Faraci,Birth.Movies.Death.,US
+462,462, There Will Be Blood ,3,2007,Paul Thomas Anderson,Devin Faraci,Birth.Movies.Death.,US
+463,463, Spider-Man 2 ,4,2004,Sam Raimi,Devin Faraci,Birth.Movies.Death.,US
+464,464, Oldboy ,5,2003,Park Chan-wook,Devin Faraci,Birth.Movies.Death.,US
+465,465, Inglourious Basterds ,6,2009,Quentin Tarantino,Devin Faraci,Birth.Movies.Death.,US
+466,466, Frozen ,7,2013,Chris Buck and Jennifer Lee,Devin Faraci,Birth.Movies.Death.,US
+467,467, 25th Hour ,8,2002,Spike Lee,Devin Faraci,Birth.Movies.Death.,US
+468,468, Requiem for a Dream ,9,2000,Darren Aronofsky,Devin Faraci,Birth.Movies.Death.,US
+469,469, Shaun of the Dead ,10,2004,Edgar Wright,Devin Faraci,Birth.Movies.Death.,US
+470,470, There Will Be Blood ,1,2007,Paul Thomas Anderson,David Fear,Rolling Stone,US
+471,471," 4 Months, 3 Weeks & 2 Days ",2,2007,Cristian Mungiu,David Fear,Rolling Stone,US
+472,472, Yi Yi: A One and a Two ,3,2000,Edward Yang,David Fear,Rolling Stone,US
+473,473, Shame ,4,2011,Steve McQueen,David Fear,Rolling Stone,US
+474,474, Boyhood ,5,2014,Richard Linklater,David Fear,Rolling Stone,US
+475,475, The Social Network ,6,2010,David Fincher,David Fear,Rolling Stone,US
+476,476, Manchester by the Sea ,7,2016,Kenneth Lonergan,David Fear,Rolling Stone,US
+477,477, Mulholland Drive ,8,2001,David Lynch,David Fear,Rolling Stone,US
+478,478, Head-On ,9,2004,Fatih Akin,David Fear,Rolling Stone,US
+479,479, In the Mood for Love ,10,2000,Wong Kar-wai,David Fear,Rolling Stone,US
+480,480, Sideways ,1,2004,Alexander Payne,Scott Feinberg,The Hollywood Reporter,US
+481,481, The Social Network ,2,2010,David Fincher,Scott Feinberg,The Hollywood Reporter,US
+482,482," Synecdoche, New York ",3,2008,Charlie Kaufman,Scott Feinberg,The Hollywood Reporter,US
+483,483, The Diving Bell and the Butterfly ,4,2007,Julian Schnabel,Scott Feinberg,The Hollywood Reporter,US
+484,484, Dogville ,5,2003,Lars von Trier,Scott Feinberg,The Hollywood Reporter,US
+485,485, Short Term 12 ,6,2013,Destin Daniel Cretton,Scott Feinberg,The Hollywood Reporter,US
+486,486, WALL-E ,7,2008,Andrew Stanton,Scott Feinberg,The Hollywood Reporter,US
+487,487, Blue Valentine ,8,2010,Derek Cianfrance,Scott Feinberg,The Hollywood Reporter,US
+488,488, The Squid and the Whale ,9,2005,Noah Baumbach,Scott Feinberg,The Hollywood Reporter,US
+489,489, A Serious Man ,10,2009,Joel and Ethan Coen,Scott Feinberg,The Hollywood Reporter,US
+490,490, Jersey Boys ,1,2014,Clint Eastwood,Javier Porta Fouz,La Nacion,Argentina
+491,491, Moulin Rouge! ,2,2001,Baz Luhrmann,Javier Porta Fouz,La Nacion,Argentina
+492,492, Nine Queens ,3,2000,Fabián Bielinsky,Javier Porta Fouz,La Nacion,Argentina
+493,493, Mia Madre ,4,2015,Nanni Moretti,Javier Porta Fouz,La Nacion,Argentina
+494,494," Right Now, Wrong Then ",5,2015,Hong Sang-soo,Javier Porta Fouz,La Nacion,Argentina
+495,495, Toy Story 3 ,6,2010,Lee Unkrich,Javier Porta Fouz,La Nacion,Argentina
+496,496, Mad Max: Fury Road ,7,2015,George Miller,Javier Porta Fouz,La Nacion,Argentina
+497,497, Spirited Away ,8,2001,Hayao Miyazaki,Javier Porta Fouz,La Nacion,Argentina
+498,498, Adventureland ,9,2009,Greg Mottola,Javier Porta Fouz,La Nacion,Argentina
+499,499, Open Range ,10,2003,Kevin Costner,Javier Porta Fouz,La Nacion,Argentina
+500,500, The World ,1,2004,Jia Zhangke,Kenji Fujishima,Freelance film critic,US
+501,501, Profit Motive and the Whispering Wind ,2,2007,John Gianvito,Kenji Fujishima,Freelance film critic,US
+502,502, Inglourious Basterds ,3,2009,Quentin Tarantino,Kenji Fujishima,Freelance film critic,US
+503,503, Pulse ,4,2001,Kiyoshi Kurosawa,Kenji Fujishima,Freelance film critic,US
+504,504, Syndromes and a Century ,5,2006,Apichatpong Weerasethakul,Kenji Fujishima,Freelance film critic,US
+505,505, In Jackson Heights ,6,2015,Frederick Wiseman,Kenji Fujishima,Freelance film critic,US
+506,506," Synecdoche, New York ",7,2008,Charlie Kaufman,Kenji Fujishima,Freelance film critic,US
+507,507, Love Exposure ,8,2008,Sion Sono,Kenji Fujishima,Freelance film critic,US
+508,508, The Tree of Life ,9,2011,Terrence Malick,Kenji Fujishima,Freelance film critic,US
+509,509, Casino Royale ,10,2006,Martin Campbell,Kenji Fujishima,Freelance film critic,US
+510,510, Oldboy ,1,2003,Park Chan-wook,Ernesto Garratt,El Mercurio,Chile
+511,511, Children of Men ,2,2006,Alfonso Cuarón,Ernesto Garratt,El Mercurio,Chile
+512,512, Mulholland Drive ,3,2001,David Lynch,Ernesto Garratt,El Mercurio,Chile
+513,513, The Secret in Their Eyes ,4,2009,Juan José Campanella,Ernesto Garratt,El Mercurio,Chile
+514,514, Sicario ,5,2015,Denis Villeneuve,Ernesto Garratt,El Mercurio,Chile
+515,515, No ,6,2012,Pablo Larraín,Ernesto Garratt,El Mercurio,Chile
+516,516, Donnie Darko ,7,2001,Richard Kelly,Ernesto Garratt,El Mercurio,Chile
+517,517, Eternal Sunshine of the Spotless Mind ,8,2004,Michel Gondry,Ernesto Garratt,El Mercurio,Chile
+518,518, The Social Network ,9,2010,David Fincher,Ernesto Garratt,El Mercurio,Chile
+519,519, Whiplash ,10,2014,Damien Chazelle,Ernesto Garratt,El Mercurio,Chile
+520,520, Ex Machina ,1,2015,Alex Garland,Steven Gaydos,Variety,US
+521,521, Inside Out ,2,2015,Pete Docter,Steven Gaydos,Variety,US
+522,522, Animal Kingdom ,3,2010,David Michôd,Steven Gaydos,Variety,US
+523,523, Apocalypto ,4,2006,Mel Gibson,Steven Gaydos,Variety,US
+524,524, Three Monkeys ,5,2008,Nuri Bilge Ceylan,Steven Gaydos,Variety,US
+525,525, WALL-E ,6,2008,Andrew Stanton,Steven Gaydos,Variety,US
+526,526, Listen to Me Marlon ,7,2015,Stevan Riley,Steven Gaydos,Variety,US
+527,527," 4 Months, 3 Weeks & 2 Days ",8,2007,Cristian Mungiu,Steven Gaydos,Variety,US
+528,528, Talladega Nights: The Ballad of Ricky Bobby ,9,2006,Adam McKay,Steven Gaydos,Variety,US
+529,529, Centochiodi ,10,2007,Ermanno Olmi,Steven Gaydos,Variety,US
+530,530, United 93 ,1,2006,Paul Greengrass,Noah Gittell,Washington City Paper,US
+531,531, Zodiac ,2,2007,David Fincher,Noah Gittell,Washington City Paper,US
+532,532, Bridesmaids ,3,2011,Paul Feig,Noah Gittell,Washington City Paper,US
+533,533, WALL-E ,4,2008,Andrew Stanton,Noah Gittell,Washington City Paper,US
+534,534, Brooklyn ,5,2015,John Crowley,Noah Gittell,Washington City Paper,US
+535,535, The Look of Silence ,6,2014,Joshua Oppenheimer,Noah Gittell,Washington City Paper,US
+536,536, Punch-Drunk Love ,7,2002,Paul Thomas Anderson,Noah Gittell,Washington City Paper,US
+537,537, 12 Years a Slave ,8,2013,Steve McQueen,Noah Gittell,Washington City Paper,US
+538,538, Eternal Sunshine of the Spotless Mind ,9,2004,Michel Gondry,Noah Gittell,Washington City Paper,US
+539,539, We Need to Talk About Kevin ,10,2011,Lynne Ramsay,Noah Gittell,Washington City Paper,US
+540,540, Far From Heaven ,1,2002,Todd Haynes,Owen Gleiberman,Variety,US
+541,541, Chuck & Buck ,2,2000,Miguel Arteta,Owen Gleiberman,Variety,US
+542,542, Gladiator ,3,2000,Ridley Scott,Owen Gleiberman,Variety,US
+543,543, The Century of the Self ,4,2002,Adam Curtis,Owen Gleiberman,Variety,US
+544,544, Moulin Rouge! ,5,2001,Baz Luhrmann,Owen Gleiberman,Variety,US
+545,545, Munich ,6,2005,Steven Spielberg,Owen Gleiberman,Variety,US
+546,546, Casino Royale ,7,2006,Martin Campbell,Owen Gleiberman,Variety,US
+547,547, Lilya 4-Ever ,8,2002,Lukas Moodysson,Owen Gleiberman,Variety,US
+548,548, Sideways ,9,2004,Alexander Payne,Owen Gleiberman,Variety,US
+549,549, Inglourious Basterds ,10,2009,Quentin Tarantino,Owen Gleiberman,Variety,US
+550,550, Mulholland Drive ,1,2001,David Lynch,Ed Gonzalez,Slant Magazine,US
+551,551, In the Mood for Love ,2,2000,Wong Kar-wai,Ed Gonzalez,Slant Magazine,US
+552,552, The New World ,3,2005,Terrence Malick,Ed Gonzalez,Slant Magazine,US
+553,553, Certified Copy ,4,2010,Abbas Kiarostami,Ed Gonzalez,Slant Magazine,US
+554,554, Femme Fatale ,5,2002,Brian De Palma,Ed Gonzalez,Slant Magazine,US
+555,555, Margaret ,6,2011,Kenneth Lonergan,Ed Gonzalez,Slant Magazine,US
+556,556, Under the Skin ,7,2013,Jonathan Glazer,Ed Gonzalez,Slant Magazine,US
+557,557, This Is Not a Film ,8,2011,Mojtaba Mirtahmasb and Jafar Panahi,Ed Gonzalez,Slant Magazine,US
+558,558, Two Lovers ,9,2008,James Gray,Ed Gonzalez,Slant Magazine,US
+559,559, Heart of a Dog ,10,2015,Laurie Anderson,Ed Gonzalez,Slant Magazine,US
+560,560, In the Mood for Love ,1,2000,Wong Kar-wai,Juan Carlos González,El Tiempo,Colombia
+561,561," 4 Months, 3 Weeks & 2 Days ",2,2007,Cristian Mungiu,Juan Carlos González,El Tiempo,Colombia
+562,562, A Separation ,3,2011,Asghar Farhadi,Juan Carlos González,El Tiempo,Colombia
+563,563, Son of Saul ,4,2015,László Nemes,Juan Carlos González,El Tiempo,Colombia
+564,564, Elephant ,5,2003,Gus Van Sant,Juan Carlos González,El Tiempo,Colombia
+565,565, A Prophet ,6,2009,Jacques Audiard,Juan Carlos González,El Tiempo,Colombia
+566,566, There Will Be Blood ,7,2007,Paul Thomas Anderson,Juan Carlos González,El Tiempo,Colombia
+567,567, The Lives of Others ,8,2006,Florian Henckel von Donnersmarck,Juan Carlos González,El Tiempo,Colombia
+568,568, Frances Ha ,9,2012,Noah Baumbach,Juan Carlos González,El Tiempo,Colombia
+569,569, Eternal Sunshine of the Spotless Mind ,10,2004,Michel Gondry,Juan Carlos González,El Tiempo,Colombia
+570,570, Werckmeister Harmonies ,1,2000,Béla Tarr and Ágnes Hranitzky,Carmen Gray,Berlin Critics’ Week,Germany
+571,571, The Act of Killing ,2,2012,Joshua Oppenheimer,Carmen Gray,Berlin Critics’ Week,Germany
+572,572, White Material ,3,2009,Claire Denis,Carmen Gray,Berlin Critics’ Week,Germany
+573,573, Even If She Had Been a Criminal... ,4,2006,Jean-Gabriel Périot,Carmen Gray,Berlin Critics’ Week,Germany
+574,574, Spring Breakers ,5,2012,Harmony Korine,Carmen Gray,Berlin Critics’ Week,Germany
+575,575, In the Mood for Love ,6,2000,Wong Kar-wai,Carmen Gray,Berlin Critics’ Week,Germany
+576,576, Stranger by the Lake ,7,2013,Alain Guiraudie,Carmen Gray,Berlin Critics’ Week,Germany
+577,577, Colossal Youth ,8,2006,Pedro Costa,Carmen Gray,Berlin Critics’ Week,Germany
+578,578, Story of My Death ,9,2013,Albert Serra,Carmen Gray,Berlin Critics’ Week,Germany
+579,579, Aurora ,10,2010,Cristi Puiu,Carmen Gray,Berlin Critics’ Week,Germany
+580,580, Dogville ,1,2003,Lars von Trier,Tim Grierson,Screen International,US
+581,581, Zodiac ,2,2007,David Fincher,Tim Grierson,Screen International,US
+582,582, There Will Be Blood ,3,2007,Paul Thomas Anderson,Tim Grierson,Screen International,US
+583,583, Inside Llewyn Davis ,4,2013,Joel and Ethan Coen,Tim Grierson,Screen International,US
+584,584, Yi Yi: A One and a Two ,5,2000,Edward Yang,Tim Grierson,Screen International,US
+585,585, The Turin Horse ,6,2011,Béla Tarr and Ágnes Hranitzky,Tim Grierson,Screen International,US
+586,586, The Master ,7,2012,Paul Thomas Anderson,Tim Grierson,Screen International,US
+587,587, It's Such a Beautiful Day ,8,2012,Don Hertzfeldt,Tim Grierson,Screen International,US
+588,588, Boyhood ,9,2014,Richard Linklater,Tim Grierson,Screen International,US
+589,589, Shutter Island ,10,2010,Martin Scorsese,Tim Grierson,Screen International,US
+590,590, Saraband ,1,2003,Ingmar Bergman,[],"[""L'Avant-Scène Cinéma""]",France
+591,591, Memento ,2,2000,Christopher Nolan,[],"[""L'Avant-Scène Cinéma""]",France
+592,592, Blue Is the Warmest Color ,3,2013,Abdellatif Kechiche,[],"[""L'Avant-Scène Cinéma""]",France
+593,593, The Return ,4,2003,Andrey Zvyagintsev,[],"[""L'Avant-Scène Cinéma""]",France
+594,594, Amour ,5,2012,Michael Haneke,[],"[""L'Avant-Scène Cinéma""]",France
+595,595, Mulholland Drive ,6,2001,David Lynch,[],"[""L'Avant-Scène Cinéma""]",France
+596,596, Import Export ,7,2007,Ulrich Seidl,[],"[""L'Avant-Scène Cinéma""]",France
+597,597, Son of Saul ,8,2015,László Nemes,[],"[""L'Avant-Scène Cinéma""]",France
+598,598, Kill Bill: Vol. 1 ,9,2003,Quentin Tarantino,[],"[""L'Avant-Scène Cinéma""]",France
+599,599, The Revenant ,10,2015,Alejandro González Iñárritu,[],"[""L'Avant-Scène Cinéma""]",France
+600,600, Tropical Malady ,1,2004,Apichatpong Weerasethakul,Antoine Guillot,France Culture,France
+601,601, Mulholland Drive ,2,2001,David Lynch,Antoine Guillot,France Culture,France
+602,602, The Turin Horse ,3,2011,Béla Tarr and Ágnes Hranitzky,Antoine Guillot,France Culture,France
+603,603, Tie Xi Qu: West of the Tracks ,4,2002,Wang Bing,Antoine Guillot,France Culture,France
+604,604, Le filmeur ,5,2005,Alain Cavalier,Antoine Guillot,France Culture,France
+605,605, Holy Motors ,6,2012,Leos Carax,Antoine Guillot,France Culture,France
+606,606, Elephant ,7,2003,Gus Van Sant,Antoine Guillot,France Culture,France
+607,607, A Touch of Sin ,8,2013,Jia Zhangke,Antoine Guillot,France Culture,France
+608,608, Pan's Labyrinth ,9,2006,Guillermo Del Toro,Antoine Guillot,France Culture,France
+609,609, Spirited Away ,10,2001,Hayao Miyazaki,Antoine Guillot,France Culture,France
+610,610, The New World ,1,2005,Terrence Malick,Tom Gunning,University of Chicago,US
+611,611, Capitalism: Child Labor ,2,2007,Ken Jacobs,Tom Gunning,University of Chicago,US
+612,612, Psalm III: 'Night of the Meek' ,3,2002,Phil Solomon,Tom Gunning,University of Chicago,US
+613,613, Goodbye to Language ,4,2014,Jean-Luc Godard,Tom Gunning,University of Chicago,US
+614,614, Daylight Moon ,5,2002,Lewis Klahr,Tom Gunning,University of Chicago,US
+615,615, Oldboy ,6,2003,Park Chan-wook,Tom Gunning,University of Chicago,US
+616,616, A Commuter’s Life (What a Life!) ,7,2014,What a Life!) (Ernie Gehr,Tom Gunning,University of Chicago,US
+617,617, The Fourth Watch ,8,2000,Janie Geiser,Tom Gunning,University of Chicago,US
+618,618, Our Daily Bread ,9,2005,Nikolaus Geyrhalter,Tom Gunning,University of Chicago,US
+619,619, The World ,10,2004,Jia Zhangke,Tom Gunning,University of Chicago,US
+620,620, Ankhon Dekhi ,1,2013,Rajat Kapoor,Shubhra Gupta,The Indian Express,India
+621,621, Court ,2,2014,Chaitanya Tamhane,Shubhra Gupta,The Indian Express,India
+622,622," LSD: Love, Sex Aur Dhokha ",3,2010,Dibakar Banerjee,Shubhra Gupta,The Indian Express,India
+623,623, Monsoon Wedding ,4,2001,Mira Nair,Shubhra Gupta,The Indian Express,India
+624,624, Dev D ,5,2009,Anurag Kashyap,Shubhra Gupta,The Indian Express,India
+625,625, Paan Singh Tomar ,6,2012,Tigmanshu Dhulia,Shubhra Gupta,The Indian Express,India
+626,626, Udaan ,7,2010,Vikramaditya Motwane,Shubhra Gupta,The Indian Express,India
+627,627, Hazaaron Khwaishein Aisi ,8,2003,Sudhir Mishra,Shubhra Gupta,The Indian Express,India
+628,628, Maqbool ,9,2003,Vishal Bhardwaj,Shubhra Gupta,The Indian Express,India
+629,629, Lagaan: Once Upon a Time in India ,10,2001,Ashutosh Gowariker,Shubhra Gupta,The Indian Express,India
+630,630, There Will Be Blood ,1,2007,Paul Thomas Anderson,Hauvick Habechian,An-Nahar Newspaper,Lebanon
+631,631, Mulholland Drive ,2,2001,David Lynch,Hauvick Habechian,An-Nahar Newspaper,Lebanon
+632,632, AI: Artificial Intelligence ,3,2001,Steven Spielberg,Hauvick Habechian,An-Nahar Newspaper,Lebanon
+633,633, Blue Is the Warmest Color ,4,2013,Abdellatif Kechiche,Hauvick Habechian,An-Nahar Newspaper,Lebanon
+634,634, Spirited Away ,5,2001,Hayao Miyazaki,Hauvick Habechian,An-Nahar Newspaper,Lebanon
+635,635, Once Upon a Time in Anatolia ,6,2011,Nuri Bilge Ceylan,Hauvick Habechian,An-Nahar Newspaper,Lebanon
+636,636, In the Mood for Love ,7,2000,Wong Kar-wai,Hauvick Habechian,An-Nahar Newspaper,Lebanon
+637,637, The Lady and the Duke ,8,2001,Éric Rohmer,Hauvick Habechian,An-Nahar Newspaper,Lebanon
+638,638, Yi Yi: A One and a Two ,9,2000,Edward Yang,Hauvick Habechian,An-Nahar Newspaper,Lebanon
+639,639, Silent Souls ,10,2010,Aleksey Fedorchenko,Hauvick Habechian,An-Nahar Newspaper,Lebanon
+640,640," Synecdoche, New York ",1,2008,Charlie Kaufman,Angie Han,Slashfilm,US
+641,641, Eternal Sunshine of the Spotless Mind ,2,2004,Michel Gondry,Angie Han,Slashfilm,US
+642,642, Boyhood ,3,2014,Richard Linklater,Angie Han,Slashfilm,US
+643,643, Mad Max: Fury Road ,4,2015,George Miller,Angie Han,Slashfilm,US
+644,644, Me and You and Everyone We Know ,5,2005,Miranda July,Angie Han,Slashfilm,US
+645,645, Gone Girl ,6,2014,David Fincher,Angie Han,Slashfilm,US
+646,646, Inside Llewyn Davis ,7,2013,Joel and Ethan Coen,Angie Han,Slashfilm,US
+647,647, Only Lovers Left Alive ,8,2013,Jim Jarmusch,Angie Han,Slashfilm,US
+648,648, Selma ,9,2014,Ava DuVernay,Angie Han,Slashfilm,US
+649,649, Pain & Gain ,10,2013,Michael Bay,Angie Han,Slashfilm,US
+650,650, Inside Out ,1,2015,Pete Docter,Aisha Harris,Slate,US
+651,651, When the Levees Broke: A Requiem in Four Acts ,2,2006,Spike Lee,Aisha Harris,Slate,US
+652,652, Stories We Tell ,3,2012,Sarah Polley,Aisha Harris,Slate,US
+653,653, Her ,4,2013,Spike Jonze,Aisha Harris,Slate,US
+654,654, Children of Men ,5,2006,Alfonso Cuarón,Aisha Harris,Slate,US
+655,655, Before Midnight ,6,2013,Richard Linklater,Aisha Harris,Slate,US
+656,656, The Look of Silence ,7,2014,Joshua Oppenheimer,Aisha Harris,Slate,US
+657,657, Fruitvale Station ,8,2013,Ryan Coogler,Aisha Harris,Slate,US
+658,658, Love & Basketball ,9,2000,Gina Prince-Bythewood,Aisha Harris,Slate,US
+659,659, Brick ,10,2005,Rian Johnson,Aisha Harris,Slate,US
+660,660, Stray Dogs ,1,2013,Tsai Ming-liang,Tina Hassannia,Freelance film critic,Canada
+661,661, A Separation ,2,2011,Asghar Farhadi,Tina Hassannia,Freelance film critic,Canada
+662,662, Margaret ,3,2011,Kenneth Lonergan,Tina Hassannia,Freelance film critic,Canada
+663,663, Ten ,4,2002,Abbas Kiarostami,Tina Hassannia,Freelance film critic,Canada
+664,664, 35 Shots of Rum ,5,2008,Claire Denis,Tina Hassannia,Freelance film critic,Canada
+665,665, Closed Curtain ,6,2013,Jafar Panahi,Tina Hassannia,Freelance film critic,Canada
+666,666, Tangerine ,7,2015,Sean Baker,Tina Hassannia,Freelance film critic,Canada
+667,667, The Royal Tenenbaums ,8,2001,Wes Anderson,Tina Hassannia,Freelance film critic,Canada
+668,668, Spring Breakers ,9,2012,Harmony Korine,Tina Hassannia,Freelance film critic,Canada
+669,669, Uncle Boonmee Who Can Recall His Past Lives ,10,2010,Apichatpong Weerasethakul,Tina Hassannia,Freelance film critic,Canada
+670,670, Notre musique ,1,2004,Jean-Luc Godard,Shiguehiko Hasumi,University of Tokyo,Japan
+671,671, Triple Agent ,2,2004,Éric Rohmer,Shiguehiko Hasumi,University of Tokyo,Japan
+672,672, The Assassin ,3,2015,Hou Hsiao-hsien,Shiguehiko Hasumi,University of Tokyo,Japan
+673,673, Gran Torino ,4,2008,Clint Eastwood,Shiguehiko Hasumi,University of Tokyo,Japan
+674,674, Horse Money ,5,2014,Pedro Costa,Shiguehiko Hasumi,University of Tokyo,Japan
+675,675, Fantastic Mr Fox ,6,2012,Wes Anderson,Shiguehiko Hasumi,University of Tokyo,Japan
+676,676, Holy Motors ,7,2012,Leos Carax,Shiguehiko Hasumi,University of Tokyo,Japan
+677,677, Death Proof – Grindhouse ,8,2007,Quentin Tarantino,Shiguehiko Hasumi,University of Tokyo,Japan
+678,678, Déjà Vu ,9,2006,Tony Scott,Shiguehiko Hasumi,University of Tokyo,Japan
+679,679, Seventh Code ,10,2013,Kiyoshi Kurosawa,Shiguehiko Hasumi,University of Tokyo,Japan
+680,680, Waiting for Happiness ,1,2002,Abderrahmane Sissako,Katarina Hedrén,Freelance film critic,South Africa
+681,681, The White Ribbon ,2,2009,Michael Haneke,Katarina Hedrén,Freelance film critic,South Africa
+682,682, Dreams of a Life ,3,2011,Carol Morley,Katarina Hedrén,Freelance film critic,South Africa
+683,683, Tey ,4,2012,Alain Gomis,Katarina Hedrén,Freelance film critic,South Africa
+684,684, The Gleaners and I ,5,2000,Agnès Varda,Katarina Hedrén,Freelance film critic,South Africa
+685,685, Lumumba ,6,2000,Raoul Peck,Katarina Hedrén,Freelance film critic,South Africa
+686,686, Hunger ,7,2008,Steve McQueen,Katarina Hedrén,Freelance film critic,South Africa
+687,687, Fruitvale Station ,8,2013,Ryan Coogler,Katarina Hedrén,Freelance film critic,South Africa
+688,688," Eat, Sleep, Die ",9,2012,Gabriela Pichler,Katarina Hedrén,Freelance film critic,South Africa
+689,689, Middle of Nowhere ,10,2012,Ava DuVernay,Katarina Hedrén,Freelance film critic,South Africa
+690,690, A Serious Man ,1,2009,Joel and Ethan Coen,Jordan Hoffman,Freelance film critic,US
+691,691, Inside Llewyn Davis ,2,2013,Joel and Ethan Coen,Jordan Hoffman,Freelance film critic,US
+692,692, Star Trek ,3,2009,J. J. Abrams,Jordan Hoffman,Freelance film critic,US
+693,693, Waking Life ,4,2001,Richard Linklater,Jordan Hoffman,Freelance film critic,US
+694,694, Ida ,5,2013,Paweł Pawlikowski,Jordan Hoffman,Freelance film critic,US
+695,695, Enter the Void ,6,2009,Gaspar Noé,Jordan Hoffman,Freelance film critic,US
+696,696, There Will Be Blood ,7,2007,Paul Thomas Anderson,Jordan Hoffman,Freelance film critic,US
+697,697, Of Gods and Men ,8,2010,Xavier Beauvois,Jordan Hoffman,Freelance film critic,US
+698,698, Into Great Silence ,9,2005,Philip Gröning,Jordan Hoffman,Freelance film critic,US
+699,699, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,10,2006,Larry Charles,Jordan Hoffman,Freelance film critic,US
+700,700, The Social Network ,1,2010,David Fincher,Michael Hogan,Vanity Fair,US
+701,701, Boyhood ,2,2014,Richard Linklater,Michael Hogan,Vanity Fair,US
+702,702, The Descendants ,3,2011,Alexander Payne,Michael Hogan,Vanity Fair,US
+703,703, Beasts of the Southern Wild ,4,2012,Benh Zeitlin,Michael Hogan,Vanity Fair,US
+704,704, No Country For Old Men ,5,2007,Joel and Ethan Coen,Michael Hogan,Vanity Fair,US
+705,705, Idiocracy ,6,2006,Mike Judge,Michael Hogan,Vanity Fair,US
+706,706, Bridesmaids ,7,2011,Paul Feig,Michael Hogan,Vanity Fair,US
+707,707, Spring Breakers ,8,2012,Harmony Korine,Michael Hogan,Vanity Fair,US
+708,708, American Psycho ,9,2000,Mary Harron,Michael Hogan,Vanity Fair,US
+709,709, The Dark Knight ,10,2008,Christopher Nolan,Michael Hogan,Vanity Fair,US
+710,710, Children of Men ,1,2006,Alfonso Cuarón,Ann Hornaday,The Washington Post,US
+711,711, There Will Be Blood ,2,2007,Paul Thomas Anderson,Ann Hornaday,The Washington Post,US
+712,712, The Hurt Locker ,3,2008,Kathryn Bigelow,Ann Hornaday,The Washington Post,US
+713,713," 4 Months, 3 Weeks & 2 Days ",4,2007,Cristian Mungiu,Ann Hornaday,The Washington Post,US
+714,714, Eternal Sunshine of the Spotless Mind ,5,2004,Michel Gondry,Ann Hornaday,The Washington Post,US
+715,715, Boyhood ,6,2014,Richard Linklater,Ann Hornaday,The Washington Post,US
+716,716, Lost in Translation ,7,2003,Sofia Coppola,Ann Hornaday,The Washington Post,US
+717,717, Michael Clayton ,8,2007,Tony Gilroy,Ann Hornaday,The Washington Post,US
+718,718, You Can Count on Me Me ,9,2000,Kenneth Lonergan,Ann Hornaday,The Washington Post,US
+719,719, Finding Nemo ,10,2003,Andrew Stanton and Lee Unkrich,Ann Hornaday,The Washington Post,US
+720,720, Wolff Von Amerongen: Did He Commit Bankruptcy Offences? ,1,2004,Gerhard Benedikt Friedl,Alexander Horwath,Austrian Film Museum,Austria
+721,721, The Master ,2,2012,Paul Thomas Anderson,Alexander Horwath,Austrian Film Museum,Austria
+722,722, Longing ,3,2006,Valeska Grisebach,Alexander Horwath,Austrian Film Museum,Austria
+723,723, I’m Not There ,4,2007,Todd Haynes,Alexander Horwath,Austrian Film Museum,Austria
+724,724, The External World ,5,2010,"[""David O'Reilly""]",Alexander Horwath,Austrian Film Museum,Austria
+725,725, Secret Sunshine ,6,2007,Lee Chang-dong,Alexander Horwath,Austrian Film Museum,Austria
+726,726, Toni Erdmann ,7,2016,Maren Ade,Alexander Horwath,Austrian Film Museum,Austria
+727,727, Platform ,8,2000,Jia Zhangke,Alexander Horwath,Austrian Film Museum,Austria
+728,728, The Holy Girl ,9,2004,Lucrecia Martel,Alexander Horwath,Austrian Film Museum,Austria
+729,729, Mosaik mécanique ,10,2008,Norbert Pfaffenbichler,Alexander Horwath,Austrian Film Museum,Austria
+730,730, Boyhood ,1,2014,Richard Linklater,Peter Howell,The Toronto Star,Canada
+731,731, Holy Motors ,2,2012,Leos Carax,Peter Howell,The Toronto Star,Canada
+732,732, The Tree of Life ,3,2011,Terrence Malick,Peter Howell,The Toronto Star,Canada
+733,733, In the Mood for Love ,4,2000,Wong Kar-wai,Peter Howell,The Toronto Star,Canada
+734,734, Inside Llewyn Davis ,5,2013,Joel and Ethan Coen,Peter Howell,The Toronto Star,Canada
+735,735, Certified Copy ,6,2010,Abbas Kiarostami,Peter Howell,The Toronto Star,Canada
+736,736, Memento ,7,2000,Christopher Nolan,Peter Howell,The Toronto Star,Canada
+737,737, Y Tu Mamá También ,8,2001,Alfonso Cuarón,Peter Howell,The Toronto Star,Canada
+738,738, Mulholland Drive ,9,2001,David Lynch,Peter Howell,The Toronto Star,Canada
+739,739, A History of Violence ,10,2005,David Cronenberg,Peter Howell,The Toronto Star,Canada
+740,740, Good Night and Good Luck ,1,2005,George Clooney,Annette Insdorf,Columbia University,US
+741,741, Hugo ,2,2011,Martin Scorsese,Annette Insdorf,Columbia University,US
+742,742, Ida ,3,2013,Paweł Pawlikowski,Annette Insdorf,Columbia University,US
+743,743, A Separation ,4,2011,Asghar Farhadi,Annette Insdorf,Columbia University,US
+744,744, Amour ,5,2012,Michael Haneke,Annette Insdorf,Columbia University,US
+745,745, The Act of Killing ,6,2012,Joshua Oppenheimer,Annette Insdorf,Columbia University,US
+746,746, Quills ,7,2000,Philip Kaufman,Annette Insdorf,Columbia University,US
+747,747, The Sapphires ,8,2012,Wayne Blair,Annette Insdorf,Columbia University,US
+748,748, Where Do We Go Now? ,9,2011,Nadine Labaki,Annette Insdorf,Columbia University,US
+749,749, Ajami ,10,2009,Scandar Copti and Yaron Shani,Annette Insdorf,Columbia University,US
+750,750, The Dark Knight ,1,2008,Christopher Nolan,Aysha Iqbal,Indian Institute of Technology,India
+751,751, Inception ,2,2010,Christopher Nolan,Aysha Iqbal,Indian Institute of Technology,India
+752,752, Hero ,3,2002,Zhang Yimou,Aysha Iqbal,Indian Institute of Technology,India
+753,753, Inglourious Basterds ,4,2009,Quentin Tarantino,Aysha Iqbal,Indian Institute of Technology,India
+754,754, The Wolf of Wall Street ,5,2013,Martin Scorsese,Aysha Iqbal,Indian Institute of Technology,India
+755,755, Chakde! India ,6,2007,Shimit Amin,Aysha Iqbal,Indian Institute of Technology,India
+756,756, In the Mood for Love ,7,2000,Wong Kar-wai,Aysha Iqbal,Indian Institute of Technology,India
+757,757, No Country For Old Men ,8,2007,Joel and Ethan Coen,Aysha Iqbal,Indian Institute of Technology,India
+758,758, Maqbool ,9,2003,Vishal Bhardwaj,Aysha Iqbal,Indian Institute of Technology,India
+759,759, The Lives of Others ,10,2006,Florian Henckel von Donnersmarck,Aysha Iqbal,Indian Institute of Technology,India
+760,760, The Pianist ,1,2002,Roman Polanski,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+761,761, Only Lovers Left Alive ,2,2013,Jim Jarmusch,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+762,762, Uncle Boonmee Who Can Recall His Past Lives ,3,2010,Apichatpong Weerasethakul,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+763,763, Leviathan ,4,2014,Andrey Zvyagintsev,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+764,764, Amélie ,5,2001,Jean-Pierre Jeunet,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+765,765, Avatar ,6,2009,James Cameron,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+766,766, The Tree of Life ,7,2011,Terrence Malick,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+767,767, A Pigeon Sat on a Branch Reflecting on Existence ,8,2014,Roy Andersson,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+768,768, Boyhood ,9,2014,Richard Linklater,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+769,769, Coming Home ,10,2014,Zhang Yimou,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+770,770, The Act of Killing ,1,2012,Joshua Oppenheimer,[],Metro,UK
+771,771, Caché ,2,2005,Michael Haneke,[],Metro,UK
+772,772," Synecdoche, New York ",3,2008,Charlie Kaufman,[],Metro,UK
+773,773, Spirited Away ,4,2001,Hayao Miyazaki,[],Metro,UK
+774,774, WALL-E ,5,2008,Andrew Stanton,[],Metro,UK
+775,775, Uncle Boonmee Who Can Recall His Past Lives ,6,2010,Apichatpong Weerasethakul,[],Metro,UK
+776,776, Lost in Translation ,7,2003,Sofia Coppola,[],Metro,UK
+777,777, Talk to Her ,8,2002,Pedro Almodóvar,[],Metro,UK
+778,778, The Wrestler ,9,2008,Darren Aronofsky,[],Metro,UK
+779,779, Boyhood ,10,2014,Richard Linklater,[],Metro,UK
+780,780, In the Mood for Love ,1,2000,Wong Kar-wai,Nick James,Sight & Sound,UK
+781,781, Caché ,2,2005,Michael Haneke,Nick James,Sight & Sound,UK
+782,782, Yi Yi: A One and a Two ,3,2000,Edward Yang,Nick James,Sight & Sound,UK
+783,783, Zero Dark Thirty ,4,2012,Kathryn Bigelow,Nick James,Sight & Sound,UK
+784,784, Once Upon a Time in Anatolia ,5,2011,Nuri Bilge Ceylan,Nick James,Sight & Sound,UK
+785,785, White Material ,6,2009,Claire Denis,Nick James,Sight & Sound,UK
+786,786, There Will Be Blood ,7,2007,Paul Thomas Anderson,Nick James,Sight & Sound,UK
+787,787, The Look of Silence ,8,2014,Joshua Oppenheimer,Nick James,Sight & Sound,UK
+788,788, The Turin Horse ,9,2011,Béla Tarr and Ágnes Hranitzky,Nick James,Sight & Sound,UK
+789,789, The Great Beauty ,10,2013,Paolo Sorrentino,Nick James,Sight & Sound,UK
+790,790, The Tree of Life ,1,2011,Terrence Malick,David Jenkins,Little White Lies,UK
+791,791, Eden ,2,2014,Mia Hansen-Løve,David Jenkins,Little White Lies,UK
+792,792, Punch-Drunk Love ,3,2002,Paul Thomas Anderson,David Jenkins,Little White Lies,UK
+793,793, Ghost World ,4,2001,Terry Zwigoff,David Jenkins,Little White Lies,UK
+794,794, Tabu ,5,2012,Miguel Gomes,David Jenkins,Little White Lies,UK
+795,795, Wendy and Lucy ,6,2008,Kelly Reichardt,David Jenkins,Little White Lies,UK
+796,796, The Headless Woman ,7,2008,Lucrecia Martel,David Jenkins,Little White Lies,UK
+797,797, Everyone Else ,8,2009,Maren Ade,David Jenkins,Little White Lies,UK
+798,798, Millennium Mambo ,9,2001,Hou Hsiao-hsien,David Jenkins,Little White Lies,UK
+799,799, In Vanda’s Room ,10,2000,Pedro Costa,David Jenkins,Little White Lies,UK
+800,800, The Master ,1,2012,Paul Thomas Anderson,Kent Jones,Film Comment,US
+801,801, The Tree of Life ,2,2011,Terrence Malick,Kent Jones,Film Comment,US
+802,802, Zodiac ,3,2007,David Fincher,Kent Jones,Film Comment,US
+803,803, Toni Erdmann ,4,2016,Maren Ade,Kent Jones,Film Comment,US
+804,804, There Will Be Blood ,5,2007,Paul Thomas Anderson,Kent Jones,Film Comment,US
+805,805, My Golden Days ,6,2015,Arnaud Desplechin,Kent Jones,Film Comment,US
+806,806, Carlos ,7,2010,Olivier Assayas,Kent Jones,Film Comment,US
+807,807, A Serious Man ,8,2009,Joel and Ethan Coen,Kent Jones,Film Comment,US
+808,808, Moonrise Kingdom ,9,2012,Wes Anderson,Kent Jones,Film Comment,US
+809,809, The Son ,10,2002,Jean-Pierre and Luc Dardenne,Kent Jones,Film Comment,US
+810,810, The Headless Woman ,1,2008,Lucrecia Martel,Manuel Kalmanovitz,Revista Semana,Colombia
+811,811, Spirited Away ,2,2001,Hayao Miyazaki,Manuel Kalmanovitz,Revista Semana,Colombia
+812,812, Mulholland Drive ,3,2001,David Lynch,Manuel Kalmanovitz,Revista Semana,Colombia
+813,813, Sumas y Restas ,4,2004,Víctor Gaviria,Manuel Kalmanovitz,Revista Semana,Colombia
+814,814, Inside Out ,5,2015,Pete Docter,Manuel Kalmanovitz,Revista Semana,Colombia
+815,815, The Gleaners and I ,6,2000,Agnès Varda,Manuel Kalmanovitz,Revista Semana,Colombia
+816,816, The Return ,7,2003,Andrey Zvyagintsev,Manuel Kalmanovitz,Revista Semana,Colombia
+817,817, Regular Lovers ,8,2005,Philippe Garrel,Manuel Kalmanovitz,Revista Semana,Colombia
+818,818, Under the Skin ,9,2013,Jonathan Glazer,Manuel Kalmanovitz,Revista Semana,Colombia
+819,819, The Days When I Do Not Exist ,10,2002,Jean-Charles Fitoussi,Manuel Kalmanovitz,Revista Semana,Colombia
+820,820, The Tree of Life ,1,2011,Terrence Malick,Dominik Kamalzadeh,Der Standard,Austria
+821,821, Holy Motors ,2,2012,Leos Carax,Dominik Kamalzadeh,Der Standard,Austria
+822,822, Tabu ,3,2012,Miguel Gomes,Dominik Kamalzadeh,Der Standard,Austria
+823,823, A History of Violence ,4,2005,David Cronenberg,Dominik Kamalzadeh,Der Standard,Austria
+824,824, Tropical Malady ,5,2004,Apichatpong Weerasethakul,Dominik Kamalzadeh,Der Standard,Austria
+825,825, The Death of Mr Lazarescu ,6,2005,Cristi Puiu,Dominik Kamalzadeh,Der Standard,Austria
+826,826, Phoenix ,7,2014,Christian Petzold,Dominik Kamalzadeh,Der Standard,Austria
+827,827, Platform ,8,2000,Jia Zhangke,Dominik Kamalzadeh,Der Standard,Austria
+828,828, As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty ,9,2000,Jonas Mekas,Dominik Kamalzadeh,Der Standard,Austria
+829,829, Secret Sunshine ,10,2007,Lee Chang-dong,Dominik Kamalzadeh,Der Standard,Austria
+830,830, Lost in Translation ,1,2003,Sofia Coppola,Dave Karger,Freelance,US
+831,831, Silver Linings Playbook ,2,2012,David O. Russell,Dave Karger,Freelance,US
+832,832, Brooklyn ,3,2015,John Crowley,Dave Karger,Freelance,US
+833,833, Michael Clayton ,4,2007,Tony Gilroy,Dave Karger,Freelance,US
+834,834, Blue Valentine ,5,2010,Derek Cianfrance,Dave Karger,Freelance,US
+835,835, Amélie ,6,2001,Jean-Pierre Jeunet,Dave Karger,Freelance,US
+836,836, The Artist ,7,2011,Michel Hazanavicius,Dave Karger,Freelance,US
+837,837, The King’s Speech ,8,2010,Tom Hooper,Dave Karger,Freelance,US
+838,838, Vera Drake ,9,2004,Mike Leigh,Dave Karger,Freelance,US
+839,839, Wild ,10,2014,Jean-Marc Vallée,Dave Karger,Freelance,US
+840,840, Theeb ,1,2014,Naji Abou Nowar,Butheina Kazim,Cinema Akil,UAE
+841,841, A Time for Drunken Horses ,2,2000,Bahman Ghobadi,Butheina Kazim,Cinema Akil,UAE
+842,842, Oldboy ,3,2003,Park Chan-wook,Butheina Kazim,Cinema Akil,UAE
+843,843, Wild Tales ,4,2014,Damián Szifrón,Butheina Kazim,Cinema Akil,UAE
+844,844, Man on Wire ,5,2008,James Marsch,Butheina Kazim,Cinema Akil,UAE
+845,845, Only Lovers Left Alive ,6,2013,Jim Jarmusch,Butheina Kazim,Cinema Akil,UAE
+846,846, Kill Bill: Vol. 1 ,7,2003,Quentin Tarantino,Butheina Kazim,Cinema Akil,UAE
+847,847, The Royal Tenenbaums ,8,2001,Wes Anderson,Butheina Kazim,Cinema Akil,UAE
+848,848, Days of Glory ,9,2006,Rachid Bouchareb,Butheina Kazim,Cinema Akil,UAE
+849,849, City of God ,10,2002,Fernando Meirelles and Kátia Lund,Butheina Kazim,Cinema Akil,UAE
+850,850, Hard to Be a God ,1,2013,Aleksey German,Glenn Kenny,Freelance,US
+851,851, Cosmos ,2,2015,Andrzej Zulawski,Glenn Kenny,Freelance,US
+852,852, Inside Llewyn Davis ,3,2013,Joel and Ethan Coen,Glenn Kenny,Freelance,US
+853,853, Carlos ,4,2010,Olivier Assayas,Glenn Kenny,Freelance,US
+854,854, Che ,5,2008,Steven Soderbergh,Glenn Kenny,Freelance,US
+855,855, The Master ,6,2012,Paul Thomas Anderson,Glenn Kenny,Freelance,US
+856,856, There Will Be Blood ,7,2007,Paul Thomas Anderson,Glenn Kenny,Freelance,US
+857,857, The Intruder ,8,2004,Claire Denis,Glenn Kenny,Freelance,US
+858,858, Morvern Callar ,9,2002,Lynne Ramsay,Glenn Kenny,Freelance,US
+859,859, 25th Hour ,10,2002,Spike Lee,Glenn Kenny,Freelance,US
+860,860, In the Mood for Love ,1,2000,Wong Kar-wai,Andreas Kilb,Frankfurter Allgemeine Zeitung,Germany
+861,861, Dogville ,2,2003,Lars von Trier,Andreas Kilb,Frankfurter Allgemeine Zeitung,Germany
+862,862, Ten ,3,2002,Abbas Kiarostami,Andreas Kilb,Frankfurter Allgemeine Zeitung,Germany
+863,863, The White Ribbon ,4,2009,Michael Haneke,Andreas Kilb,Frankfurter Allgemeine Zeitung,Germany
+864,864, The Circle ,5,2000,Jafar Panahi,Andreas Kilb,Frankfurter Allgemeine Zeitung,Germany
+865,865, Bad Education ,6,2005,Pedro Almodóvar,Andreas Kilb,Frankfurter Allgemeine Zeitung,Germany
+866,866, Rust and Bone ,7,2012,Jacques Audiard,Andreas Kilb,Frankfurter Allgemeine Zeitung,Germany
+867,867, 5x2 ,8,2004,François Ozon,Andreas Kilb,Frankfurter Allgemeine Zeitung,Germany
+868,868, Russian Ark ,9,2002,Aleksandr Sokurov,Andreas Kilb,Frankfurter Allgemeine Zeitung,Germany
+869,869, Far From Heaven ,10,2002,Todd Haynes,Andreas Kilb,Frankfurter Allgemeine Zeitung,Germany
+870,870, The Last of the Unjust ,1,2013,Claude Lanzmann,Uri Klein,Haaretz,Israel
+871,871, Once Upon a Time in Anatolia ,2,2011,Nuri Bilge Ceylan,Uri Klein,Haaretz,Israel
+872,872," 4 Months, 3 Weeks & 2 Days ",3,2007,Cristian Mungiu,Uri Klein,Haaretz,Israel
+873,873," Police, Adjective ",4,2009,Corneliu Porumboiu,Uri Klein,Haaretz,Israel
+874,874, Far From Heaven ,5,2002,Todd Haynes,Uri Klein,Haaretz,Israel
+875,875, The Pianist ,6,2002,Roman Polanski,Uri Klein,Haaretz,Israel
+876,876, Winter Sleep ,7,2014,Nuri Bilge Ceylan,Uri Klein,Haaretz,Israel
+877,877, Brokeback Mountain ,8,2005,Ang Lee,Uri Klein,Haaretz,Israel
+878,878, A Separation ,9,2011,Asghar Farhadi,Uri Klein,Haaretz,Israel
+879,879, Goodbye to Language ,10,2014,Jean-Luc Godard,Uri Klein,Haaretz,Israel
+880,880, Boyhood ,1,2014,Richard Linklater,Eric Kohn,IndieWire,US
+881,881, Holy Motors ,2,2012,Leos Carax,Eric Kohn,IndieWire,US
+882,882, Eternal Sunshine of the Spotless Mind ,3,2004,Michel Gondry,Eric Kohn,IndieWire,US
+883,883, Uncle Boonmee Who Can Recall His Past Lives ,4,2010,Apichatpong Weerasethakul,Eric Kohn,IndieWire,US
+884,884, Enter the Void ,5,2009,Gaspar Noé,Eric Kohn,IndieWire,US
+885,885, Son of Saul ,6,2015,László Nemes,Eric Kohn,IndieWire,US
+886,886, Leviathan ,7,2014,Andrey Zvyagintsev,Eric Kohn,IndieWire,US
+887,887, The Act of Killing ,8,2012,Joshua Oppenheimer,Eric Kohn,IndieWire,US
+888,888, 12 Years a Slave ,9,2013,Steve McQueen,Eric Kohn,IndieWire,US
+889,889, Idiocracy ,10,2006,Mike Judge,Eric Kohn,IndieWire,US
+890,890, Spirited Away ,1,2001,Hayao Miyazaki,Dan Kois,Slate,US
+891,891, Yi Yi: A One and a Two ,2,2000,Edward Yang,Dan Kois,Slate,US
+892,892, Before Sunset ,3,2004,Richard Linklater,Dan Kois,Slate,US
+893,893, You Can Count On Me ,4,2000,Kenneth Lonergan,Dan Kois,Slate,US
+894,894, Inside Out ,5,2015,Pete Docter,Dan Kois,Slate,US
+895,895, Morvern Callar ,6,2012,Lynne Ramsay,Dan Kois,Slate,US
+896,896, Stories We Tell ,7,2012,Sarah Polley,Dan Kois,Slate,US
+897,897, Animal Kingdom ,8,2010,David Michôd,Dan Kois,Slate,US
+898,898, Attack the Block ,9,2011,Joe Cornish,Dan Kois,Slate,US
+899,899, Jackass 3D ,10,2010,Jeff Tremaine,Dan Kois,Slate,US
+900,900, Mulholland Drive ,1,2001,David Lynch,Michael Koresky,The Film Society of Lincoln Center,US
+901,901, AI: Artificial Intelligence ,2,2001,Steven Spielberg,Michael Koresky,The Film Society of Lincoln Center,US
+902,902, The Tree of Life ,3,2011,Terrence Malick,Michael Koresky,The Film Society of Lincoln Center,US
+903,903, Syndromes and a Century ,4,2006,Apichatpong Weerasethakul,Michael Koresky,The Film Society of Lincoln Center,US
+904,904, What Time Is It There? ,5,2001,Tsai Ming-liang,Michael Koresky,The Film Society of Lincoln Center,US
+905,905, The Intruder ,6,2004,Claire Denis,Michael Koresky,The Film Society of Lincoln Center,US
+906,906, The Son ,7,2002,Jean-Pierre and Luc Dardenne,Michael Koresky,The Film Society of Lincoln Center,US
+907,907, Before Sunset ,8,2004,Richard Linklater,Michael Koresky,The Film Society of Lincoln Center,US
+908,908, The Headless Woman ,9,2008,Lucrecia Martel,Michael Koresky,The Film Society of Lincoln Center,US
+909,909, Femme Fatale ,10,2002,Brian De Palma,Michael Koresky,The Film Society of Lincoln Center,US
+910,910, A Separation ,1,2011,Asghar Farhadi,Tomris Laffly,Freelance film critic,US
+911,911, Brooklyn ,2,2015,John Crowley,Tomris Laffly,Freelance film critic,US
+912,912, Inside Llewyn Davis ,3,2013,Joel and Ethan Coen,Tomris Laffly,Freelance film critic,US
+913,913, You Can Count On Me ,4,2000,Kenneth Lonergan,Tomris Laffly,Freelance film critic,US
+914,914, Vera Drake ,5,2004,Mike Leigh,Tomris Laffly,Freelance film critic,US
+915,915, Letters From Iwo Jima ,6,2006,Clint Eastwood,Tomris Laffly,Freelance film critic,US
+916,916, Nebraska ,7,2013,Alexander Payne,Tomris Laffly,Freelance film critic,US
+917,917, The Magdalene Sisters ,8,2002,Peter Mullan,Tomris Laffly,Freelance film critic,US
+918,918, Stories We Tell ,9,2012,Sarah Polley,Tomris Laffly,Freelance film critic,US
+919,919, Father of My Children ,10,2009,Mia Hansen-Løve,Tomris Laffly,Freelance film critic,US
+920,920, The Lives of Others ,1,2006,Florian Henckel von Donnersmarck,Rebecca Laurence,BBC Culture,UK
+921,921, The Act of Killing ,2,2012,Joshua Oppenheimer,Rebecca Laurence,BBC Culture,UK
+922,922, Fish Tank ,3,2009,Andrea Arnold,Rebecca Laurence,BBC Culture,UK
+923,923, Good Night and Good Luck ,4,2005,George Clooney,Rebecca Laurence,BBC Culture,UK
+924,924, The White Ribbon ,5,2009,Michael Haneke,Rebecca Laurence,BBC Culture,UK
+925,925, The Consequences of Love ,6,2004,Paolo Sorrentino,Rebecca Laurence,BBC Culture,UK
+926,926, No Country For Old Men ,7,2007,Joel and Ethan Coen,Rebecca Laurence,BBC Culture,UK
+927,927, A Separation ,8,2011,Asghar Farhadi,Rebecca Laurence,BBC Culture,UK
+928,928, Ratatouille ,9,2007,Brad Bird and Jan Pinkava,Rebecca Laurence,BBC Culture,UK
+929,929, In the Mood for Love ,10,2000,Wong Kar-wai,Rebecca Laurence,BBC Culture,UK
+930,930, Children of Men ,1,2006,Alfonso Cuarón,Richard Lawson,Vanity Fair,US
+931,931, No Country For Old Men ,2,2007,Joel and Ethan Coen,Richard Lawson,Vanity Fair,US
+932,932, Before Sunset ,3,2004,Richard Linklater,Richard Lawson,Vanity Fair,US
+933,933, Summer Hours ,4,2008,Olivier Assayas,Richard Lawson,Vanity Fair,US
+934,934, Eternal Sunshine of the Spotless Mind ,5,2004,Michel Gondry,Richard Lawson,Vanity Fair,US
+935,935, Wet Hot American Summer ,6,2001,David Wain,Richard Lawson,Vanity Fair,US
+936,936, Cast Away ,7,2000,Robert Zemeckis,Richard Lawson,Vanity Fair,US
+937,937, Caché ,8,2005,Michael Haneke,Richard Lawson,Vanity Fair,US
+938,938, Traffic ,9,2000,Steven Soderbergh,Richard Lawson,Vanity Fair,US
+939,939, Weekend ,10,2011,Andrew Haigh,Richard Lawson,Vanity Fair,US
+940,940, Yi Yi: A One and a Two ,1,2000,Edward Yang,Maggie Lee,Variety,Hong Kong
+941,941, Café Lumière ,2,2003,Hou Hsiao-hsien,Maggie Lee,Variety,Hong Kong
+942,942," 4 Months, 3 Weeks & 2 Days ",3,2007,Cristian Mungiu,Maggie Lee,Variety,Hong Kong
+943,943, The White Ribbon ,4,2009,Michael Haneke,Maggie Lee,Variety,Hong Kong
+944,944, In the Mood for Love ,5,2000,Wong Kar-wai,Maggie Lee,Variety,Hong Kong
+945,945, Millennium Actress ,6,2001,Satoshi Kon,Maggie Lee,Variety,Hong Kong
+946,946, Spirited Away ,7,2001,Hayao Miyazaki,Maggie Lee,Variety,Hong Kong
+947,947, A Separation ,8,2011,Asghar Farhadi,Maggie Lee,Variety,Hong Kong
+948,948, 35 Shots of Rum ,9,2008,Claire Denis,Maggie Lee,Variety,Hong Kong
+949,949, Toni Erdmann ,10,2016,Maren Ade,Maggie Lee,Variety,Hong Kong
+950,950, The Grand Budapest Hotel ,1,2014,Wes Anderson,Anastasiya Lelyukh,Front Row Filmed Entertainment,UAE
+951,951, Brooklyn ,2,2015,John Crowley,Anastasiya Lelyukh,Front Row Filmed Entertainment,UAE
+952,952, Mad Max: Fury Road ,3,2015,George Miller,Anastasiya Lelyukh,Front Row Filmed Entertainment,UAE
+953,953, Pan's Labyrinth ,4,2006,Guillermo Del Toro,Anastasiya Lelyukh,Front Row Filmed Entertainment,UAE
+954,954, Hotel Rwanda ,5,2004,Terry George,Anastasiya Lelyukh,Front Row Filmed Entertainment,UAE
+955,955, Silver Linings Playbook ,6,2012,David O. Russell,Anastasiya Lelyukh,Front Row Filmed Entertainment,UAE
+956,956, Birdman ,7,2014,Alejandro González Iñárritu,Anastasiya Lelyukh,Front Row Filmed Entertainment,UAE
+957,957, Inception ,8,2010,Christopher Nolan,Anastasiya Lelyukh,Front Row Filmed Entertainment,UAE
+958,958, The Curious Case of Benjamin Button ,9,2008,David Fincher,Anastasiya Lelyukh,Front Row Filmed Entertainment,UAE
+959,959, Inglourious Basterds ,10,2009,Quentin Tarantino,Anastasiya Lelyukh,Front Row Filmed Entertainment,UAE
+960,960, Moulin Rouge! ,1,2001,Baz Luhrmann,Guy Lodge,Variety/The Observer,UK
+961,961, White Material ,2,2009,Claire Denis,Guy Lodge,Variety/The Observer,UK
+962,962, Birth ,3,2004,Jonathan Glazer,Guy Lodge,Variety/The Observer,UK
+963,963, Eternal Sunshine of the Spotless Mind ,4,2004,Michel Gondry,Guy Lodge,Variety/The Observer,UK
+964,964, Talk to Her ,5,2002,Pedro Almodóvar,Guy Lodge,Variety/The Observer,UK
+965,965, Wendy and Lucy ,6,2008,Kelly Reichardt,Guy Lodge,Variety/The Observer,UK
+966,966, Spirited Away ,7,2001,Hayao Miyazaki,Guy Lodge,Variety/The Observer,UK
+967,967, Gravity ,8,2013,Alfonso Cuarón,Guy Lodge,Variety/The Observer,UK
+968,968, Tabu ,9,2012,Miguel Gomes,Guy Lodge,Variety/The Observer,UK
+969,969, Weekend ,10,2011,Andrew Haigh,Guy Lodge,Variety/The Observer,UK
+970,970, In the Mood for Love ,1,2000,Wong Kar-wai,Mario Naito López,Cuban Film Press Association,Cuba
+971,971," Spring, Summer, Fall, Winter…and Spring ",2,2003,Kim Ki-duk,Mario Naito López,Cuban Film Press Association,Cuba
+972,972, A History of Violence ,3,2005,David Cronenberg,Mario Naito López,Cuban Film Press Association,Cuba
+973,973, Talk to Her ,4,2002,Pedro Almodóvar,Mario Naito López,Cuban Film Press Association,Cuba
+974,974, Carol ,5,2015,Todd Haynes,Mario Naito López,Cuban Film Press Association,Cuba
+975,975, Melancholia ,6,2011,Lars von Trier,Mario Naito López,Cuban Film Press Association,Cuba
+976,976, The White Ribbon ,7,2009,Michael Haneke,Mario Naito López,Cuban Film Press Association,Cuba
+977,977, The Return ,8,2003,Andrey Zvyagintsev,Mario Naito López,Cuban Film Press Association,Cuba
+978,978, The Child ,9,2005,Jean-Pierre and Luc Dardenne,Mario Naito López,Cuban Film Press Association,Cuba
+979,979, Silent Light ,10,2007,Carlos Reygadas,Mario Naito López,Cuban Film Press Association,Cuba
+980,980, In the Mood for Love ,1,2000,Wong Kar-wai,Verena Lueken,Frankfurter Allgemeine Zeitung,Germany
+981,981, Tropical Malady ,2,2004,Apichatpong Weerasethakul,Verena Lueken,Frankfurter Allgemeine Zeitung,Germany
+982,982, Mulholland Drive ,3,2001,David Lynch,Verena Lueken,Frankfurter Allgemeine Zeitung,Germany
+983,983, The Assassin ,4,2015,Hou Hsiao-hsien,Verena Lueken,Frankfurter Allgemeine Zeitung,Germany
+984,984, Shame ,5,2011,Steve McQueen,Verena Lueken,Frankfurter Allgemeine Zeitung,Germany
+985,985, Spirited Away ,6,2001,Hayao Miyazaki,Verena Lueken,Frankfurter Allgemeine Zeitung,Germany
+986,986, The Hurt Locker ,7,2008,Kathryn Bigelow,Verena Lueken,Frankfurter Allgemeine Zeitung,Germany
+987,987, Toni Erdmann ,8,2016,Maren Ade,Verena Lueken,Frankfurter Allgemeine Zeitung,Germany
+988,988, Winter's Bone ,9,2010,Debra Granik,Verena Lueken,Frankfurter Allgemeine Zeitung,Germany
+989,989, A Prophet ,10,2009,Jacques Audiard,Verena Lueken,Frankfurter Allgemeine Zeitung,Germany
+990,990, Moon ,1,2009,Duncan Jones,Fiona Macdonald,BBC Culture,UK
+991,991, The Great Beauty ,2,2013,Paolo Sorrentino,Fiona Macdonald,BBC Culture,UK
+992,992, The Lives of Others ,3,2006,Florian Henckel von Donnersmarck,Fiona Macdonald,BBC Culture,UK
+993,993, In the Mood for Love ,4,2000,Wong Kar-wai,Fiona Macdonald,BBC Culture,UK
+994,994, The Taste of Others ,5,2000,Agnès Jaoui,Fiona Macdonald,BBC Culture,UK
+995,995, Wild Tales ,6,2014,Damián Szifrón,Fiona Macdonald,BBC Culture,UK
+996,996, Bridesmaids ,7,2011,Paul Feig,Fiona Macdonald,BBC Culture,UK
+997,997, Eternal Sunshine of the Spotless Mind ,8,2004,Michel Gondry,Fiona Macdonald,BBC Culture,UK
+998,998," O Brother, Where Art Thou? ",9,2000,Joel and Ethan Coen,Fiona Macdonald,BBC Culture,UK
+999,999, Inglourious Basterds ,10,2009,Quentin Tarantino,Fiona Macdonald,BBC Culture,UK
+1000,1000, Once Upon a Time in Anatolia ,1,2011,Nuri Bilge Ceylan,Laya Maheshwari,Freelance film critic,India
+1001,1001, The Assassination of Jesse James by the Coward Robert Ford ,2,2007,Andrew Dominik,Laya Maheshwari,Freelance film critic,India
+1002,1002, The Social Network ,3,2010,David Fincher,Laya Maheshwari,Freelance film critic,India
+1003,1003, The Grand Budapest Hotel ,4,2014,Wes Anderson,Laya Maheshwari,Freelance film critic,India
+1004,1004, The Lord of the Rings: The Fellowship of the Ring ,5,2001,Peter Jackson,Laya Maheshwari,Freelance film critic,India
+1005,1005, The Tree of Life ,6,2011,Terrence Malick,Laya Maheshwari,Freelance film critic,India
+1006,1006, Holy Motors ,7,2012,Leos Carax,Laya Maheshwari,Freelance film critic,India
+1007,1007, Timbuktu ,8,2014,Abderrahmane Sissako,Laya Maheshwari,Freelance film critic,India
+1008,1008, No ,9,2012,Pablo Larraín,Laya Maheshwari,Freelance film critic,India
+1009,1009, Pan's Labyrinth ,10,2006,Guillermo Del Toro,Laya Maheshwari,Freelance film critic,India
+1010,1010, Moolaadé ,1,2004,Ousmane Sembène,[],AfricAvenir.org,Namibia
+1011,1011, Days of Glory ,2,2006,Rachid Bouchareb,[],AfricAvenir.org,Namibia
+1012,1012, Timbuktu ,3,2014,Abderrahmane Sissako,[],AfricAvenir.org,Namibia
+1013,1013, Making Of ,4,2006,Nouri Bouzid,[],AfricAvenir.org,Namibia
+1014,1014, House of Flying Daggers ,5,2004,Zhang Yimou,[],AfricAvenir.org,Namibia
+1015,1015, City of God ,6,2002,Fernando Meirelles and Kátia Lund,[],AfricAvenir.org,Namibia
+1016,1016, Miners Shot Down ,7,2014,Rehad Desai,[],AfricAvenir.org,Namibia
+1017,1017, 678 ,8,2010,Mohamed Diab,[],AfricAvenir.org,Namibia
+1018,1018, Hijack Stories ,9,2000,Oliver Schmitz,[],AfricAvenir.org,Namibia
+1019,1019, Waltz with Bashir ,10,2008,Ari Folman,[],AfricAvenir.org,Namibia
+1020,1020, No Country For Old Men ,1,2007,Joel and Ethan Coen,Ben Mankiewicz,Turner Classic Movies,US
+1021,1021, Spotlight ,2,2015,Tom McCarthy,Ben Mankiewicz,Turner Classic Movies,US
+1022,1022, United 93 ,3,2006,Paul Greengrass,Ben Mankiewicz,Turner Classic Movies,US
+1023,1023, The Gatekeepers ,4,2012,Dror Moreh,Ben Mankiewicz,Turner Classic Movies,US
+1024,1024, Sexy Beast ,5,2000,Jonathan Glazer,Ben Mankiewicz,Turner Classic Movies,US
+1025,1025, A Separation ,6,2011,Asghar Farhadi,Ben Mankiewicz,Turner Classic Movies,US
+1026,1026, Memento ,7,2000,Christopher Nolan,Ben Mankiewicz,Turner Classic Movies,US
+1027,1027, Letters From Iwo Jima ,8,2006,Clint Eastwood,Ben Mankiewicz,Turner Classic Movies,US
+1028,1028, Anchorman: The Legend of Ron Burgundy ,9,2004,Adam McKay,Ben Mankiewicz,Turner Classic Movies,US
+1029,1029, The Wrestler ,10,2008,Darren Aronofsky,Ben Mankiewicz,Turner Classic Movies,US
+1030,1030, Los Angeles Plays Itself ,1,2003,Thom Andersen,Calum Marsh,Freelance film critic,Canada
+1031,1031, Mulholland Drive ,2,2001,David Lynch,Calum Marsh,Freelance film critic,Canada
+1032,1032, Goodbye to Language ,3,2014,Jean-Luc Godard,Calum Marsh,Freelance film critic,Canada
+1033,1033, Millennium Mambo ,4,2001,Hou Hsiao-hsien,Calum Marsh,Freelance film critic,Canada
+1034,1034, Margaret ,5,2011,Kenneth Lonergan,Calum Marsh,Freelance film critic,Canada
+1035,1035, Crank ,6,2006,Mark Neveldine and Brian Taylor,Calum Marsh,Freelance film critic,Canada
+1036,1036, The Forest for the Trees ,7,2003,Maren Ade,Calum Marsh,Freelance film critic,Canada
+1037,1037, Miami Vice ,8,2006,Michael Mann,Calum Marsh,Freelance film critic,Canada
+1038,1038, Woman on the Beach ,9,2006,Hong Sang-soo,Calum Marsh,Freelance film critic,Canada
+1039,1039, The Son ,10,2002,Jean-Pierre and Luc Dardenne,Calum Marsh,Freelance film critic,Canada
+1040,1040, Yi Yi: A One and a Two ,1,2000,Edward Yang,Lee Marshall,Screen International,Italy
+1041,1041, The White Ribbon ,2,2009,Michael Haneke,Lee Marshall,Screen International,Italy
+1042,1042, Fish Tank ,3,2009,Andrea Arnold,Lee Marshall,Screen International,Italy
+1043,1043, Spirited Away ,4,2001,Hayao Miyazaki,Lee Marshall,Screen International,Italy
+1044,1044, Timbuktu ,5,2014,Abderrahmane Sissako,Lee Marshall,Screen International,Italy
+1045,1045," 4 Months, 3 Weeks & 2 Days ",6,2007,Cristian Mungiu,Lee Marshall,Screen International,Italy
+1046,1046, No Country For Old Men ,7,2007,Joel and Ethan Coen,Lee Marshall,Screen International,Italy
+1047,1047, Silent Souls ,8,2010,Aleksey Fedorchenko,Lee Marshall,Screen International,Italy
+1048,1048, A Separation ,9,2011,Asghar Farhadi,Lee Marshall,Screen International,Italy
+1049,1049, Nostalgia for the Light ,10,2010,Patricio Guzmán,Lee Marshall,Screen International,Italy
+1050,1050, Holy Motors ,1,2012,Leos Carax,Adrian Martin,Lola Magazine,Australia
+1051,1051, Lifeline ,2,2002,Víctor Erice,Adrian Martin,Lola Magazine,Australia
+1052,1052, Certified Copy ,3,2010,Abbas Kiarostami,Adrian Martin,Lola Magazine,Australia
+1053,1053, Kung Fu Hustle ,4,2004,Stephen Chow,Adrian Martin,Lola Magazine,Australia
+1054,1054, Instructions for a Light and Sound Machine ,5,2005,Peter Tscherkassky,Adrian Martin,Lola Magazine,Australia
+1055,1055, Un lac ,6,2008,Philippe Grandrieux,Adrian Martin,Lola Magazine,Australia
+1056,1056, Detention ,7,2011,Joseph Kahn,Adrian Martin,Lola Magazine,Australia
+1057,1057, A Vingança de Uma Mulher ,8,2012,Rita Azevedo Gomes,Adrian Martin,Lola Magazine,Australia
+1058,1058, Mia Madre ,9,2015,Nanni Moretti,Adrian Martin,Lola Magazine,Australia
+1059,1059, Femme Fatale ,10,2002,Brian De Palma,Adrian Martin,Lola Magazine,Australia
+1060,1060, The Wolf of Wall Street ,1,2013,Martin Scorsese,Antonio Martínez,El Mercurio,Chile
+1061,1061, No Country For Old Men ,2,2007,Joel and Ethan Coen,Antonio Martínez,El Mercurio,Chile
+1062,1062, Spirited Away ,3,2001,Hayao Miyazaki,Antonio Martínez,El Mercurio,Chile
+1063,1063, Million Dollar Baby ,4,2004,Clint Eastwood,Antonio Martínez,El Mercurio,Chile
+1064,1064, The Ghost Writer ,5,2010,Roman Polanski,Antonio Martínez,El Mercurio,Chile
+1065,1065, The Son's Room ,6,2001,Nanni Moretti,Antonio Martínez,El Mercurio,Chile
+1066,1066, A History of Violence ,7,2005,David Cronenberg,Antonio Martínez,El Mercurio,Chile
+1067,1067, Talk to Her ,8,2002,Pedro Almodóvar,Antonio Martínez,El Mercurio,Chile
+1068,1068, Before the Devil Knows You're Dead ,9,2007,Sidney Lumet,Antonio Martínez,El Mercurio,Chile
+1069,1069, Match Point ,10,2005,Woody Allen,Antonio Martínez,El Mercurio,Chile
+1070,1070, Carlos ,1,2010,Olivier Assayas,Todd McCarthy,The Hollywood Reporter,US
+1071,1071, Zodiac ,2,2007,David Fincher,Todd McCarthy,The Hollywood Reporter,US
+1072,1072, Leviathan ,3,2014,Andrey Zvyagintsev,Todd McCarthy,The Hollywood Reporter,US
+1073,1073, Mulholland Drive ,4,2001,David Lynch,Todd McCarthy,The Hollywood Reporter,US
+1074,1074, The Assassination of Jesse James by the Coward Robert Ford ,5,2007,Andrew Dominik,Todd McCarthy,The Hollywood Reporter,US
+1075,1075, The Incredibles ,6,2004,Brad Bird,Todd McCarthy,The Hollywood Reporter,US
+1076,1076, Children of Men ,7,2006,Alfonso Cuarón,Todd McCarthy,The Hollywood Reporter,US
+1077,1077, Fantastic Mr Fox ,8,2009,Wes Anderson,Todd McCarthy,The Hollywood Reporter,US
+1078,1078, Grizzly Man ,9,2005,Werner Herzog,Todd McCarthy,The Hollywood Reporter,US
+1079,1079, Brokeback Mountain ,10,2005,Ang Lee,Todd McCarthy,The Hollywood Reporter,US
+1080,1080, You Ain’t Seen Nothin’ Yet ,1,2012,Alain Resnais,Joe McElhaney,Hunter College,US
+1081,1081, No Home Movie ,2,2015,Chantal Akerman,Joe McElhaney,Hunter College,US
+1082,1082, The Romance of Astrea and Celadon ,3,2009,Éric Rohmer,Joe McElhaney,Hunter College,US
+1083,1083, The Strange Case of Angelica ,4,2010,Manoel de Oliveira,Joe McElhaney,Hunter College,US
+1084,1084, Michelangelo Eye to Eye ,5,2004,Michelangelo Antonioni,Joe McElhaney,Hunter College,US
+1085,1085, Warming by the Devil's Fire ,6,2003,Charles Burnett,Joe McElhaney,Hunter College,US
+1086,1086, The New World ,7,2005,Terrence Malick,Joe McElhaney,Hunter College,US
+1087,1087, Café Lumière ,8,2003,Hou Hsiao-hsien,Joe McElhaney,Hunter College,US
+1088,1088, You Will Meet a Tall Dark Stranger ,9,2010,Woody Allen,Joe McElhaney,Hunter College,US
+1089,1089, The Hateful Eight ,10,2015,Quentin Tarantino,Joe McElhaney,Hunter College,US
+1090,1090, Eternal Sunshine of the Spotless Mind ,1,2004,Michel Gondry,Drew McWeeny,HitFix,US
+1091,1091," Crouching Tiger, Hidden Dragon ",2,2000,Ang Lee,Drew McWeeny,HitFix,US
+1092,1092, Holy Motors ,3,2012,Leos Carax,Drew McWeeny,HitFix,US
+1093,1093, City of God ,4,2002,Fernando Meirelles and Kátia Lund,Drew McWeeny,HitFix,US
+1094,1094, Enter the Void ,5,2009,Gaspar Noé,Drew McWeeny,HitFix,US
+1095,1095, Hedwig and the Angry Inch ,6,2001,John Cameron Mitchell,Drew McWeeny,HitFix,US
+1096,1096, Melancholia ,7,2011,Lars von Trier,Drew McWeeny,HitFix,US
+1097,1097, Mad Max: Fury Road ,8,2015,George Miller,Drew McWeeny,HitFix,US
+1098,1098, The Lord of the Rings: The Fellowship of the Ring ,9,2001,Peter Jackson,Drew McWeeny,HitFix,US
+1099,1099, Grizzly Man ,10,2005,Werner Herzog,Drew McWeeny,HitFix,US
+1100,1100, Inherent Vice ,1,2014,Paul Thomas Anderson,Kim Morgan,Sight & Sound/Criterion,US
+1101,1101, Mulholland Drive ,2,2001,David Lynch,Kim Morgan,Sight & Sound/Criterion,US
+1102,1102, Melancholia ,3,2011,Lars von Trier,Kim Morgan,Sight & Sound/Criterion,US
+1103,1103, There Will Be Blood ,4,2007,Paul Thomas Anderson,Kim Morgan,Sight & Sound/Criterion,US
+1104,1104, Under the Skin ,5,2013,Jonathan Glazer,Kim Morgan,Sight & Sound/Criterion,US
+1105,1105, Fat Girl ,6,2001,Catherine Breillat,Kim Morgan,Sight & Sound/Criterion,US
+1106,1106, A Serious Man ,7,2009,Joel and Ethan Coen,Kim Morgan,Sight & Sound/Criterion,US
+1107,1107, Battle Royale ,8,2000,Kinji Fukasaku,Kim Morgan,Sight & Sound/Criterion,US
+1108,1108, The Turin Horse ,9,2011,Béla Tarr and Ágnes Hranitzky,Kim Morgan,Sight & Sound/Criterion,US
+1109,1109, Bad Lieutenant: Port of Call New Orleans ,10,2009,Werner Herzog,Kim Morgan,Sight & Sound/Criterion,US
+1110,1110, Mulholland Drive ,1,2001,David Lynch,Kate Muir,The Times,UK
+1111,1111, The Tree of Life ,2,2011,Terrence Malick,Kate Muir,The Times,UK
+1112,1112, Night Will Fall ,3,2014,André Singer,Kate Muir,The Times,UK
+1113,1113, 12 Years a Slave ,4,2013,Steve McQueen,Kate Muir,The Times,UK
+1114,1114, We Need to Talk About Kevin ,5,2011,Lynne Ramsay,Kate Muir,The Times,UK
+1115,1115, Boyhood ,6,2014,Richard Linklater,Kate Muir,The Times,UK
+1116,1116, Amour ,7,2012,Michael Haneke,Kate Muir,The Times,UK
+1117,1117, The Lives of Others ,8,2006,Florian Henckel von Donnersmarck,Kate Muir,The Times,UK
+1118,1118, Nostalgia for the Light ,9,2010,Patricio Guzmán,Kate Muir,The Times,UK
+1119,1119, Red Road ,10,2006,Andrea Arnold,Kate Muir,The Times,UK
+1120,1120, Before Midnight ,1,2013,Richard Linklater,Chris Nashawaty,Entertainment Weekly,US
+1121,1121, Eternal Sunshine of the Spotless Mind ,2,2004,Michel Gondry,Chris Nashawaty,Entertainment Weekly,US
+1122,1122, Munich ,3,2005,Steven Spielberg,Chris Nashawaty,Entertainment Weekly,US
+1123,1123, The Social Network ,4,2010,David Fincher,Chris Nashawaty,Entertainment Weekly,US
+1124,1124, The Grand Budapest Hotel ,5,2014,Wes Anderson,Chris Nashawaty,Entertainment Weekly,US
+1125,1125, Sexy Beast ,6,2000,Jonathan Glazer,Chris Nashawaty,Entertainment Weekly,US
+1126,1126, The Lobster ,7,2015,Yorgos Lanthimos,Chris Nashawaty,Entertainment Weekly,US
+1127,1127, Inglourious Basterds ,8,2009,Quentin Tarantino,Chris Nashawaty,Entertainment Weekly,US
+1128,1128, Best in Show ,9,2000,Christopher Guest,Chris Nashawaty,Entertainment Weekly,US
+1129,1129, Gladiator ,10,2000,Ridley Scott,Chris Nashawaty,Entertainment Weekly,US
+1130,1130, Yi Yi: A One and a Two ,1,2000,Edward Yang,Farran Smith Nehme,The New York Post/Film Comment,US
+1131,1131, A Separation ,2,2011,Asghar Farhadi,Farran Smith Nehme,The New York Post/Film Comment,US
+1132,1132, 25th Hour ,3,2002,Spike Lee,Farran Smith Nehme,The New York Post/Film Comment,US
+1133,1133," 4 Months, 3 Weeks & 2 Days ",4,2007,Cristian Mungiu,Farran Smith Nehme,The New York Post/Film Comment,US
+1134,1134, WALL-E ,5,2008,Andrew Stanton,Farran Smith Nehme,The New York Post/Film Comment,US
+1135,1135, Phoenix ,6,2014,Christian Petzold,Farran Smith Nehme,The New York Post/Film Comment,US
+1136,1136, Selma ,7,2014,Ava DuVernay,Farran Smith Nehme,The New York Post/Film Comment,US
+1137,1137, Timbuktu ,8,2014,Abderrahmane Sissako,Farran Smith Nehme,The New York Post/Film Comment,US
+1138,1138, About Elly ,9,2009,Asghar Farhadi,Farran Smith Nehme,The New York Post/Film Comment,US
+1139,1139, I’m Going Home ,10,2001,Manoel de Oliveira,Farran Smith Nehme,The New York Post/Film Comment,US
+1140,1140, Inside Llewyn Davis ,1,2013,Joel and Ethan Coen,Joe Neumaier,WOR-710AM New York,US
+1141,1141, There Will Be Blood ,2,2007,Paul Thomas Anderson,Joe Neumaier,WOR-710AM New York,US
+1142,1142, Inside Out ,3,2015,Pete Docter,Joe Neumaier,WOR-710AM New York,US
+1143,1143, Carol ,4,2015,Todd Haynes,Joe Neumaier,WOR-710AM New York,US
+1144,1144, Brooklyn ,5,2015,John Crowley,Joe Neumaier,WOR-710AM New York,US
+1145,1145," Crouching Tiger, Hidden Dragon ",6,2000,Ang Lee,Joe Neumaier,WOR-710AM New York,US
+1146,1146, Boyhood ,7,2014,Richard Linklater,Joe Neumaier,WOR-710AM New York,US
+1147,1147, Fruitvale Station ,8,2013,Ryan Coogler,Joe Neumaier,WOR-710AM New York,US
+1148,1148, Blue Valentine ,9,2010,Derek Cianfrance,Joe Neumaier,WOR-710AM New York,US
+1149,1149, Her ,10,2013,Spike Jonze,Joe Neumaier,WOR-710AM New York,US
+1150,1150, Good Bye Lenin! ,1,2003,Wolfgang Becker,Chris Newbould,The National,UAE
+1151,1151, Lost in Translation ,2,2003,Sofia Coppola,Chris Newbould,The National,UAE
+1152,1152, Spotlight ,3,2015,Tom McCarthy,Chris Newbould,The National,UAE
+1153,1153, Pan's Labyrinth ,4,2006,Guillermo Del Toro,Chris Newbould,The National,UAE
+1154,1154, Mad Max: Fury Road ,5,2015,George Miller,Chris Newbould,The National,UAE
+1155,1155, The Baader Meinhof Complex ,6,2008,Uli Edel,Chris Newbould,The National,UAE
+1156,1156, Boyhood ,7,2014,Richard Linklater,Chris Newbould,The National,UAE
+1157,1157, No Man's Land ,8,2001,Danis Tanovic,Chris Newbould,The National,UAE
+1158,1158, Che ,9,2008,Steven Soderbergh,Chris Newbould,The National,UAE
+1159,1159, Ghost World ,10,2001,Terry Zwigoff,Chris Newbould,The National,UAE
+1160,1160," Synecdoche, New York ",1,2008,Charlie Kaufman,Amy Nicholson,MTV News,US
+1161,1161, Eternal Sunshine of the Spotless Mind ,2,2004,Michel Gondry,Amy Nicholson,MTV News,US
+1162,1162, Django Unchained ,3,2012,Quentin Tarantino,Amy Nicholson,MTV News,US
+1163,1163, The Grand Budapest Hotel ,4,2014,Wes Anderson,Amy Nicholson,MTV News,US
+1164,1164, Alpha Dog ,5,2006,Nick Cassavetes,Amy Nicholson,MTV News,US
+1165,1165, Her ,6,2013,Spike Jonze,Amy Nicholson,MTV News,US
+1166,1166, Young Adult ,7,2011,Jason Reitman,Amy Nicholson,MTV News,US
+1167,1167, The Dark Knight ,8,2008,Christopher Nolan,Amy Nicholson,MTV News,US
+1168,1168, Tropic Thunder ,9,2008,Ben Stiller,Amy Nicholson,MTV News,US
+1169,1169, Children of Men ,10,2006,Alfonso Cuarón,Amy Nicholson,MTV News,US
+1170,1170, Memento ,1,2000,Christopher Nolan,Ong Soh Chin,Freelance,Singapore
+1171,1171, Oldboy ,2,2003,Park Chan-wook,Ong Soh Chin,Freelance,Singapore
+1172,1172, The Circle ,3,2000,Jafar Panahi,Ong Soh Chin,Freelance,Singapore
+1173,1173, The Lives of Others ,4,2006,Florian Henckel von Donnersmarck,Ong Soh Chin,Freelance,Singapore
+1174,1174, Dirty Pretty Things ,5,2002,Stephen Frears,Ong Soh Chin,Freelance,Singapore
+1175,1175, We Need to Talk About Kevin ,6,2011,Lynne Ramsay,Ong Soh Chin,Freelance,Singapore
+1176,1176, The Imposter ,7,2012,Bart Layton,Ong Soh Chin,Freelance,Singapore
+1177,1177, A Girl Walks Home Alone at Night ,8,2014,Ana Lily Amirpour,Ong Soh Chin,Freelance,Singapore
+1178,1178, Mother ,9,2009,Bong Joon-ho,Ong Soh Chin,Freelance,Singapore
+1179,1179, Bone Tomahawk ,10,2015,S. Craig Zahler,Ong Soh Chin,Freelance,Singapore
+1180,1180, Boyhood ,1,2014,Richard Linklater,Susanne Ostwald,Neue Zürcher Zeitung,Switzerland
+1181,1181, Melancholia ,2,2011,Lars von Trier,Susanne Ostwald,Neue Zürcher Zeitung,Switzerland
+1182,1182, The Great Beauty ,3,2013,Paolo Sorrentino,Susanne Ostwald,Neue Zürcher Zeitung,Switzerland
+1183,1183, The White Ribbon ,4,2009,Michael Haneke,Susanne Ostwald,Neue Zürcher Zeitung,Switzerland
+1184,1184, A Separation ,5,2011,Asghar Farhadi,Susanne Ostwald,Neue Zürcher Zeitung,Switzerland
+1185,1185, Winter Sleep ,6,2014,Nuri Bilge Ceylan,Susanne Ostwald,Neue Zürcher Zeitung,Switzerland
+1186,1186, Spirited Away ,7,2001,Hayao Miyazaki,Susanne Ostwald,Neue Zürcher Zeitung,Switzerland
+1187,1187, The Artist ,8,2011,Michel Hazanavicius,Susanne Ostwald,Neue Zürcher Zeitung,Switzerland
+1188,1188, Spring Breakers ,9,2012,Harmony Korine,Susanne Ostwald,Neue Zürcher Zeitung,Switzerland
+1189,1189, The Queen ,10,2006,Stephen Frears,Susanne Ostwald,Neue Zürcher Zeitung,Switzerland
+1190,1190, Caché ,1,2005,Michael Haneke,Matthew Patches,Thrillist,US
+1191,1191, Spirited Away ,2,2001,Hayao Miyazaki,Matthew Patches,Thrillist,US
+1192,1192, Eternal Sunshine of the Spotless Mind ,3,2004,Michel Gondry,Matthew Patches,Thrillist,US
+1193,1193, The Tree of Life ,4,2011,Terrence Malick,Matthew Patches,Thrillist,US
+1194,1194, The Grand Budapest Hotel ,5,2014,Wes Anderson,Matthew Patches,Thrillist,US
+1195,1195, The Comedy ,6,2012,Rick Alverson,Matthew Patches,Thrillist,US
+1196,1196, Zero Dark Thirty ,7,2012,Kathryn Bigelow,Matthew Patches,Thrillist,US
+1197,1197, No Country For Old Men ,8,2007,Joel and Ethan Coen,Matthew Patches,Thrillist,US
+1198,1198, Memories of Murder ,9,2003,Bong Joon-ho,Matthew Patches,Thrillist,US
+1199,1199, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,10,2006,Larry Charles,Matthew Patches,Thrillist,US
+1200,1200, There Will Be Blood ,1,2007,Paul Thomas Anderson,Steve Persall,Tampa Bay Times,US
+1201,1201, Pan's Labyrinth ,2,2006,Guillermo Del Toro,Steve Persall,Tampa Bay Times,US
+1202,1202, Children of Men ,3,2006,Alfonso Cuarón,Steve Persall,Tampa Bay Times,US
+1203,1203, Brokeback Mountain ,4,2005,Ang Lee,Steve Persall,Tampa Bay Times,US
+1204,1204, The Dark Knight ,5,2008,Christopher Nolan,Steve Persall,Tampa Bay Times,US
+1205,1205, Almost Famous ,6,2000,Cameron Crowe,Steve Persall,Tampa Bay Times,US
+1206,1206, A Serious Man ,7,2009,Joel and Ethan Coen,Steve Persall,Tampa Bay Times,US
+1207,1207, Kill Bill: Vol. 1 ,8,2003,Quentin Tarantino,Steve Persall,Tampa Bay Times,US
+1208,1208, Donnie Darko ,9,2001,Richard Kelly,Steve Persall,Tampa Bay Times,US
+1209,1209," O Brother, Where Art Thou? ",10,2000,Joel and Ethan Coen,Steve Persall,Tampa Bay Times,US
+1210,1210, There Will Be Blood ,1,2007,Paul Thomas Anderson,Michael Phillips,Chicago Tribune,US
+1211,1211, Ratatouille ,2,2007,Brad Bird and Jan Pinkava,Michael Phillips,Chicago Tribune,US
+1212,1212, Climates ,3,2006,Nuri Bilge Ceylan,Michael Phillips,Chicago Tribune,US
+1213,1213, Mulholland Drive ,4,2001,David Lynch,Michael Phillips,Chicago Tribune,US
+1214,1214, Y Tu Mamá También ,5,2001,Alfonso Cuarón,Michael Phillips,Chicago Tribune,US
+1215,1215, Her ,6,2013,Spike Jonze,Michael Phillips,Chicago Tribune,US
+1216,1216, Boyhood ,7,2014,Richard Linklater,Michael Phillips,Chicago Tribune,US
+1217,1217, Poetry ,8,2010,Lee Chang-dong,Michael Phillips,Chicago Tribune,US
+1218,1218, The Grand Budapest Hotel ,9,2014,Wes Anderson,Michael Phillips,Chicago Tribune,US
+1219,1219, Zodiac ,10,2007,David Fincher,Michael Phillips,Chicago Tribune,US
+1220,1220, Yi Yi: A One and a Two ,1,2000,Edward Yang,Keith Phipps,Uproxx,US
+1221,1221, Y Tu Mamá También ,2,2001,Alfonso Cuarón,Keith Phipps,Uproxx,US
+1222,1222, Mulholland Drive ,3,2001,David Lynch,Keith Phipps,Uproxx,US
+1223,1223, Waking Life ,4,2001,Richard Linklater,Keith Phipps,Uproxx,US
+1224,1224, In the Mood for Love ,5,2000,Wong Kar-wai,Keith Phipps,Uproxx,US
+1225,1225, Moonrise Kingdom ,6,2012,Wes Anderson,Keith Phipps,Uproxx,US
+1226,1226, 25th Hour ,7,2002,Spike Lee,Keith Phipps,Uproxx,US
+1227,1227, Certified Copy ,8,2010,Abbas Kiarostami,Keith Phipps,Uproxx,US
+1228,1228, AI: Artificial Intelligence ,9,2001,Steven Spielberg,Keith Phipps,Uproxx,US
+1229,1229, Only Lovers Left Alive ,10,2013,Jim Jarmusch,Keith Phipps,Uproxx,US
+1230,1230, Melancholia ,1,2011,Lars von Trier,Hannah Pilarczyk,Der Spiegel,Germany
+1231,1231, Spirited Away ,2,2001,Hayao Miyazaki,Hannah Pilarczyk,Der Spiegel,Germany
+1232,1232, Beyond the Hills ,3,2012,Cristian Mungiu,Hannah Pilarczyk,Der Spiegel,Germany
+1233,1233, Let the Right One In ,4,2008,Tomas Alfredson,Hannah Pilarczyk,Der Spiegel,Germany
+1234,1234, Stories We Tell ,5,2012,Sarah Polley,Hannah Pilarczyk,Der Spiegel,Germany
+1235,1235, Carol ,6,2015,Todd Haynes,Hannah Pilarczyk,Der Spiegel,Germany
+1236,1236, The Death of Mr Lazarescu ,7,2005,Cristi Puiu,Hannah Pilarczyk,Der Spiegel,Germany
+1237,1237, The Master ,8,2012,Paul Thomas Anderson,Hannah Pilarczyk,Der Spiegel,Germany
+1238,1238, Caché ,9,2005,Michael Haneke,Hannah Pilarczyk,Der Spiegel,Germany
+1239,1239, All Divided Selves ,10,2011,Luke Fowler,Hannah Pilarczyk,Der Spiegel,Germany
+1240,1240, The White Ribbon ,1,2009,Michael Haneke,Agnès C Poirier,Marianne,France
+1241,1241, Winter Sleep ,2,2014,Nuri Bilge Ceylan,Agnès C Poirier,Marianne,France
+1242,1242, Timbuktu ,3,2014,Abderrahmane Sissako,Agnès C Poirier,Marianne,France
+1243,1243, Mia Madre ,4,2015,Nanni Moretti,Agnès C Poirier,Marianne,France
+1244,1244, The Return ,5,2003,Andrey Zvyagintsev,Agnès C Poirier,Marianne,France
+1245,1245, Oasis ,6,2002,Lee Chang-dong,Agnès C Poirier,Marianne,France
+1246,1246, Bad Education ,7,2004,Pedro Almodóvar,Agnès C Poirier,Marianne,France
+1247,1247, The Artist ,8,2011,Michel Hazanavicius,Agnès C Poirier,Marianne,France
+1248,1248, Oldboy ,9,2003,Park Chan-wook,Agnès C Poirier,Marianne,France
+1249,1249, The House of Mirth ,10,2000,Terence Davies,Agnès C Poirier,Marianne,France
+1250,1250, Boyhood ,1,2014,Richard Linklater,Claudia Puig,Freelance film critic,US
+1251,1251," Crouching Tiger, Hidden Dragon ",2,2000,Ang Lee,Claudia Puig,Freelance film critic,US
+1252,1252, Locke ,3,2013,Steven Knight,Claudia Puig,Freelance film critic,US
+1253,1253, The Hurt Locker ,4,2008,Kathryn Bigelow,Claudia Puig,Freelance film critic,US
+1254,1254, Pan's Labyrinth ,5,2006,Guillermo Del Toro,Claudia Puig,Freelance film critic,US
+1255,1255, The Lives of Others ,6,2006,Florian Henckel von Donnersmarck,Claudia Puig,Freelance film critic,US
+1256,1256, Sin Nombre ,7,2009,Cary Joji Fukunaga,Claudia Puig,Freelance film critic,US
+1257,1257, Nebraska ,8,2013,Alexander Payne,Claudia Puig,Freelance film critic,US
+1258,1258, Fruitvale Station ,9,2013,Ryan Coogler,Claudia Puig,Freelance film critic,US
+1259,1259, Man on Wire ,10,2008,James Marsh,Claudia Puig,Freelance film critic,US
+1260,1260, A Separation ,1,2011,Asghar Farhadi,Zakir Hossein Raju,Independent University,Bangladesh
+1261,1261, Babel ,2,2006,Alejandro González Iñárritu,Zakir Hossein Raju,Independent University,Bangladesh
+1262,1262," Spring, Summer, Fall, Winter…and Spring ",3,2003,Kim Ki-duk,Zakir Hossein Raju,Independent University,Bangladesh
+1263,1263, In the Mood for Love ,4,2000,Wong Kar-wai,Zakir Hossein Raju,Independent University,Bangladesh
+1264,1264, Spirited Away ,5,2001,Hayao Miyazaki,Zakir Hossein Raju,Independent University,Bangladesh
+1265,1265, Brokeback Mountain ,6,2005,Ang Lee,Zakir Hossein Raju,Independent University,Bangladesh
+1266,1266, Oldboy ,7,2003,Park Chan-wook,Zakir Hossein Raju,Independent University,Bangladesh
+1267,1267, Ten ,8,2002,Abbas Kiarostami,Zakir Hossein Raju,Independent University,Bangladesh
+1268,1268, Russian Ark ,9,2002,Aleksandr Sokurov,Zakir Hossein Raju,Independent University,Bangladesh
+1269,1269, Once Upon a Time in Anatolia ,10,2011,Nuri Bilge Ceylan,Zakir Hossein Raju,Independent University,Bangladesh
+1270,1270, Goodbye to Language ,1,2014,Jean-Luc Godard,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Cuba
+1271,1271, Colossal Youth ,2,2006,Pedro Costa,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Cuba
+1272,1272, Werckmeister Harmonies ,3,2000,Béla Tarr and Ágnes Hranitzky,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Cuba
+1273,1273, Holy Motors ,4,2012,Leos Carax,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Cuba
+1274,1274, Uncle Boonmee Who Can Recall His Past Lives ,5,2010,Apichatpong Weerasethakul,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Cuba
+1275,1275, Leviathan ,6,2014,Andrey Zvyagintsev,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Cuba
+1276,1276, Tabu ,7,2012,Miguel Gomes,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Cuba
+1277,1277, The Sky Trembles and the Earth Is Afraid and the Two Eyes Are Not Brothers ,8,2015,Ben Rivers,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Cuba
+1278,1278, From What Is Before ,9,2014,Lav Diaz,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Cuba
+1279,1279, Lost and Beautiful ,10,2015,Pietro Marcello,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Cuba
+1280,1280, The Tree of Life ,1,2011,Terrence Malick,Jordan Raup,The Film Stage,US
+1281,1281, In the Mood for Love ,2,2000,Wong Kar-wai,Jordan Raup,The Film Stage,US
+1282,1282, The Assassination of Jesse James by the Coward Robert Ford ,3,2007,Andrew Dominik,Jordan Raup,The Film Stage,US
+1283,1283, Inside Llewyn Davis ,4,2013,Joel and Ethan Coen,Jordan Raup,The Film Stage,US
+1284,1284, Zodiac ,5,2007,David Fincher,Jordan Raup,The Film Stage,US
+1285,1285, Inherent Vice ,6,2014,Paul Thomas Anderson,Jordan Raup,The Film Stage,US
+1286,1286, Children of Men ,7,2006,Alfonso Cuarón,Jordan Raup,The Film Stage,US
+1287,1287, Lost in Translation ,8,2003,Sofia Coppola,Jordan Raup,The Film Stage,US
+1288,1288, 25th Hour ,9,2002,Spike Lee,Jordan Raup,The Film Stage,US
+1289,1289, Carol ,10,2015,Todd Haynes,Jordan Raup,The Film Stage,US
+1290,1290, Mulholland Drive ,1,2001,David Lynch,Isabelle Regnier,Le Monde,France
+1291,1291, The Captive ,2,2000,Chantal Akerman,Isabelle Regnier,Le Monde,France
+1292,1292, Tie Xi Qu: West of the Tracks ,3,2002,Wang Bing,Isabelle Regnier,Le Monde,France
+1293,1293, The Yards ,4,2000,James Gray,Isabelle Regnier,Le Monde,France
+1294,1294, Platform ,5,2000,Jia Zhangke,Isabelle Regnier,Le Monde,France
+1295,1295, Shara ,6,2003,Naomi Kawase,Isabelle Regnier,Le Monde,France
+1296,1296, Ten ,7,2002,Abbas Kiarostami,Isabelle Regnier,Le Monde,France
+1297,1297, Twixt ,8,2011,Francis Ford Coppola,Isabelle Regnier,Le Monde,France
+1298,1298, To Die Like a Man ,9,2009,João Pedro Rodrigues,Isabelle Regnier,Le Monde,France
+1299,1299, Spring Breakers ,10,2012,Harmony Korine,Isabelle Regnier,Le Monde,France
+1300,1300, The Diving Bell and the Butterfly ,1,2007,Julian Schnabel,Mauricio Reina,El Tiempo,Colombia
+1301,1301, Blue Is the Warmest Color ,2,2013,Abdellatif Kechiche,Mauricio Reina,El Tiempo,Colombia
+1302,1302, Let the Right One In ,3,2008,Tomas Alfredson,Mauricio Reina,El Tiempo,Colombia
+1303,1303, The Act of Killing ,4,2012,Joshua Oppenheimer,Mauricio Reina,El Tiempo,Colombia
+1304,1304, Pan's Labyrinth ,5,2006,Guillermo Del Toro,Mauricio Reina,El Tiempo,Colombia
+1305,1305, There Will Be Blood ,6,2007,Paul Thomas Anderson,Mauricio Reina,El Tiempo,Colombia
+1306,1306, A Separation ,7,2011,Asghar Farhadi,Mauricio Reina,El Tiempo,Colombia
+1307,1307, A Prophet ,8,2009,Jacques Audiard,Mauricio Reina,El Tiempo,Colombia
+1308,1308, WALL-E ,9,2008,Andrew Stanton,Mauricio Reina,El Tiempo,Colombia
+1309,1309, District 9 ,10,2009,Neill Blomkamp,Mauricio Reina,El Tiempo,Colombia
+1310,1310, Certified Copy ,1,2010,Abbas Kiarostami,Scott Renshaw,Salt Lake City Weekly,US
+1311,1311, Inside Llewyn Davis ,2,2013,Joel and Ethan Coen,Scott Renshaw,Salt Lake City Weekly,US
+1312,1312, The Master ,3,2012,Paul Thomas Anderson,Scott Renshaw,Salt Lake City Weekly,US
+1313,1313, In the Mood for Love ,4,2000,Wong Kar-wai,Scott Renshaw,Salt Lake City Weekly,US
+1314,1314, It's Such a Beautiful Day ,5,2012,Don Hertzfeldt,Scott Renshaw,Salt Lake City Weekly,US
+1315,1315, The Deep Blue Sea ,6,2011,Terence Davies,Scott Renshaw,Salt Lake City Weekly,US
+1316,1316, Eternal Sunshine of the Spotless Mind ,7,2004,Michel Gondry,Scott Renshaw,Salt Lake City Weekly,US
+1317,1317, Sita Sings the Blues ,8,2008,Nina Paley,Scott Renshaw,Salt Lake City Weekly,US
+1318,1318, The Babadook ,9,2014,Jennifer Kent,Scott Renshaw,Salt Lake City Weekly,US
+1319,1319, Holy Motors ,10,2012,Leos Carax,Scott Renshaw,Salt Lake City Weekly,US
+1320,1320, Eternal Sunshine of the Spotless Mind ,1,2004,Michel Gondry,Katey Rich,Vanity Fair,US
+1321,1321, WALL-E ,2,2008,Andrew Stanton,Katey Rich,Vanity Fair,US
+1322,1322, In the Mood for Love ,3,2000,Wong Kar-wai,Katey Rich,Vanity Fair,US
+1323,1323, There Will Be Blood ,4,2007,Paul Thomas Anderson,Katey Rich,Vanity Fair,US
+1324,1324, Take This Waltz ,5,2011,Sarah Polley,Katey Rich,Vanity Fair,US
+1325,1325, The Diving Bell and the Butterfly ,6,2007,Julian Schnabel,Katey Rich,Vanity Fair,US
+1326,1326, Son of Saul ,7,2015,László Nemes,Katey Rich,Vanity Fair,US
+1327,1327, Man on Wire ,8,2008,James Marsch,Katey Rich,Vanity Fair,US
+1328,1328," 4 Months, 3 Weeks & 2 Days ",9,2007,Cristian Mungiu,Katey Rich,Vanity Fair,US
+1329,1329, Avatar ,10,2009,James Cameron,Katey Rich,Vanity Fair,US
+1330,1330," Crouching Tiger, Hidden Dragon ",1,2000,Ang Lee,Carrie Rickey,Freelance film critic,US
+1331,1331, Bend It Like Beckham ,2,2002,Gurinder Chadha,Carrie Rickey,Freelance film critic,US
+1332,1332, Her ,3,2013,Spike Jonze,Carrie Rickey,Freelance film critic,US
+1333,1333, Ida ,4,2013,Paweł Pawlikowski,Carrie Rickey,Freelance film critic,US
+1334,1334, The Namesake ,5,2006,Mira Nair,Carrie Rickey,Freelance film critic,US
+1335,1335, The New World ,6,2005,Terrence Malick,Carrie Rickey,Freelance film critic,US
+1336,1336, Pan's Labyrinth ,7,2006,Guillermo Del Toro,Carrie Rickey,Freelance film critic,US
+1337,1337, Paradise Now ,8,2005,Hany Abu-Assad,Carrie Rickey,Freelance film critic,US
+1338,1338, Selma ,9,2014,Ava DuVernay,Carrie Rickey,Freelance film critic,US
+1339,1339, The Social Network ,10,2010,David Fincher,Carrie Rickey,Freelance film critic,US
+1340,1340, Eternal Sunshine of the Spotless Mind ,1,2004,Michel Gondry,Sam Rigby,BBC Culture,UK
+1341,1341, Brokeback Mountain ,2,2005,Ang Lee,Sam Rigby,BBC Culture,UK
+1342,1342, The Dark Knight ,3,2008,Christopher Nolan,Sam Rigby,BBC Culture,UK
+1343,1343, Finding Nemo ,4,2003,Andrew Stanton and Lee Unkrich,Sam Rigby,BBC Culture,UK
+1344,1344, Whiplash ,5,2014,Damien Chazelle,Sam Rigby,BBC Culture,UK
+1345,1345, Shame ,6,2011,Steve McQueen,Sam Rigby,BBC Culture,UK
+1346,1346, Revolutionary Road ,7,2008,Sam Mendes,Sam Rigby,BBC Culture,UK
+1347,1347, Inside Llewyn Davis ,8,2013,Joel and Ethan Coen,Sam Rigby,BBC Culture,UK
+1348,1348, Weekend ,9,2011,Andrew Haigh,Sam Rigby,BBC Culture,UK
+1349,1349, Persepolis ,10,2007,Vincent Paronnaud and Marjane Satrapi,Sam Rigby,BBC Culture,UK
+1350,1350, In the Mood for Love ,1,2000,Wong Kar-wai,Antonio\xa0Mazón Robau,Cinemateca de Cuba,Cuba
+1351,1351, Son of Saul ,2,2015,László Nemes,Antonio\xa0Mazón Robau,Cinemateca de Cuba,Cuba
+1352,1352, The Hurt Locker ,3,2008,Kathryn Bigelow,Antonio\xa0Mazón Robau,Cinemateca de Cuba,Cuba
+1353,1353, The Beat That My Heart Skipped ,4,2005,Jacques Audiard,Antonio\xa0Mazón Robau,Cinemateca de Cuba,Cuba
+1354,1354, The Edge of Heaven ,5,2007,Fatih Akin,Antonio\xa0Mazón Robau,Cinemateca de Cuba,Cuba
+1355,1355, Waltz with Bashir ,6,2008,Ari Folman,Antonio\xa0Mazón Robau,Cinemateca de Cuba,Cuba
+1356,1356, Oldboy ,7,2003,Park Chan-wook,Antonio\xa0Mazón Robau,Cinemateca de Cuba,Cuba
+1357,1357, Good Bye Lenin! ,8,2003,Wolfgang Becker,Antonio\xa0Mazón Robau,Cinemateca de Cuba,Cuba
+1358,1358, Ida ,9,2013,Paweł Pawlikowski,Antonio\xa0Mazón Robau,Cinemateca de Cuba,Cuba
+1359,1359, Incendies ,10,2010,Denis Villeneuve,Antonio\xa0Mazón Robau,Cinemateca de Cuba,Cuba
+1360,1360, Mulholland Drive ,1,2001,David Lynch,Tim Robey,The Daily Telegraph,UK
+1361,1361," Synecdoche, New York ",2,2008,Charlie Kaufman,Tim Robey,The Daily Telegraph,UK
+1362,1362, Birth ,3,2004,Jonathan Glazer,Tim Robey,The Daily Telegraph,UK
+1363,1363, Elena ,4,2011,Andrey Zvyagintsev,Tim Robey,The Daily Telegraph,UK
+1364,1364, Carol ,5,2015,Todd Haynes,Tim Robey,The Daily Telegraph,UK
+1365,1365, Tabu ,6,2012,Miguel Gomes,Tim Robey,The Daily Telegraph,UK
+1366,1366, Master and Commander: The Far Side of the World ,7,2003,Peter Weir,Tim Robey,The Daily Telegraph,UK
+1367,1367, Margaret ,8,2011,Kenneth Lonergan,Tim Robey,The Daily Telegraph,UK
+1368,1368, There Will Be Blood ,9,2007,Paul Thomas Anderson,Tim Robey,The Daily Telegraph,UK
+1369,1369, 12 Years a Slave ,10,2013,Steve McQueen,Tim Robey,The Daily Telegraph,UK
+1370,1370, 25th Hour ,1,2002,Spike Lee,Tasha Robinson,The Verge,US
+1371,1371, City of God ,2,2002,Fernando Meirelles and Kátia Lund,Tasha Robinson,The Verge,US
+1372,1372, The Act of Killing ,3,2012,Joshua Oppenheimer,Tasha Robinson,The Verge,US
+1373,1373, The Prestige ,4,2006,Christopher Nolan,Tasha Robinson,The Verge,US
+1374,1374, Spirited Away ,5,2001,Hayao Miyazaki,Tasha Robinson,The Verge,US
+1375,1375, The Incredibles ,6,2004,Brad Bird,Tasha Robinson,The Verge,US
+1376,1376, Gosford Park ,7,2001,Robert Altman,Tasha Robinson,The Verge,US
+1377,1377, Memento ,8,2000,Christopher Nolan,Tasha Robinson,The Verge,US
+1378,1378, Song of the Sea ,9,2014,Tomm Moore,Tasha Robinson,The Verge,US
+1379,1379," Synecdoche, New York ",10,2008,Charlie Kaufman,Tasha Robinson,The Verge,US
+1380,1380, Mulholland Drive ,1,2001,David Lynch,Rene Rodriguez,The Miami Herald,US
+1381,1381, In the Mood for Love ,2,2000,Wong Kar-wai,Rene Rodriguez,The Miami Herald,US
+1382,1382, No Country For Old Men ,3,2007,Joel and Ethan Coen,Rene Rodriguez,The Miami Herald,US
+1383,1383, There Will Be Blood ,4,2007,Paul Thomas Anderson,Rene Rodriguez,The Miami Herald,US
+1384,1384, Spirited Away ,5,2001,Hayao Miyazaki,Rene Rodriguez,The Miami Herald,US
+1385,1385, City of God ,6,2002,Fernando Meirelles and Kátia Lund,Rene Rodriguez,The Miami Herald,US
+1386,1386, Yi Yi: A One and a Two ,7,2000,Edward Yang,Rene Rodriguez,The Miami Herald,US
+1387,1387, Adaptation ,8,2002,Spike Jonze,Rene Rodriguez,The Miami Herald,US
+1388,1388, A Separation ,9,2011,Asghar Farhadi,Rene Rodriguez,The Miami Herald,US
+1389,1389, Elephant ,10,2003,Gus Van Sant,Rene Rodriguez,The Miami Herald,US
+1390,1390, Werckmeister Harmonies ,1,2000,Béla Tarr and Ágnes Hranitzky,Jonathan Romney,Freelance film critic,UK
+1391,1391, Syndromes and a Century ,2,2006,Apichatpong Weerasethakul,Jonathan Romney,Freelance film critic,UK
+1392,1392, My Winnipeg ,3,2007,Guy Maddin,Jonathan Romney,Freelance film critic,UK
+1393,1393, 35 Shots of Rum ,4,2008,Claire Denis,Jonathan Romney,Freelance film critic,UK
+1394,1394, The Royal Tenenbaums ,5,2001,Wes Anderson,Jonathan Romney,Freelance film critic,UK
+1395,1395, The Great Beauty ,6,2013,Paolo Sorrentino,Jonathan Romney,Freelance film critic,UK
+1396,1396," Monsters, Inc. ",7,2001,"Pete Docter, David Silverman and Lee Unkrich",Jonathan Romney,Freelance film critic,UK
+1397,1397, The Arbor ,8,2010,Clio Barnard,Jonathan Romney,Freelance film critic,UK
+1398,1398, The Clock ,9,2010,Christian Marclay,Jonathan Romney,Freelance film critic,UK
+1399,1399," Goodbye, Dragon Inn ",10,2003,Tsai Ming-liang,Jonathan Romney,Freelance film critic,UK
+1400,1400, Zodiac ,1,2007,David Fincher,Alyssa Rosenberg,The Washington Post,US
+1401,1401," Crouching Tiger, Hidden Dragon ",2,2000,Ang Lee,Alyssa Rosenberg,The Washington Post,US
+1402,1402, Zero Dark Thirty ,3,2012,Kathryn Bigelow,Alyssa Rosenberg,The Washington Post,US
+1403,1403, Spirited Away ,4,2001,Hayao Miyazaki,Alyssa Rosenberg,The Washington Post,US
+1404,1404, 2046 ,5,2004,Wong Kar-wai,Alyssa Rosenberg,The Washington Post,US
+1405,1405, Moonrise Kingdom ,6,2012,Wes Anderson,Alyssa Rosenberg,The Washington Post,US
+1406,1406, Beasts of the Southern Wild ,7,2012,Benh Zeitlin,Alyssa Rosenberg,The Washington Post,US
+1407,1407, Boyhood ,8,2014,Richard Linklater,Alyssa Rosenberg,The Washington Post,US
+1408,1408, Short Term 12 ,9,2013,Destin Daniel Cretton,Alyssa Rosenberg,The Washington Post,US
+1409,1409, Monster ,10,2003,Patty Jenkins,Alyssa Rosenberg,The Washington Post,US
+1410,1410, Caramel ,1,2007,Nadine Labaki,E Nina Rothe,The Huffington Post,Italy
+1411,1411, The Tiger and the Snow ,2,2005,Roberto Benigni,E Nina Rothe,The Huffington Post,Italy
+1412,1412, Taxi Tehran ,3,2015,Jafar Panahi,E Nina Rothe,The Huffington Post,Italy
+1413,1413, A Borrowed Identity ,4,2014,Eran Riklis,E Nina Rothe,The Huffington Post,Italy
+1414,1414, When I Saw You ,5,2012,Annemarie Jacir,E Nina Rothe,The Huffington Post,Italy
+1415,1415, 99 Homes ,6,2014,Ramin Bahrani,E Nina Rothe,The Huffington Post,Italy
+1416,1416, Somewhere ,7,2010,Sofia Coppola,E Nina Rothe,The Huffington Post,Italy
+1417,1417, Human ,8,2015,Yann Arthus-Bertrand,E Nina Rothe,The Huffington Post,Italy
+1418,1418, Brokeback Mountain ,9,2005,Ang Lee,E Nina Rothe,The Huffington Post,Italy
+1419,1419, About Elly ,10,2009,Asghar Farhadi,E Nina Rothe,The Huffington Post,Italy
+1420,1420, Zodiac ,1,2007,David Fincher,Joshua Rothkopf,Time Out New York,US
+1421,1421, Mulholland Drive ,2,2001,David Lynch,Joshua Rothkopf,Time Out New York,US
+1422,1422, In the Mood for Love ,3,2000,Wong Kar-wai,Joshua Rothkopf,Time Out New York,US
+1423,1423, Yi Yi: A One and a Two ,4,2000,Edward Yang,Joshua Rothkopf,Time Out New York,US
+1424,1424, Boyhood ,5,2014,Richard Linklater,Joshua Rothkopf,Time Out New York,US
+1425,1425, American Psycho ,6,2000,Mary Harron,Joshua Rothkopf,Time Out New York,US
+1426,1426, Lilya 4-Ever ,7,2002,Lukas Moodysson,Joshua Rothkopf,Time Out New York,US
+1427,1427, Drive ,8,2011,Nicolas Winding Refn,Joshua Rothkopf,Time Out New York,US
+1428,1428, 25th Hour ,9,2002,Spike Lee,Joshua Rothkopf,Time Out New York,US
+1429,1429, A Serious Man ,10,2009,Joel and Ethan Coen,Joshua Rothkopf,Time Out New York,US
+1430,1430, The Tree of Life ,1,2011,Terrence Malick,Mohammed Rouda,Asharq Al-Awsat,Lebanon
+1431,1431, Children of Men ,2,2006,Alfonso Cuarón,Mohammed Rouda,Asharq Al-Awsat,Lebanon
+1432,1432, Alexandre Sokurov ,3,2015,Aleksandr Sokurov,Mohammed Rouda,Asharq Al-Awsat,Lebanon
+1433,1433, There Will Be Blood ,4,2007,Paul Thomas Anderson,Mohammed Rouda,Asharq Al-Awsat,Lebanon
+1434,1434, Letters From Iwo Jima ,5,2006,Clint Eastwood,Mohammed Rouda,Asharq Al-Awsat,Lebanon
+1435,1435, The Death of Mr Lazarescu ,6,2005,Cristi Puiu,Mohammed Rouda,Asharq Al-Awsat,Lebanon
+1436,1436, Paradise Now ,7,2005,Hany Abu-Assad,Mohammed Rouda,Asharq Al-Awsat,Lebanon
+1437,1437, Leviathan ,8,2014,Andrey Zvyagintsev,Mohammed Rouda,Asharq Al-Awsat,Lebanon
+1438,1438, A Pigeon Sat on a Branch Reflecting on Existence ,9,2014,Roy Andersson,Mohammed Rouda,Asharq Al-Awsat,Lebanon
+1439,1439, Amélie ,10,2001,Jean-Pierre Jeunet,Mohammed Rouda,Asharq Al-Awsat,Lebanon
+1440,1440, Inside Llewyn Davis ,1,2013,Joel and Ethan Coen,Mike Ryan,Uproxx,US
+1441,1441, 25th Hour ,2,2002,Spike Lee,Mike Ryan,Uproxx,US
+1442,1442, Almost Famous ,3,2000,Cameron Crowe,Mike Ryan,Uproxx,US
+1443,1443, Lost in Translation ,4,2003,Sofia Coppola,Mike Ryan,Uproxx,US
+1444,1444, Punch-Drunk Love ,5,2002,Paul Thomas Anderson,Mike Ryan,Uproxx,US
+1445,1445, Zodiac ,6,2007,David Fincher,Mike Ryan,Uproxx,US
+1446,1446, Eternal Sunshine of the Spotless Mind ,7,2004,Michel Gondry,Mike Ryan,Uproxx,US
+1447,1447, The Social Network ,8,2010,David Fincher,Mike Ryan,Uproxx,US
+1448,1448, 12 Years a Slave ,9,2013,Steve McQueen,Mike Ryan,Uproxx,US
+1449,1449, Spotlight ,10,2015,Tom McCarthy,Mike Ryan,Uproxx,US
+1450,1450, In the Mood for Love ,1,2000,Wong Kar-wai,Alaka Sahani,The Indian Express,India
+1451,1451, The Lives of Others ,2,2006,Florian Henckel von Donnersmarck,Alaka Sahani,The Indian Express,India
+1452,1452, Eternal Sunshine of the Spotless Mind ,3,2004,Michel Gondry,Alaka Sahani,The Indian Express,India
+1453,1453, Kill Bill: Vol. 1 ,4,2003,Quentin Tarantino,Alaka Sahani,The Indian Express,India
+1454,1454, Inception ,5,2010,Christopher Nolan,Alaka Sahani,The Indian Express,India
+1455,1455, Talk to Her ,6,2002,Pedro Almodóvar,Alaka Sahani,The Indian Express,India
+1456,1456, Amores Perros ,7,2000,Alejandro González Iñárritu,Alaka Sahani,The Indian Express,India
+1457,1457, Infernal Affairs ,8,2002,Andrew Lau and Alan Mak,Alaka Sahani,The Indian Express,India
+1458,1458, Lost in Translation ,9,2003,Sofia Coppola,Alaka Sahani,The Indian Express,India
+1459,1459, Shrek ,10,2001,Andrew Adamson and Vicky Jenson,Alaka Sahani,The Indian Express,India
+1460,1460, The Time That Remains ,1,2009,Elia Suleiman,Rasha Salti,Independent curator/film programmer,Lebanon
+1461,1461, The Turin Horse ,2,2011,Béla Tarr and Ágnes Hranitzky,Rasha Salti,Independent curator/film programmer,Lebanon
+1462,1462, The Box of Life ,3,2002,Ossama Mohammed,Rasha Salti,Independent curator/film programmer,Lebanon
+1463,1463, Men at Work ,4,2006,Mani Haghighi,Rasha Salti,Independent curator/film programmer,Lebanon
+1464,1464, Tey ,5,2012,Alain Gomis,Rasha Salti,Independent curator/film programmer,Lebanon
+1465,1465, A Touch of Sin ,6,2013,Jia Zhangke,Rasha Salti,Independent curator/film programmer,Lebanon
+1466,1466, My Heart Beats Only for Her ,7,2009,Mohamed Soueid,Rasha Salti,Independent curator/film programmer,Lebanon
+1467,1467, Arabian Nights: Volume 1 – The Restless One ,8,2015,Miguel Gomes,Rasha Salti,Independent curator/film programmer,Lebanon
+1468,1468, Nostalgia for the Light ,9,2010,Patricio Guzmán,Rasha Salti,Independent curator/film programmer,Lebanon
+1469,1469," I Travel Because I Have To, I Come Back Because I Love You ",10,2009,Karim Aïnouz and Marcelo Gomes,Rasha Salti,Independent curator/film programmer,Lebanon
+1470,1470, Werckmeister Harmonies ,1,2000,Béla Tarr and Ágnes Hranitzky,Eric Sasono,Freelance film critic,Indonesia
+1471,1471, Leviathan ,2,2012,Lucien Castaing-Taylor and Verena Paravel,Eric Sasono,Freelance film critic,Indonesia
+1472,1472, The Gleaners and I ,3,2000,Agnès Varda,Eric Sasono,Freelance film critic,Indonesia
+1473,1473, The Great Beauty ,4,2013,Paolo Sorrentino,Eric Sasono,Freelance film critic,Indonesia
+1474,1474, The Act of Killing ,5,2012,Joshua Oppenheimer,Eric Sasono,Freelance film critic,Indonesia
+1475,1475," Norte, the End of History ",6,2013,Lav Diaz,Eric Sasono,Freelance film critic,Indonesia
+1476,1476, Caché ,7,2005,Michael Haneke,Eric Sasono,Freelance film critic,Indonesia
+1477,1477, Nostalgia for the Light ,8,2010,Patricio Guzmán,Eric Sasono,Freelance film critic,Indonesia
+1478,1478, Spirited Away ,9,2001,Hayao Miyazaki,Eric Sasono,Freelance film critic,Indonesia
+1479,1479, A Separation ,10,2011,Asghar Farhadi,Eric Sasono,Freelance film critic,Indonesia
+1480,1480, The New World ,1,2005,Terrence Malick,Nick Schager,Variety,US
+1481,1481, Mulholland Drive ,2,2001,David Lynch,Nick Schager,Variety,US
+1482,1482, Zodiac ,3,2007,David Fincher,Nick Schager,Variety,US
+1483,1483, There Will Be Blood ,4,2007,Paul Thomas Anderson,Nick Schager,Variety,US
+1484,1484, In the Mood for Love ,5,2000,Wong Kar-wai,Nick Schager,Variety,US
+1485,1485, Three Times ,6,2005,Hou Hsiao-hsien,Nick Schager,Variety,US
+1486,1486, The Tree of Life ,7,2011,Terrence Malick,Nick Schager,Variety,US
+1487,1487, The Act of Killing ,8,2012,Joshua Oppenheimer,Nick Schager,Variety,US
+1488,1488," Synecdoche, New York ",9,2008,Charlie Kaufman,Nick Schager,Variety,US
+1489,1489, Pulse ,10,2001,Kiyoshi Kurosawa,Nick Schager,Variety,US
+1490,1490, In the Mood for Love ,1,2000,Wong Kar-wai,Missy Schwartz,Freelance film critic,US
+1491,1491, Zero Dark Thirty ,2,2012,Kathryn Bigelow,Missy Schwartz,Freelance film critic,US
+1492,1492, Inside Out ,3,2015,Pete Docter,Missy Schwartz,Freelance film critic,US
+1493,1493, Brokeback Mountain ,4,2005,Ang Lee,Missy Schwartz,Freelance film critic,US
+1494,1494, The Departed ,5,2006,Martin Scorsese,Missy Schwartz,Freelance film critic,US
+1495,1495, 12 Years a Slave ,6,2013,Steve McQueen,Missy Schwartz,Freelance film critic,US
+1496,1496, Talk to Her ,7,2002,Pedro Almodóvar,Missy Schwartz,Freelance film critic,US
+1497,1497," Crouching Tiger, Hidden Dragon ",8,2000,Ang Lee,Missy Schwartz,Freelance film critic,US
+1498,1498, No Country For Old Men ,9,2007,Joel and Ethan Coen,Missy Schwartz,Freelance film critic,US
+1499,1499, Beginners ,10,2010,Mike Mills,Missy Schwartz,Freelance film critic,US
+1500,1500, Gett: The Trial of Viviane Amselem ,1,2014,Ronit Elkabetz and Shlomi Elkabetz,Matt Zoller Seitz,New York Magazine,US
+1501,1501, The Act of Killing ,2,2012,Joshua Oppenheimer,Matt Zoller Seitz,New York Magazine,US
+1502,1502, The Look of Silence ,3,2014,Joshua Oppenheimer,Matt Zoller Seitz,New York Magazine,US
+1503,1503, The Tree of Life ,4,2011,Terrence Malick,Matt Zoller Seitz,New York Magazine,US
+1504,1504, Knight of Cups ,5,2015,Terrence Malick,Matt Zoller Seitz,New York Magazine,US
+1505,1505, Inherent Vice ,6,2014,Paul Thomas Anderson,Matt Zoller Seitz,New York Magazine,US
+1506,1506, The Grand Budapest Hotel ,7,2014,Wes Anderson,Matt Zoller Seitz,New York Magazine,US
+1507,1507, A Separation ,8,2011,Asghar Farhadi,Matt Zoller Seitz,New York Magazine,US
+1508,1508, Godzilla ,9,2014,Gareth Edwards,Matt Zoller Seitz,New York Magazine,US
+1509,1509, Under the Skin ,10,2013,Jonathan Glazer,Matt Zoller Seitz,New York Magazine,US
+1510,1510, No ,1,2012,Pablo Larraín,Avner Shavit,Walla,Israel
+1511,1511, Persepolis ,2,2007,Vincent Paronnaud and Marjane Satrapi,Avner Shavit,Walla,Israel
+1512,1512, Boyhood ,3,2014,Richard Linklater,Avner Shavit,Walla,Israel
+1513,1513, Mulholland Drive ,4,2001,David Lynch,Avner Shavit,Walla,Israel
+1514,1514, The Hurt Locker ,5,2008,Kathryn Bigelow,Avner Shavit,Walla,Israel
+1515,1515, Girlhood ,6,2014,Céline Sciamma,Avner Shavit,Walla,Israel
+1516,1516, Eden ,7,2014,Mia Hansen-Løve,Avner Shavit,Walla,Israel
+1517,1517, A Touch of Sin ,8,2013,Jia Zhangke,Avner Shavit,Walla,Israel
+1518,1518, 24 Hour Party People ,9,2002,Michael Winterbottom,Avner Shavit,Walla,Israel
+1519,1519, Toni Erdmann ,10,2016,Maren Ade,Avner Shavit,Walla,Israel
+1520,1520, There Will Be Blood ,1,2007,Paul Thomas Anderson,Catherine Shoard,The Guardian,UK
+1521,1521, 12 Years a Slave ,2,2013,Steve McQueen,Catherine Shoard,The Guardian,UK
+1522,1522, Under the Skin ,3,2013,Jonathan Glazer,Catherine Shoard,The Guardian,UK
+1523,1523, Leviathan ,4,2014,Andrey Zvyagintsev,Catherine Shoard,The Guardian,UK
+1524,1524, The Great Beauty ,5,2013,Paolo Sorrentino,Catherine Shoard,The Guardian,UK
+1525,1525, Nebraska ,6,2013,Alexander Payne,Catherine Shoard,The Guardian,UK
+1526,1526, Before Sunset ,7,2004,Richard Linklater,Catherine Shoard,The Guardian,UK
+1527,1527, Team America: World Police ,8,2004,Trey Parker,Catherine Shoard,The Guardian,UK
+1528,1528, Dogville ,9,2003,Lars von Trier,Catherine Shoard,The Guardian,UK
+1529,1529, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,10,2006,Larry Charles,Catherine Shoard,The Guardian,UK
+1530,1530, Yi Yi: A One and a Two ,1,2000,Edward Yang,Yael Shuv,Time Out Tel Aviv,Israel
+1531,1531, Spirited Away ,2,2001,Hayao Miyazaki,Yael Shuv,Time Out Tel Aviv,Israel
+1532,1532, Margaret ,3,2011,Kenneth Lonergan,Yael Shuv,Time Out Tel Aviv,Israel
+1533,1533, There Will Be Blood ,4,2007,Paul Thomas Anderson,Yael Shuv,Time Out Tel Aviv,Israel
+1534,1534, The Grand Budapest Hotel ,5,2014,Wes Anderson,Yael Shuv,Time Out Tel Aviv,Israel
+1535,1535, Still Walking ,6,2008,Hirokazu Koreeda,Yael Shuv,Time Out Tel Aviv,Israel
+1536,1536, Moolaadé ,7,2004,Ousmane Sembène,Yael Shuv,Time Out Tel Aviv,Israel
+1537,1537, Memento ,8,2000,Christopher Nolan,Yael Shuv,Time Out Tel Aviv,Israel
+1538,1538, Oldboy ,9,2003,Park Chan-wook,Yael Shuv,Time Out Tel Aviv,Israel
+1539,1539," Crouching Tiger, Hidden Dragon ",10,2000,Ang Lee,Yael Shuv,Time Out Tel Aviv,Israel
+1540,1540, Boyhood ,1,2014,Richard Linklater,Matt Singer,ScreenCrush,US
+1541,1541, Holy Motors ,2,2012,Leos Carax,Matt Singer,ScreenCrush,US
+1542,1542, Mulholland Drive ,3,2001,David Lynch,Matt Singer,ScreenCrush,US
+1543,1543, Memento ,4,2000,Christopher Nolan,Matt Singer,ScreenCrush,US
+1544,1544, The Master ,5,2012,Paul Thomas Anderson,Matt Singer,ScreenCrush,US
+1545,1545, Inside Llewyn Davis ,6,2013,Joel and Ethan Coen,Matt Singer,ScreenCrush,US
+1546,1546, The Diving Bell and the Butterfly ,7,2007,Julian Schnabel,Matt Singer,ScreenCrush,US
+1547,1547, My Winnipeg ,8,2007,Guy Maddin,Matt Singer,ScreenCrush,US
+1548,1548, Inside Out ,9,2015,Pete Docter,Matt Singer,ScreenCrush,US
+1549,1549, Step Brothers ,10,2008,Adam McKay,Matt Singer,ScreenCrush,US
+1550,1550, Bright Star ,1,2009,Jane Campion,Justine A Smith,Freelance film critic,Canada
+1551,1551, Mad Max: Fury Road ,2,2015,George Miller,Justine A Smith,Freelance film critic,Canada
+1552,1552, Caché ,3,2005,Michael Haneke,Justine A Smith,Freelance film critic,Canada
+1553,1553, Zodiac ,4,2007,David Fincher,Justine A Smith,Freelance film critic,Canada
+1554,1554, Mr Turner ,5,2014,Mike Leigh,Justine A Smith,Freelance film critic,Canada
+1555,1555, Amour ,6,2012,Michael Haneke,Justine A Smith,Freelance film critic,Canada
+1556,1556, The Master ,7,2012,Paul Thomas Anderson,Justine A Smith,Freelance film critic,Canada
+1557,1557, Only Lovers Left Alive ,8,2013,Jim Jarmusch,Justine A Smith,Freelance film critic,Canada
+1558,1558, Inside Llewyn Davis ,9,2013,Joel and Ethan Coen,Justine A Smith,Freelance film critic,Canada
+1559,1559, Tabu ,10,2012,Miguel Gomes,Justine A Smith,Freelance film critic,Canada
+1560,1560, Memento ,1,2000,Christopher Nolan,Eric D Snider,Freelance film critic,US
+1561,1561, Requiem for a Dream ,2,2000,Darren Aronofsky,Eric D Snider,Freelance film critic,US
+1562,1562, The Lord of the Rings: The Return of the King ,3,2003,Peter Jackson,Eric D Snider,Freelance film critic,US
+1563,1563, Drive ,4,2011,Nicolas Winding Refn,Eric D Snider,Freelance film critic,US
+1564,1564, Holy Motors ,5,2012,Leos Carax,Eric D Snider,Freelance film critic,US
+1565,1565, Mad Max: Fury Road ,6,2015,George Miller,Eric D Snider,Freelance film critic,US
+1566,1566, Kill List ,7,2011,Ben Wheatley,Eric D Snider,Freelance film critic,US
+1567,1567, Toy Story 3 ,8,2010,Lee Unkrich,Eric D Snider,Freelance film critic,US
+1568,1568, Kiss Kiss Bang Bang ,9,2005,Shane Black,Eric D Snider,Freelance film critic,US
+1569,1569, Inside Llewyn Davis ,10,2013,Joel and Ethan Coen,Eric D Snider,Freelance film critic,US
+1570,1570, Mulholland Drive ,1,2001,David Lynch,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1571,1571, No Country For Old Men ,2,2007,Joel and Ethan Coen,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1572,1572, Amélie ,3,2001,Jean-Pierre Jeunet,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1573,1573, Memento ,4,2000,Christopher Nolan,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1574,1574, In the Mood for Love ,5,2000,Wong Kar-wai,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1575,1575, Talk to Her ,6,2002,Pedro Almodóvar,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1576,1576, Memories of Murder ,7,2003,Bong Joon-ho,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1577,1577, WALL-E ,8,2008,Andrew Stanton,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1578,1578, Bowling for Columbine ,9,2002,Michael Moore,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1579,1579, Children of Men ,10,2006,Alfonso Cuarón,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1580,1580, Mulholland Drive ,1,2001,David Lynch,Fernanda Solórzano,Letras Libres Magazine,Mexico
+1581,1581, Son of Saul ,2,2015,László Nemes,Fernanda Solórzano,Letras Libres Magazine,Mexico
+1582,1582, Ida ,3,2013,Paweł Pawlikowski,Fernanda Solórzano,Letras Libres Magazine,Mexico
+1583,1583, Eternal Sunshine of the Spotless Mind ,4,2004,Michel Gondry,Fernanda Solórzano,Letras Libres Magazine,Mexico
+1584,1584, The White Ribbon ,5,2009,Michael Haneke,Fernanda Solórzano,Letras Libres Magazine,Mexico
+1585,1585, Still Walking ,6,2008,Hirokazu Koreeda,Fernanda Solórzano,Letras Libres Magazine,Mexico
+1586,1586, The Act of Killing ,7,2012,Joshua Oppenheimer,Fernanda Solórzano,Letras Libres Magazine,Mexico
+1587,1587, Dogville ,8,2003,Lars von Trier,Fernanda Solórzano,Letras Libres Magazine,Mexico
+1588,1588, Birdman ,9,2014,Alejandro González Iñárritu,Fernanda Solórzano,Letras Libres Magazine,Mexico
+1589,1589, Grizzly Man ,10,2005,Werner Herzog,Fernanda Solórzano,Letras Libres Magazine,Mexico
+1590,1590, Amour ,1,2012,Michael Haneke,David Stratton,The Australian,Australia
+1591,1591, Distant ,2,2002,Nuri Bilge Ceylan,David Stratton,The Australian,Australia
+1592,1592, A Separation ,3,2011,Asghar Farhadi,David Stratton,The Australian,Australia
+1593,1593, Samson & Delilah ,4,2009,Warwick Thornton,David Stratton,The Australian,Australia
+1594,1594, Leviathan ,5,2014,Andrey Zvyagintsev,David Stratton,The Australian,Australia
+1595,1595, Still Walking ,6,2008,Hirokazu Koreeda,David Stratton,The Australian,Australia
+1596,1596, Talk to Her ,7,2002,Pedro Almodóvar,David Stratton,The Australian,Australia
+1597,1597, Million Dollar Baby ,8,2004,Clint Eastwood,David Stratton,The Australian,Australia
+1598,1598, No Country For Old Men ,9,2007,Joel and Ethan Coen,David Stratton,The Australian,Australia
+1599,1599, The Man Without A Past ,10,2002,Aki Kaurismäki,David Stratton,The Australian,Australia
+1600,1600, Mysteries of Lisbon ,1,2010,Raoul Ruiz,Cédric Succivalli,International Cinephile Society,Italy
+1601,1601, Margaret ,2,2011,Kenneth Lonergan,Cédric Succivalli,International Cinephile Society,Italy
+1602,1602, The New World ,3,2005,Terrence Malick,Cédric Succivalli,International Cinephile Society,Italy
+1603,1603, Secret Things ,4,2002,Jean-Claude Brisseau,Cédric Succivalli,International Cinephile Society,Italy
+1604,1604, La Ciénaga ,5,2001,Lucrecia Martel,Cédric Succivalli,International Cinephile Society,Italy
+1605,1605, Toni Erdmann ,6,2016,Maren Ade,Cédric Succivalli,International Cinephile Society,Italy
+1606,1606, In the Family ,7,2011,Patrick Wang,Cédric Succivalli,International Cinephile Society,Italy
+1607,1607, Tabu ,8,2012,Miguel Gomes,Cédric Succivalli,International Cinephile Society,Italy
+1608,1608, Gerry ,9,2002,Gus Van Sant,Cédric Succivalli,International Cinephile Society,Italy
+1609,1609, Tropical Malady ,10,2004,Apichatpong Weerasethakul,Cédric Succivalli,International Cinephile Society,Italy
+1610,1610, The Turin Horse ,1,2011,Béla Tarr and Ágnes Hranitzky,Alin Tasciyan,Star,Turkey
+1611,1611, The Return ,2,2003,Andrey Zvyagintsev,Alin Tasciyan,Star,Turkey
+1612,1612, The White Ribbon ,3,2009,Michael Haneke,Alin Tasciyan,Star,Turkey
+1613,1613, In the Mood for Love ,4,2000,Wong Kar-wai,Alin Tasciyan,Star,Turkey
+1614,1614, Songs from the Second Floor ,5,2000,Roy Andersson,Alin Tasciyan,Star,Turkey
+1615,1615, Journey to the West ,6,2014,Tsai Ming-liang,Alin Tasciyan,Star,Turkey
+1616,1616, The 3 Rooms of Melancholia ,7,2004,Pirjo Honkasalo,Alin Tasciyan,Star,Turkey
+1617,1617, The Gleaners and I ,8,2000,Agnès Varda,Alin Tasciyan,Star,Turkey
+1618,1618, Spirited Away ,9,2001,Hayao Miyazaki,Alin Tasciyan,Star,Turkey
+1619,1619, Japon ,10,2002,Carlos Reygadas,Alin Tasciyan,Star,Turkey
+1620,1620, Blue Is the Warmest Color ,1,2013,Abdellatif Kechiche,Charles Taylor,The Yale Review,US
+1621,1621, Only Lovers Left Alive ,2,2013,Jim Jarmusch,Charles Taylor,The Yale Review,US
+1622,1622, Mulholland Drive ,3,2001,David Lynch,Charles Taylor,The Yale Review,US
+1623,1623, Somewhere ,4,2010,Sofia Coppola,Charles Taylor,The Yale Review,US
+1624,1624, 25th Hour ,5,2002,Spike Lee,Charles Taylor,The Yale Review,US
+1625,1625, Inglourious Basterds ,6,2009,Quentin Tarantino,Charles Taylor,The Yale Review,US
+1626,1626, The Artist ,7,2011,Michel Hazanavicius,Charles Taylor,The Yale Review,US
+1627,1627, Phoenix ,8,2014,Christian Petzold,Charles Taylor,The Yale Review,US
+1628,1628, Femme Fatale ,9,2002,Brian De Palma,Charles Taylor,The Yale Review,US
+1629,1629, Fantastic Mr Fox ,10,2009,Wes Anderson,Charles Taylor,The Yale Review,US
+1630,1630, Neighboring Sounds ,1,2012,Kleber Mendonça Filho,Ella Taylor,NPR.org,US
+1631,1631, The Master ,2,2012,Paul Thomas Anderson,Ella Taylor,NPR.org,US
+1632,1632, The Band’s Visit ,3,2007,Eran Kolirin,Ella Taylor,NPR.org,US
+1633,1633, Time Out ,4,2001,Laurent Cantet,Ella Taylor,NPR.org,US
+1634,1634, Margaret ,5,2011,Kenneth Lonergan,Ella Taylor,NPR.org,US
+1635,1635, Ratatouille ,6,2007,Brad Bird and Jan Pinkava,Ella Taylor,NPR.org,US
+1636,1636, Burning Bush ,7,2013,Agnieszka Holland,Ella Taylor,NPR.org,US
+1637,1637," 4 Months, 3 Weeks & 2 Days ",8,2007,Cristian Mungiu,Ella Taylor,NPR.org,US
+1638,1638, Leviathan ,9,2014,Andrey Zvyagintsev,Ella Taylor,NPR.org,US
+1639,1639, Barbara ,10,2012,Christian Petzold,Ella Taylor,NPR.org,US
+1640,1640, The Assassin ,1,2015,Hou Hsiao-hsien,Stephen Teo,Nanyang Techological University,Singapore
+1641,1641, The Grand Budapest Hotel ,2,2014,Wes Anderson,Stephen Teo,Nanyang Techological University,Singapore
+1642,1642, Inception ,3,2010,Christopher Nolan,Stephen Teo,Nanyang Techological University,Singapore
+1643,1643, Uncle Boonmee Who Can Recall His Past Lives ,4,2010,Apichatpong Weerasethakul,Stephen Teo,Nanyang Techological University,Singapore
+1644,1644, The Act of Killing ,5,2012,Joshua Oppenheimer,Stephen Teo,Nanyang Techological University,Singapore
+1645,1645, No Country For Old Men ,6,2007,Joel and Ethan Coen,Stephen Teo,Nanyang Techological University,Singapore
+1646,1646, A Tale of Two Sisters ,7,2003,Kim Jee-woon,Stephen Teo,Nanyang Techological University,Singapore
+1647,1647, Still Life ,8,2006,Jia Zhangke,Stephen Teo,Nanyang Techological University,Singapore
+1648,1648, Spirited Away ,9,2001,Hayao Miyazaki,Stephen Teo,Nanyang Techological University,Singapore
+1649,1649, In the Mood for Love ,10,2000,Wong Kar-wai,Stephen Teo,Nanyang Techological University,Singapore
+1650,1650, Goodbye to Language ,1,2014,Jean-Luc Godard,Kristin Thompson,University of Wisconsin-Madison,US
+1651,1651, Russian Ark ,2,2002,Aleksandr Sokurov,Kristin Thompson,University of Wisconsin-Madison,US
+1652,1652, Holy Motors ,3,2012,Leos Carax,Kristin Thompson,University of Wisconsin-Madison,US
+1653,1653, In the Mood for Love ,4,2000,Wong Kar-wai,Kristin Thompson,University of Wisconsin-Madison,US
+1654,1654, Gravity ,5,2013,Alfonso Cuarón,Kristin Thompson,University of Wisconsin-Madison,US
+1655,1655, There Will Be Blood ,6,2007,Paul Thomas Anderson,Kristin Thompson,University of Wisconsin-Madison,US
+1656,1656, About Elly ,7,2009,Asghar Farhadi,Kristin Thompson,University of Wisconsin-Madison,US
+1657,1657, Moonrise Kingdom ,8,2012,Wes Anderson,Kristin Thompson,University of Wisconsin-Madison,US
+1658,1658, The Headless Woman ,9,2008,Lucrecia Martel,Kristin Thompson,University of Wisconsin-Madison,US
+1659,1659, Pan's Labyrinth ,10,2006,Guillermo Del Toro,Kristin Thompson,University of Wisconsin-Madison,US
+1660,1660, The Tree of Life ,1,2011,Terrence Malick,Scott Tobias,Freelance film critic,US
+1661,1661, Boyhood ,2,2014,Richard Linklater,Scott Tobias,Freelance film critic,US
+1662,1662, Zodiac ,3,2007,David Fincher,Scott Tobias,Freelance film critic,US
+1663,1663, Yi Yi: A One and a Two ,4,2000,Edward Yang,Scott Tobias,Freelance film critic,US
+1664,1664, Margaret ,5,2011,Kenneth Lonergan,Scott Tobias,Freelance film critic,US
+1665,1665, Meek's Cutoff ,6,2010,Kelly Reichardt,Scott Tobias,Freelance film critic,US
+1666,1666, 25th Hour ,7,2002,Spike Lee,Scott Tobias,Freelance film critic,US
+1667,1667, A Separation ,8,2011,Asghar Farhadi,Scott Tobias,Freelance film critic,US
+1668,1668, Certified Copy ,9,2010,Abbas Kiarostami,Scott Tobias,Freelance film critic,US
+1669,1669, There Will Be Blood ,10,2007,Paul Thomas Anderson,Scott Tobias,Freelance film critic,US
+1670,1670, Mulholland Drive ,1,2001,David Lynch,Peter Travers,Rolling Stone,US
+1671,1671, There Will Be Blood ,2,2007,Paul Thomas Anderson,Peter Travers,Rolling Stone,US
+1672,1672, No Country For Old Men ,3,2007,Joel and Ethan Coen,Peter Travers,Rolling Stone,US
+1673,1673, The Social Network ,4,2010,David Fincher,Peter Travers,Rolling Stone,US
+1674,1674, Children of Men ,5,2006,Alfonso Cuarón,Peter Travers,Rolling Stone,US
+1675,1675, The Departed ,6,2006,Martin Scorsese,Peter Travers,Rolling Stone,US
+1676,1676, In the Mood for Love ,7,2000,Wong Kar-wai,Peter Travers,Rolling Stone,US
+1677,1677, 12 Years a Slave ,8,2013,Steve McQueen,Peter Travers,Rolling Stone,US
+1678,1678, Memento ,9,2000,Christopher Nolan,Peter Travers,Rolling Stone,US
+1679,1679, Manchester by the Sea ,10,2016,Kenneth Lonergan,Peter Travers,Rolling Stone,US
+1680,1680, The Dark Knight ,1,2008,Christopher Nolan,Brian Truitt,USA Today,US
+1681,1681, Mad Max: Fury Road ,2,2015,George Miller,Brian Truitt,USA Today,US
+1682,1682, Captain America: Winter Soldier ,3,2014,Anthony and Joe Russo,Brian Truitt,USA Today,US
+1683,1683, Star Wars: Episode VII – The Force Awakens ,4,2015,J. J. Abrams,Brian Truitt,USA Today,US
+1684,1684, Love Actually ,5,2003,Richard Curtis,Brian Truitt,USA Today,US
+1685,1685, Brick ,6,2005,Rian Johnson,Brian Truitt,USA Today,US
+1686,1686, Chicago ,7,2002,Rob Marshall,Brian Truitt,USA Today,US
+1687,1687, Tropic Thunder ,8,2008,Ben Stiller,Brian Truitt,USA Today,US
+1688,1688, High Fidelity ,9,2000,Stephen Frears,Brian Truitt,USA Today,US
+1689,1689, Silver Linings Playbook ,10,2012,David O. Russell,Brian Truitt,USA Today,US
+1690,1690, City of God ,1,2002,Fernando Meirelles and Kátia Lund,Rahul Verma,Freelance film critic,UK
+1691,1691, The Dark Knight ,2,2008,Christopher Nolan,Rahul Verma,Freelance film critic,UK
+1692,1692, Pan's Labyrinth ,3,2006,Guillermo Del Toro,Rahul Verma,Freelance film critic,UK
+1693,1693, The Lives of Others ,4,2006,Florian Henckel von Donnersmarck,Rahul Verma,Freelance film critic,UK
+1694,1694, Four Lions ,5,2010,Christopher Morris,Rahul Verma,Freelance film critic,UK
+1695,1695, Amores Perros ,6,2000,Alejandro González Iñárritu,Rahul Verma,Freelance film critic,UK
+1696,1696, Gangs of Wasseypur ,7,2012,Anurag Kashyap,Rahul Verma,Freelance film critic,UK
+1697,1697, District 9 ,8,2009,Neill Blomkamp,Rahul Verma,Freelance film critic,UK
+1698,1698, Lagaan: Once Upon a Time in India ,9,2001,Ashutosh Gowariker,Rahul Verma,Freelance film critic,UK
+1699,1699, This Is England ,10,2006,Shane Meadows,Rahul Verma,Freelance film critic,UK
+1700,1700, Mulholland Drive ,1,2001,David Lynch,[],Taipei Golden Horse Film Festival,Taiwan
+1701,1701, The Assassin ,2,2015,Hou Hsiao-hsien,[],Taipei Golden Horse Film Festival,Taiwan
+1702,1702, A Separation ,3,2011,Asghar Farhadi,[],Taipei Golden Horse Film Festival,Taiwan
+1703,1703, Moulin Rouge! ,4,2001,Baz Luhrmann,[],Taipei Golden Horse Film Festival,Taiwan
+1704,1704, Tropical Malady ,5,2004,Apichatpong Weerasethakul,[],Taipei Golden Horse Film Festival,Taiwan
+1705,1705, In the Mood for Love ,6,2000,Wong Kar-wai,[],Taipei Golden Horse Film Festival,Taiwan
+1706,1706, Spirited Away ,7,2001,Hayao Miyazaki,[],Taipei Golden Horse Film Festival,Taiwan
+1707,1707," 4 Months, 3 Weeks & 2 Days ",8,2007,Cristian Mungiu,[],Taipei Golden Horse Film Festival,Taiwan
+1708,1708, Yi Yi: A One and a Two ,9,2000,Edward Yang,[],Taipei Golden Horse Film Festival,Taiwan
+1709,1709, Bowling for Columbine ,10,2002,Michael Moore,[],Taipei Golden Horse Film Festival,Taiwan
+1710,1710, Shame ,1,2011,Steve McQueen,Stephen Whitty,Freelance film critic,US
+1711,1711, There Will Be Blood ,2,2007,Paul Thomas Anderson,Stephen Whitty,Freelance film critic,US
+1712,1712, Pan's Labyrinth ,3,2006,Guillermo Del Toro,Stephen Whitty,Freelance film critic,US
+1713,1713, The Skin I Live In ,4,2011,Pedro Almodóvar,Stephen Whitty,Freelance film critic,US
+1714,1714, Boyhood ,5,2014,Richard Linklater,Stephen Whitty,Freelance film critic,US
+1715,1715, The Hurt Locker ,6,2008,Kathryn Bigelow,Stephen Whitty,Freelance film critic,US
+1716,1716," 4 Months, 3 Weeks & 2 Days ",7,2007,Cristian Mungiu,Stephen Whitty,Freelance film critic,US
+1717,1717, A Separation ,8,2011,Asghar Farhadi,Stephen Whitty,Freelance film critic,US
+1718,1718, The Royal Tenenbaums ,9,2001,Wes Anderson,Stephen Whitty,Freelance film critic,US
+1719,1719, No Country For Old Men ,10,2007,Joel and Ethan Coen,Stephen Whitty,Freelance film critic,US
+1720,1720, No Country For Old Men ,1,2007,Joel and Ethan Coen,Alissa Wilkinson,Christianity Today,US
+1721,1721, There Will Be Blood ,2,2007,Paul Thomas Anderson,Alissa Wilkinson,Christianity Today,US
+1722,1722, WALL-E ,3,2008,Andrew Stanton,Alissa Wilkinson,Christianity Today,US
+1723,1723, Spotlight ,4,2015,Tom McCarthy,Alissa Wilkinson,Christianity Today,US
+1724,1724, Once ,5,2007,John Carney,Alissa Wilkinson,Christianity Today,US
+1725,1725, The Social Network ,6,2010,David Fincher,Alissa Wilkinson,Christianity Today,US
+1726,1726, The Act of Killing ,7,2012,Joshua Oppenheimer,Alissa Wilkinson,Christianity Today,US
+1727,1727, Mad Max: Fury Road ,8,2015,George Miller,Alissa Wilkinson,Christianity Today,US
+1728,1728, Selma ,9,2014,Ava DuVernay,Alissa Wilkinson,Christianity Today,US
+1729,1729, Yi Yi: A One and a Two ,10,2000,Edward Yang,Alissa Wilkinson,Christianity Today,US
+1730,1730, Like Someone In Love ,1,2012,Abbas Kiarostami,Jake Wilson,Fairfax Media,Australia
+1731,1731, AI: Artificial Intelligence ,2,2001,Steven Spielberg,Jake Wilson,Fairfax Media,Australia
+1732,1732, The Story of Marie and Julien ,3,2003,Jacques Rivette,Jake Wilson,Fairfax Media,Australia
+1733,1733, The Deep Blue Sea ,4,2011,Terence Davies,Jake Wilson,Fairfax Media,Australia
+1734,1734, Film socialisme ,5,2010,Jean-Luc Godard,Jake Wilson,Fairfax Media,Australia
+1735,1735, The Tree of Life ,6,2011,Terrence Malick,Jake Wilson,Fairfax Media,Australia
+1736,1736, Blissfully Yours ,7,2002,Apichatpong Weerasethakul,Jake Wilson,Fairfax Media,Australia
+1737,1737, Be Kind Rewind ,8,2008,Michel Gondry,Jake Wilson,Fairfax Media,Australia
+1738,1738, Frontier of Dawn ,9,2008,Philippe Garrel,Jake Wilson,Fairfax Media,Australia
+1739,1739, I Don't Want to Sleep Alone ,10,2006,Tsai Ming-liang,Jake Wilson,Fairfax Media,Australia
+1740,1740, Mulholland Drive ,1,2001,David Lynch,Stephanie Zacharek,Time Magazine,US
+1741,1741, Kings and Queen ,2,2004,Arnaud Desplechin,Stephanie Zacharek,Time Magazine,US
+1742,1742, Yi Yi: A One and a Two ,3,2000,Edward Yang,Stephanie Zacharek,Time Magazine,US
+1743,1743, Oldboy ,4,2003,Park Chan-wook,Stephanie Zacharek,Time Magazine,US
+1744,1744, Antichrist ,5,2009,Lars von Trier,Stephanie Zacharek,Time Magazine,US
+1745,1745, Children of Men ,6,2006,Alfonso Cuarón,Stephanie Zacharek,Time Magazine,US
+1746,1746, Lost in Translation ,7,2003,Sofia Coppola,Stephanie Zacharek,Time Magazine,US
+1747,1747, Femme Fatale ,8,2002,Brian De Palma,Stephanie Zacharek,Time Magazine,US
+1748,1748, Casino Royale ,9,2006,Martin Campbell,Stephanie Zacharek,Time Magazine,US
+1749,1749, Blue Is the Warmest Color ,10,2013,Abdellatif Kechiche,Stephanie Zacharek,Time Magazine,US
+1750,1750, In the Mood for Love ,1,2000,Wong Kar-wai,Chadi Zeneddine,Doha Film Institute,Qatar
+1751,1751, The Tree of Life ,2,2011,Terrence Malick,Chadi Zeneddine,Doha Film Institute,Qatar
+1752,1752, A Prophet ,3,2009,Jacques Audiard,Chadi Zeneddine,Doha Film Institute,Qatar
+1753,1753, Amélie ,4,2001,Jean-Pierre Jeunet,Chadi Zeneddine,Doha Film Institute,Qatar
+1754,1754, Spirited Away ,5,2001,Hayao Miyazaki,Chadi Zeneddine,Doha Film Institute,Qatar
+1755,1755, Brokeback Mountain ,6,2005,Ang Lee,Chadi Zeneddine,Doha Film Institute,Qatar
+1756,1756, Talk to Her ,7,2002,Pedro Almodóvar,Chadi Zeneddine,Doha Film Institute,Qatar
+1757,1757, Mulholland Drive ,8,2001,David Lynch,Chadi Zeneddine,Doha Film Institute,Qatar
+1758,1758, Eternal Sunshine of the Spotless Mind ,9,2004,Michel Gondry,Chadi Zeneddine,Doha Film Institute,Qatar
+1759,1759, Amour ,10,2012,Michael Haneke,Chadi Zeneddine,Doha Film Institute,Qatar
+1760,1760," Spring, Summer, Fall, Winter…and Spring ",1,2003,Kim Ki-duk,Raymond Zhou,China Daily,China
+1761,1761, The Hours ,2,2002,Stephen Daldry,Raymond Zhou,China Daily,China
+1762,1762, The Sun Also Rises ,3,2007,Jiang Wen,Raymond Zhou,China Daily,China
+1763,1763, A Separation ,4,2011,Asghar Farhadi,Raymond Zhou,China Daily,China
+1764,1764," Lust, Caution ",5,2007,Ang Lee,Raymond Zhou,China Daily,China
+1765,1765, The Lives of Others ,6,2006,Florian Henckel von Donnersmarck,Raymond Zhou,China Daily,China
+1766,1766, Still Life ,7,2006,Jia Zhangke,Raymond Zhou,China Daily,China
+1767,1767, Birdman ,8,2014,Alejandro González Iñárritu,Raymond Zhou,China Daily,China
+1768,1768, Infernal Affairs ,9,2002,Andrew Lau and Alan Mak,Raymond Zhou,China Daily,China
+1769,1769, City of God ,10,2002,Fernando Meirelles and Kátia Lund,Raymond Zhou,China Daily,China

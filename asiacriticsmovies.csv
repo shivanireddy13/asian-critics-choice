@@ -1,0 +1,151 @@
+,movie_name,movie_rank,movie_year,movie_dir,critic_name,critic_org,critic_cn
+210, Amour ,1,2012,Michael Haneke,Utpal Borpujari,Freelance film critic,India
+211, A Separation ,2,2011,Asghar Farhadi,Utpal Borpujari,Freelance film critic,India
+212, In the Mood for Love ,3,2000,Wong Kar-wai,Utpal Borpujari,Freelance film critic,India
+213, A Prophet ,4,2009,Jacques Audiard,Utpal Borpujari,Freelance film critic,India
+214, Monsoon Wedding ,5,2001,Mira Nair,Utpal Borpujari,Freelance film critic,India
+215, Son of Saul ,6,2015,László Nemes,Utpal Borpujari,Freelance film critic,India
+216, Thithi ,7,2015,Raam Reddy,Utpal Borpujari,Freelance film critic,India
+217, Blue Is the Warmest Color ,8,2013,Abdellatif Kechiche,Utpal Borpujari,Freelance film critic,India
+218, No Man's Land ,9,2001,Danis Tanovic,Utpal Borpujari,Freelance film critic,India
+219, Waltz with Bashir ,10,2008,Ari Folman,Utpal Borpujari,Freelance film critic,India
+300, No Country For Old Men ,1,2007,Joel and Ethan Coen,Cho Seongyong,Freelance film critic,South Korea
+301, Boyhood ,2,2014,Richard Linklater,Cho Seongyong,Freelance film critic,South Korea
+302, Mulholland Drive ,3,2001,David Lynch,Cho Seongyong,Freelance film critic,South Korea
+303, Almost Famous ,4,2000,Cameron Crowe,Cho Seongyong,Freelance film critic,South Korea
+304," Synecdoche, New York ",5,2008,Charlie Kaufman,Cho Seongyong,Freelance film critic,South Korea
+305, Pan's Labyrinth ,6,2006,Guillermo Del Toro,Cho Seongyong,Freelance film critic,South Korea
+306, Minority Report ,7,2002,Steven Spielberg,Cho Seongyong,Freelance film critic,South Korea
+307, The Social Network ,8,2010,David Fincher,Cho Seongyong,Freelance film critic,South Korea
+308, The Tree of Life ,9,2011,Terrence Malick,Cho Seongyong,Freelance film critic,South Korea
+309, Memories of Murder ,10,2003,Bong Joon-ho,Cho Seongyong,Freelance film critic,South Korea
+620, Ankhon Dekhi ,1,2013,Rajat Kapoor,Shubhra Gupta,The Indian Express,India
+621, Court ,2,2014,Chaitanya Tamhane,Shubhra Gupta,The Indian Express,India
+622," LSD: Love, Sex Aur Dhokha ",3,2010,Dibakar Banerjee,Shubhra Gupta,The Indian Express,India
+623, Monsoon Wedding ,4,2001,Mira Nair,Shubhra Gupta,The Indian Express,India
+624, Dev D ,5,2009,Anurag Kashyap,Shubhra Gupta,The Indian Express,India
+625, Paan Singh Tomar ,6,2012,Tigmanshu Dhulia,Shubhra Gupta,The Indian Express,India
+626, Udaan ,7,2010,Vikramaditya Motwane,Shubhra Gupta,The Indian Express,India
+627, Hazaaron Khwaishein Aisi ,8,2003,Sudhir Mishra,Shubhra Gupta,The Indian Express,India
+628, Maqbool ,9,2003,Vishal Bhardwaj,Shubhra Gupta,The Indian Express,India
+629, Lagaan: Once Upon a Time in India ,10,2001,Ashutosh Gowariker,Shubhra Gupta,The Indian Express,India
+670, Notre musique ,1,2004,Jean-Luc Godard,Shiguehiko Hasumi,University of Tokyo,Japan
+671, Triple Agent ,2,2004,Éric Rohmer,Shiguehiko Hasumi,University of Tokyo,Japan
+672, The Assassin ,3,2015,Hou Hsiao-hsien,Shiguehiko Hasumi,University of Tokyo,Japan
+673, Gran Torino ,4,2008,Clint Eastwood,Shiguehiko Hasumi,University of Tokyo,Japan
+674, Horse Money ,5,2014,Pedro Costa,Shiguehiko Hasumi,University of Tokyo,Japan
+675, Fantastic Mr Fox ,6,2012,Wes Anderson,Shiguehiko Hasumi,University of Tokyo,Japan
+676, Holy Motors ,7,2012,Leos Carax,Shiguehiko Hasumi,University of Tokyo,Japan
+677, Death Proof – Grindhouse ,8,2007,Quentin Tarantino,Shiguehiko Hasumi,University of Tokyo,Japan
+678, Déjà Vu ,9,2006,Tony Scott,Shiguehiko Hasumi,University of Tokyo,Japan
+679, Seventh Code ,10,2013,Kiyoshi Kurosawa,Shiguehiko Hasumi,University of Tokyo,Japan
+750, The Dark Knight ,1,2008,Christopher Nolan,Aysha Iqbal,Indian Institute of Technology,India
+751, Inception ,2,2010,Christopher Nolan,Aysha Iqbal,Indian Institute of Technology,India
+752, Hero ,3,2002,Zhang Yimou,Aysha Iqbal,Indian Institute of Technology,India
+753, Inglourious Basterds ,4,2009,Quentin Tarantino,Aysha Iqbal,Indian Institute of Technology,India
+754, The Wolf of Wall Street ,5,2013,Martin Scorsese,Aysha Iqbal,Indian Institute of Technology,India
+755, Chakde! India ,6,2007,Shimit Amin,Aysha Iqbal,Indian Institute of Technology,India
+756, In the Mood for Love ,7,2000,Wong Kar-wai,Aysha Iqbal,Indian Institute of Technology,India
+757, No Country For Old Men ,8,2007,Joel and Ethan Coen,Aysha Iqbal,Indian Institute of Technology,India
+758, Maqbool ,9,2003,Vishal Bhardwaj,Aysha Iqbal,Indian Institute of Technology,India
+759, The Lives of Others ,10,2006,Florian Henckel von Donnersmarck,Aysha Iqbal,Indian Institute of Technology,India
+760, The Pianist ,1,2002,Roman Polanski,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+761, Only Lovers Left Alive ,2,2013,Jim Jarmusch,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+762, Uncle Boonmee Who Can Recall His Past Lives ,3,2010,Apichatpong Weerasethakul,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+763, Leviathan ,4,2014,Andrey Zvyagintsev,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+764, Amélie ,5,2001,Jean-Pierre Jeunet,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+765, Avatar ,6,2009,James Cameron,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+766, The Tree of Life ,7,2011,Terrence Malick,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+767, A Pigeon Sat on a Branch Reflecting on Existence ,8,2014,Roy Andersson,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+768, Boyhood ,9,2014,Richard Linklater,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+769, Coming Home ,10,2014,Zhang Yimou,Zhanna Issabayeva,Freelance film critic,Kazakhstan
+940, Yi Yi: A One and a Two ,1,2000,Edward Yang,Maggie Lee,Variety,Hong Kong
+941, Café Lumière ,2,2003,Hou Hsiao-hsien,Maggie Lee,Variety,Hong Kong
+942," 4 Months, 3 Weeks & 2 Days ",3,2007,Cristian Mungiu,Maggie Lee,Variety,Hong Kong
+943, The White Ribbon ,4,2009,Michael Haneke,Maggie Lee,Variety,Hong Kong
+944, In the Mood for Love ,5,2000,Wong Kar-wai,Maggie Lee,Variety,Hong Kong
+945, Millennium Actress ,6,2001,Satoshi Kon,Maggie Lee,Variety,Hong Kong
+946, Spirited Away ,7,2001,Hayao Miyazaki,Maggie Lee,Variety,Hong Kong
+947, A Separation ,8,2011,Asghar Farhadi,Maggie Lee,Variety,Hong Kong
+948, 35 Shots of Rum ,9,2008,Claire Denis,Maggie Lee,Variety,Hong Kong
+949, Toni Erdmann ,10,2016,Maren Ade,Maggie Lee,Variety,Hong Kong
+1000, Once Upon a Time in Anatolia ,1,2011,Nuri Bilge Ceylan,Laya Maheshwari,Freelance film critic,India
+1001, The Assassination of Jesse James by the Coward Robert Ford ,2,2007,Andrew Dominik,Laya Maheshwari,Freelance film critic,India
+1002, The Social Network ,3,2010,David Fincher,Laya Maheshwari,Freelance film critic,India
+1003, The Grand Budapest Hotel ,4,2014,Wes Anderson,Laya Maheshwari,Freelance film critic,India
+1004, The Lord of the Rings: The Fellowship of the Ring ,5,2001,Peter Jackson,Laya Maheshwari,Freelance film critic,India
+1005, The Tree of Life ,6,2011,Terrence Malick,Laya Maheshwari,Freelance film critic,India
+1006, Holy Motors ,7,2012,Leos Carax,Laya Maheshwari,Freelance film critic,India
+1007, Timbuktu ,8,2014,Abderrahmane Sissako,Laya Maheshwari,Freelance film critic,India
+1008, No ,9,2012,Pablo Larraín,Laya Maheshwari,Freelance film critic,India
+1009, Pan's Labyrinth ,10,2006,Guillermo Del Toro,Laya Maheshwari,Freelance film critic,India
+1170, Memento ,1,2000,Christopher Nolan,Ong Soh Chin,Freelance,Singapore
+1171, Oldboy ,2,2003,Park Chan-wook,Ong Soh Chin,Freelance,Singapore
+1172, The Circle ,3,2000,Jafar Panahi,Ong Soh Chin,Freelance,Singapore
+1173, The Lives of Others ,4,2006,Florian Henckel von Donnersmarck,Ong Soh Chin,Freelance,Singapore
+1174, Dirty Pretty Things ,5,2002,Stephen Frears,Ong Soh Chin,Freelance,Singapore
+1175, We Need to Talk About Kevin ,6,2011,Lynne Ramsay,Ong Soh Chin,Freelance,Singapore
+1176, The Imposter ,7,2012,Bart Layton,Ong Soh Chin,Freelance,Singapore
+1177, A Girl Walks Home Alone at Night ,8,2014,Ana Lily Amirpour,Ong Soh Chin,Freelance,Singapore
+1178, Mother ,9,2009,Bong Joon-ho,Ong Soh Chin,Freelance,Singapore
+1179, Bone Tomahawk ,10,2015,S. Craig Zahler,Ong Soh Chin,Freelance,Singapore
+1450, In the Mood for Love ,1,2000,Wong Kar-wai,Alaka Sahani,The Indian Express,India
+1451, The Lives of Others ,2,2006,Florian Henckel von Donnersmarck,Alaka Sahani,The Indian Express,India
+1452, Eternal Sunshine of the Spotless Mind ,3,2004,Michel Gondry,Alaka Sahani,The Indian Express,India
+1453, Kill Bill: Vol. 1 ,4,2003,Quentin Tarantino,Alaka Sahani,The Indian Express,India
+1454, Inception ,5,2010,Christopher Nolan,Alaka Sahani,The Indian Express,India
+1455, Talk to Her ,6,2002,Pedro Almodóvar,Alaka Sahani,The Indian Express,India
+1456, Amores Perros ,7,2000,Alejandro González Iñárritu,Alaka Sahani,The Indian Express,India
+1457, Infernal Affairs ,8,2002,Andrew Lau and Alan Mak,Alaka Sahani,The Indian Express,India
+1458, Lost in Translation ,9,2003,Sofia Coppola,Alaka Sahani,The Indian Express,India
+1459, Shrek ,10,2001,Andrew Adamson and Vicky Jenson,Alaka Sahani,The Indian Express,India
+1470, Werckmeister Harmonies ,1,2000,Béla Tarr and Ágnes Hranitzky,Eric Sasono,Freelance film critic,Indonesia
+1471, Leviathan ,2,2012,Lucien Castaing-Taylor and Verena Paravel,Eric Sasono,Freelance film critic,Indonesia
+1472, The Gleaners and I ,3,2000,Agnès Varda,Eric Sasono,Freelance film critic,Indonesia
+1473, The Great Beauty ,4,2013,Paolo Sorrentino,Eric Sasono,Freelance film critic,Indonesia
+1474, The Act of Killing ,5,2012,Joshua Oppenheimer,Eric Sasono,Freelance film critic,Indonesia
+1475," Norte, the End of History ",6,2013,Lav Diaz,Eric Sasono,Freelance film critic,Indonesia
+1476, Caché ,7,2005,Michael Haneke,Eric Sasono,Freelance film critic,Indonesia
+1477, Nostalgia for the Light ,8,2010,Patricio Guzmán,Eric Sasono,Freelance film critic,Indonesia
+1478, Spirited Away ,9,2001,Hayao Miyazaki,Eric Sasono,Freelance film critic,Indonesia
+1479, A Separation ,10,2011,Asghar Farhadi,Eric Sasono,Freelance film critic,Indonesia
+1570, Mulholland Drive ,1,2001,David Lynch,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1571, No Country For Old Men ,2,2007,Joel and Ethan Coen,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1572, Amélie ,3,2001,Jean-Pierre Jeunet,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1573, Memento ,4,2000,Christopher Nolan,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1574, In the Mood for Love ,5,2000,Wong Kar-wai,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1575, Talk to Her ,6,2002,Pedro Almodóvar,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1576, Memories of Murder ,7,2003,Bong Joon-ho,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1577, WALL-E ,8,2008,Andrew Stanton,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1578, Bowling for Columbine ,9,2002,Michael Moore,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1579, Children of Men ,10,2006,Alfonso Cuarón,Soh Jae Yong,Seoul Institute of the Arts,South Korea
+1640, The Assassin ,1,2015,Hou Hsiao-hsien,Stephen Teo,Nanyang Techological University,Singapore
+1641, The Grand Budapest Hotel ,2,2014,Wes Anderson,Stephen Teo,Nanyang Techological University,Singapore
+1642, Inception ,3,2010,Christopher Nolan,Stephen Teo,Nanyang Techological University,Singapore
+1643, Uncle Boonmee Who Can Recall His Past Lives ,4,2010,Apichatpong Weerasethakul,Stephen Teo,Nanyang Techological University,Singapore
+1644, The Act of Killing ,5,2012,Joshua Oppenheimer,Stephen Teo,Nanyang Techological University,Singapore
+1645, No Country For Old Men ,6,2007,Joel and Ethan Coen,Stephen Teo,Nanyang Techological University,Singapore
+1646, A Tale of Two Sisters ,7,2003,Kim Jee-woon,Stephen Teo,Nanyang Techological University,Singapore
+1647, Still Life ,8,2006,Jia Zhangke,Stephen Teo,Nanyang Techological University,Singapore
+1648, Spirited Away ,9,2001,Hayao Miyazaki,Stephen Teo,Nanyang Techological University,Singapore
+1649, In the Mood for Love ,10,2000,Wong Kar-wai,Stephen Teo,Nanyang Techological University,Singapore
+1700, Mulholland Drive ,1,2001,David Lynch,[],Taipei Golden Horse Film Festival,Taiwan
+1701, The Assassin ,2,2015,Hou Hsiao-hsien,[],Taipei Golden Horse Film Festival,Taiwan
+1702, A Separation ,3,2011,Asghar Farhadi,[],Taipei Golden Horse Film Festival,Taiwan
+1703, Moulin Rouge! ,4,2001,Baz Luhrmann,[],Taipei Golden Horse Film Festival,Taiwan
+1704, Tropical Malady ,5,2004,Apichatpong Weerasethakul,[],Taipei Golden Horse Film Festival,Taiwan
+1705, In the Mood for Love ,6,2000,Wong Kar-wai,[],Taipei Golden Horse Film Festival,Taiwan
+1706, Spirited Away ,7,2001,Hayao Miyazaki,[],Taipei Golden Horse Film Festival,Taiwan
+1707," 4 Months, 3 Weeks & 2 Days ",8,2007,Cristian Mungiu,[],Taipei Golden Horse Film Festival,Taiwan
+1708, Yi Yi: A One and a Two ,9,2000,Edward Yang,[],Taipei Golden Horse Film Festival,Taiwan
+1709, Bowling for Columbine ,10,2002,Michael Moore,[],Taipei Golden Horse Film Festival,Taiwan
+1760," Spring, Summer, Fall, Winter…and Spring ",1,2003,Kim Ki-duk,Raymond Zhou,China Daily,China
+1761, The Hours ,2,2002,Stephen Daldry,Raymond Zhou,China Daily,China
+1762, The Sun Also Rises ,3,2007,Jiang Wen,Raymond Zhou,China Daily,China
+1763, A Separation ,4,2011,Asghar Farhadi,Raymond Zhou,China Daily,China
+1764," Lust, Caution ",5,2007,Ang Lee,Raymond Zhou,China Daily,China
+1765, The Lives of Others ,6,2006,Florian Henckel von Donnersmarck,Raymond Zhou,China Daily,China
+1766, Still Life ,7,2006,Jia Zhangke,Raymond Zhou,China Daily,China
+1767, Birdman ,8,2014,Alejandro González Iñárritu,Raymond Zhou,China Daily,China
+1768, Infernal Affairs ,9,2002,Andrew Lau and Alan Mak,Raymond Zhou,China Daily,China
+1769, City of God ,10,2002,Fernando Meirelles and Kátia Lund,Raymond Zhou,China Daily,China
